@@ -1,0 +1,356 @@
+ and ,dan
+"(Absolute path or Relative to Magento install root, ex. var/export)","(Path mutlak atau relatif ke Magento menginstal root, mantan var / ekspor.)"
+(For US 2-letter state names),(Untuk US nama negara 2 huruf)
+(If left empty will be auto-generated),(Jika dibiarkan kosong akan otomatis dihasilkan)
+(Leave empty for first spreadsheet),(Biarkan kosong untuk spreadsheet pertama)
+(Products will be added/updated to this store if 'store' column is blank or missing in the import file.),(Produk akan ditambahkan / diupdate ke toko ini jika kolom 'toko' kosong atau hilang dalam file impor.)
+(Shift-)Click or drag to change value,(Shift-) Klik atau seret untuk mengubah nilai
+(Starting with),(Dimulai dengan)
+"(When 'No', only mapped fields will be imported. When mapping, use 'column1', 'column2', etc.)","(Ketika 'Tidak', bidang hanya dipetakan akan diimpor. Ketika pemetaan, penggunaan 'column1', 'column2', dll)"
+(You have to increase php memory_limit before changing this value),(Anda harus meningkatkan php memory_limit sebelum mengubah nilai ini)
+(\t for tab),(\ T untuk tab)
+#NAME?,#NAME?
+#NAME?,#NAME?
+- Use the %s buttons to select month,- Gunakan tombol% ??s untuk memilih bulan
+"- Use the %s, %s buttons to select year","- Gunakan%s, tombol% ??s untuk memilih tahun"
+#NAME?,#NAME?
+#NAME?,#NAME?
+API:,API:
+About the calendar,Tentang kalender
+Access Denied.,Akses Ditolak.
+Account Created in:,Rekening Dibuat di:
+Account Created on (%s):,Rekening Dibuat (%s):
+Account Created on:,Akun Dibuat pada:
+Action,Tindakan
+Actions,Tindakan
+Add,Menambahkan
+Add Contents Path,Tambahkan Isi Jalur
+Add Field with URL:,Tambahkan Lapangan dengan URL:
+Add Maintainer,Tambahkan Maintainer
+Add New Role,Tambahkan Peran Baru
+Add New Template,Tambahkan Template Baru
+Add New User,Add New Pengguna
+Add PHP Extension dependency,Tambahkan PHP Ekstensi ketergantungan
+Add Package dependency,Tambahkan Paket ketergantungan
+Add Subpackage dependency,Tambahkan sub-paket ketergantungan
+Add new store view map,Tambah baru lihat toko peta
+Add new website map,Tambahkan peta situs baru
+Address Type:,Tipe Alamat:
+All,Semua
+All Websites,Semua Website
+All fields,Semua bidang
+Archive file name:,Arsip nama file:
+Are you sure that you want to delete this template?,Apakah Anda yakin bahwa Anda ingin menghapus template ini?
+Are you sure that you want to strip tags?,Apakah Anda yakin bahwa Anda ingin menghapus tag?
+Attribute Set Name:,Atribut Set Nama:
+Attributes,Atribut
+Available Products,Produk yang tersedia
+Big Image,Big Gambar
+Billing Address,Penagihan Alamat
+Bundle Items,Bundle Item
+Bundle with dynamic pricing cannot include custom defined options. Options will not be saved.,Bundle dengan harga yang dinamis tidak dapat menyertakan opsi didefinisikan kustom. Pilihan tidak akan disimpan.
+CSV / Tab separated,CSV / Tab dipisahkan
+Card Verification Number,Verifikasi Nomor Kartu
+Catalog,Katalog
+Channel,Saluran
+Channel:,Channel:
+Choose Store View,Pilih Toko View
+Client Session timeout (sec.),Sesi klien timeout (sec.)
+Close,Dekat
+Comments History,Komentar Sejarah
+Confirmed email:,Email dikonfirmasi:
+Connect with the Magento Community,Hubungkan dengan Komunitas Magento
+Contents,Isi
+Country:,Negara:
+Create New Staging Store View,Buat New Staging Toko View
+Create a backup,Buat cadangan
+Created <strong>%s</strong> items,Dibuat <strong>%s </ strong> item
+Credit Card Number,Nomor Kartu Kredit
+Credit Card Number: xxxx-%s,Nomor Kartu Kredit: xxxx-%s
+Credit Card Type,Kartu Kredit Jenis
+Credit Card Type: %s,Kartu Kredit Jenis:%s
+Credit Memo History,Sejarah Memo Kredit
+Credit Memo Totals,Total Memo Kredit
+Current Configuration Scope:,Konfigurasi saat Cakupan:
+Current Release Information,Informasi Rilis saat ini
+Custom,Adat
+Customer Group:,Kelompok pelanggan:
+Customer Since:,Pelanggan Sejak:
+Customers,Pelanggan
+DHTML Date/Time Selector,DHTML Tanggal / Waktu Pemilih
+Dashboard,Dasbor
+Data Format,Data Format
+Data transfer:,Transfer data:
+Date selection:,Tanggal seleksi:
+Date selector,Tanggal pemilih
+Date:,Tanggal:
+Decimal separator:,Desimal pemisah:
+Default (Admin) Values,Default (Admin) Nilai
+Default Values,Nilai Default
+Delete,Hapus
+Dependencies,Dependensi
+Description:,Keterangan:
+Direction:,Arah:
+Display %s first,Tampilan%s pertama
+Distributed under GNU LGPL. See %s for details.,Didistribusikan di bawah GNU LGPL. Lihat%s untuk rincian.
+Done By:,Dilakukan Oleh:
+Done by:,Dilakukan oleh:
+Download Remote File,Unduh Remote File
+Drag to move,Seret untuk bergerak
+Edit Role,Mengedit Peran
+Edit User '%s',Mengedit Pengguna%s '
+Email,Email
+Email Preview,Email Preview
+Email:,Email:
+Enclose Values In:,Lampirkan Nilai Dalam:
+Entity type:,Jenis entitas:
+Excl. Tax,Excl. Pajak
+Exclude,Mengecualikan
+Expiration Date,Tanggal Kadaluarsa
+Expiration Date: %s/%s,Tanggal Kadaluarsa:%s /%s
+Export,Ekspor
+Export Filters,Filter ekspor
+Export to:,Ekspor ke:
+Export:,Ekspor:
+Extension,Perpanjangan
+Extensions,Ekstensi
+FTP Host[:Port],FTP host [: Port]
+Field Mapping,Pemetaan bidang
+File Information,Informasi berkas
+File name:,Nama file:
+Final Price,Akhir Harga
+Finished items creation.,Selesai penciptaan item.
+First Name:,Nama Depan:
+For latest version visit: %s,Untuk versi terbaru kunjungi:%s
+From,Dari
+General Settings,Pengaturan Umum
+Get help for this page,Dapatkan bantuan untuk halaman ini
+Global Record Search,Global Rekam Cari
+Go Today,Pergi Hari
+Google Base Items,Google Base Produk
+Group:,Kelompok:
+Help Us Keep Magento Healthy - Report All Bugs,Bantu Kami Tetap Sehat Magento - Laporkan Semua Bugs
+Ignore,Mengabaikan
+Images,Images
+Import,Impor
+Import Service,Layanan impor
+In Database:,Dalam database:
+In File:,Dalam File:
+Inactive,Non-aktif
+Incl. Tax,Incl. Pajak
+Include,Memasukkan
+Installed As,Dipasang Sebagai
+Interactive,Interaktif
+Interface Locale: %s,Antarmuka Lokal:%s
+Invalid webservice adapter specified,Adaptor jejaring tidak valid
+Invalid webservice handler specified,Handler jejaring tidak valid
+Invoice History,Faktur Sejarah
+Invoice Totals,Total Faktur
+Issue Number,Jumlah masalah
+Issuer: %s,Penerbit:%s
+Items to merge,Item untuk menggabungkan
+Last 5 Orders,5 Pesanan terakhir
+Last 5 Search Terms,5 Pencarian terakhir
+Last Logged In (%s):,Terakhir Tercatat Dalam (%s):
+Last Logged In:,Terakhir Logged In:
+Last Name:,Nama Terakhir:
+Latest Message:,Pesan terbaru:
+Leave empty to use tax identifier,Biarkan kosong untuk menggunakan identifier pajak
+Level,Tingkat
+License:,Lisensi:
+Loading...,Loading ...
+Local Server,Server Lokal
+Local/Remote Server,Lokal / Remote Server
+Log Out,Keluar
+Logged in as %s,Login sebagai%s
+MS Excel XML,MS Excel XML
+Magento Core Api,Magento Inti Api
+Magento Core Api Section,Bagian Magento Inti Api
+Magento Logo,Magento Logo
+Magento ver. %s,Magento ver. %s
+Magento&trade; is a trademark of Irubin Consulting Inc. DBA Varien.<br/>Copyright &copy; %s Irubin Consulting Inc.,Magento & perdagangan; adalah merek dagang dari Irubin Consulting Inc DBA Varien <br/> Copyright & copy.; %s Irubin Consulting Inc.
+Maintainers,Pengelola
+Manage Stores,Mengelola Toko
+Mapping Configuration,Konfigurasi pemetaan
+Max,Max
+Merge Now,Gabung Sekarang
+Min,Min
+Module version conflict!,Modul konflik versi!
+N/A,N / A
+Name,Nama
+Name on Card,Nama pada kartu
+Name on the Card: %s,Nama pada Kartu:%s
+Name:,Nama:
+Next month (hold for menu),Bulan depan (tahan untuk menu)
+Next page,Halaman berikutnya
+Next year (hold for menu),Tahun depan (tahan untuk menu)
+No,Tidak
+No Data Found,Tidak ada data Ditemukan
+No search keywords.,Tidak ada kata kunci pencarian.
+Note:,Catatan:
+Notes:,Catatan:
+Number of records:,Jumlah catatan:
+Old rate:,Tingkat Old:
+Only mapped fields,Bidang Hanya dipetakan
+Order Totals,Agar Total
+Order confirmation email not sent,Agar email konfirmasi tidak dikirim
+Order confirmation email sent,Email konfirmasi pesanan dikirim
+Original Magento attribute names in first row:,Asli Magento atribut nama dalam baris pertama:
+Package,Paket
+Package Information,Paket Informasi
+Packages,Paket
+Page,Halaman
+Passive mode,Mode pasif
+Password,Kata sandi
+Path,Jalan
+Path:,Path:
+PayPal Email,PayPal Email
+Personal Information,Informasi Pribadi
+Phone:,Telepon:
+Please confirm site switching. All data that hasn't been saved will be lost.,Silahkan konfirmasi situs switching. Semua data yang belum disimpan akan hilang.
+Please enter 6 or more characters.,Cukup masukkan 6 atau lebih karakter.
+Please enter a number greater than 0 in this field.,Masukkan nomor lebih besar dari 0 di bidang ini.
+Please enter a valid $ amount. For example $100.00.,"Masukkan $ jumlah valid. Misalnya $ 100,00."
+Please enter a valid URL. For example http://www.example.com or www.example.com,Cukup masukkan URL yang valid. Misalnya http://www.example.com atau www.example.com
+Please enter a valid URL. http:// is required,Cukup masukkan URL yang valid. http: // diperlukan
+Please enter a valid credit card number.,Masukkan nomor kartu kredit yang valid.
+Please enter a valid date.,Masukkan tanggal yang valid.
+Please enter a valid email address. For example johndoe@domain.com.,Silakan masukkan alamat email yang valid. Misalnya johndoe@domain.com.
+Please enter a valid number in this field.,Masukkan nomor yang valid di bidang ini.
+Please enter a valid phone number. For example (123) 456-7890 or 123-456-7890.,Masukkan nomor telepon yang valid. Misalnya (123) 456-7890 atau 123-456-7890.
+Please enter a valid social security number. For example 123-45-6789.,Masukkan nomor jaminan sosial yang valid. Misalnya 123-45-6789.
+Please enter a valid value from list,Masukkan nilai yang valid dari daftar
+"Please enter a valid value, ex: 10,20,30","Masukkan nilai yang valid, ex: 10,20,30"
+Please enter a valid zip code.,Masukkan kode pos yang valid.
+Please enter a valid zip code. For example 90602 or 90602-1234.,Masukkan kode pos yang valid. Misalnya 90.602 atau 90602-1234.
+Please enter valid password.,Silakan masukkan password yang valid.
+Please make sure that your changes were saved before running the profile.,Pastikan bahwa perubahan diselamatkan sebelum menjalankan profil.
+Please make sure your passwords match.,Pastikan password Anda cocok.
+Please select State/Province.,Silakan pilih Negara / Propinsi.
+Please select an option.,Silakan pilih opsi.
+Please select one of the above options.,Silakan pilih salah satu dari pilihan di atas.
+Please select one of the options.,Silakan pilih salah satu opsi.
+"Please use in this field only ""a-z,0-9,_"".","Silakan gunakan di bidang ini hanya ""a-z, 0-9, _""."
+Please use letters only (a-z) in this field.,Silakan menggunakan huruf saja (a-z) dalam bidang ini.
+Please use numbers only in this field. please avoid spaces or other characters such as dots or commas.,Silakan gunakan nomor satunya dalam bidang ini. silakan menghindari spasi atau karakter lain seperti titik atau koma.
+Please use only letters (a-z) or numbers (0-9) only in this field. No spaces or other characters are allowed.,Silakan gunakan hanya huruf (az) atau angka (0-9) hanya dalam bidang ini. Tidak ada spasi atau karakter lain yang diizinkan.
+Please use only letters (a-z) or numbers (0-9) or spaces and # only in this field.,Silakan gunakan hanya huruf (az) atau angka (0-9) atau ruang dan # hanya dalam bidang ini.
+"Please use this date format: dd/mm/yyyy. For example 17/03/2006 for the 17th of March, 2006.",Silakan menggunakan tanggal ini Format: hh / bb / tttt. Misalnya 17/03/2006 untuk 17 Maret 2006.
+"Please wait, loading...","Silakan tunggu, bongkar ..."
+"Please, select a store view","Silakan, pilih tampilan toko"
+Prev. month (hold for menu),Prev. bulan (berlaku untuk menu)
+Prev. year (hold for menu),Prev. tahun (tahan untuk menu)
+Previous page,Halaman sebelumnya
+Price,Harga
+Price:,Harga:
+Primary Billing Address,Primer Alamat Penagihan
+Processed <strong>%s%% %s/%d</strong> items,Olahan <strong>%s %%%s / d% </ strong> item
+Product,Produk
+Products,Produk
+Profile Information,Informasi Profil
+Provided Files,File yang tersedia
+Qty,Qty
+Read details,Baca detail
+Recommended,Direkomendasikan
+Remote FTP,Terpencil FTP
+Remote URL:,Terpencil URL:
+Remove,Menghapus
+Resource Access,Sumber daya Access
+Resources,Sumber
+Role,Peran
+Role Users,Pengguna Peran
+Roles,Peran
+Roles Resources,Peran Sumber Daya
+SKU,SKU
+SKU:,SKU:
+Schedule Merge,Jadwal Gabung
+Select All,Pilih Semua
+Select Date,Pilih Tanggal
+Select Range,Pilih Rentang
+Select Visible,Pilih Terlihat
+Select date,Pilih tanggal
+Select website from map,Pilih situs dari peta
+Select website to map,Pilih situs untuk memetakan
+Shipment Comments,Pengiriman Komentar
+Shipment History,Sejarah Pengiriman
+Shipping Address,Alamat Pengiriman
+Shipping address selection is not applicable,Temukan alamat pengiriman tidak berlaku
+Shipping method selection is not applicable,Pemilihan metode pengiriman tidak berlaku
+Show Report for,Tampilkan Laporan
+Show by,Tampilkan oleh
+Some items in this order have different invoice and shipment types. You can create shipment only after the invoice is created.,Beberapa item dalam urutan ini memiliki faktur dan pengiriman yang berbeda jenis. Anda dapat membuat pengiriman hanya setelah faktur dibuat.
+Sort Order,Urutan Sortir
+Spreadsheet Name:,Spreadsheet Nama:
+Staging Store: ,Staging Store:
+Staging Website: ,Staging Website:
+Start Date,Mulai Tanggal
+State/Province:,State / Province:
+Status,Status
+Status:,Status:
+Stock Quantity:,Persediaan Banyaknya:
+Store:,Toko:
+Store: ,Toko:
+Subpackage,Sub-paket
+Subpackages,Subpackages
+Summary:,Ringkasan:
+Switch/Solo Only,Switch / Hanya Solo
+Switch/Solo card issue number: %s,Switch / jumlah masalah kartu Solo:%s
+Switch/Solo card start Date: %s/%s,Switch / Solo kartu start Tanggal:%s /%s
+Switch/Solo/Maestro(UK Domestic) Only,Switch / Solo / Maestro (UK Domestik) Hanya
+Switch/Solo/Maestro(UK Domestic) card issue number: %s,Nomor isu switch / Solo / Maestro (UK Domestik) kartu:%s
+Switch/Solo/Maestro(UK Domestic) card start Date: %s/%s,Switch / Solo / Maestro (UK Domestik) kartu start Tanggal:%s /%s
+The information in this tab has been changed.,Informasi dalam tab ini telah berubah.
+This is a required field.,Ini adalah bidang yang dibutuhkan.
+This tab contains invalid data. Please solve the problem before saving.,Tab ini berisi data yang tidak valid. Silakan memecahkan masalah sebelum menyimpan.
+Thumbnail,Kuku ibu jari
+Time selection:,Waktu pemilihan:
+Time:,Waktu:
+To,Untuk
+Top 5 Search Terms,Top 5 Pencarian
+Total %d records found,Total% d hasil yang ditemukan
+Track order,Agar track
+Track this shipment,Melacak kiriman ini
+Type,Jenis
+Type:,Jenis:
+Unable to login.,Tidak dapat login.
+Unselect All,Unselect Semua
+Unselect Visible,Unselect Terlihat
+Upgrade All Available Packages,Meng-upgrade Semua Paket Tersedia
+Upload Local File,Upload File Lokal
+Upload local file:,Upload file lokal:
+Use Default Value,Gunakan Nilai Default
+User,Pemakai
+User Name,User name
+User Roles,Peran Pengguna
+User name,User name
+Users,Pengguna
+Value Delimiter:,Nilai Pembatas:
+Version:,Versi:
+View,Pandangan
+View Statistics for,Lihat Statistik untuk
+Visibility:,Visibilitas:
+Warning! Empty value can cause problems with CSV format.,Peringatan! Nilai kosong dapat menyebabkan masalah dengan format CSV.
+Warning!rnThis action will remove this user from already assigned rolernAre you sure?,Peringatan! RnThis tindakan akan menghapus pengguna ini dari yang sudah ditetapkan rolernAre Anda yakin?
+Warning!rnThis action will remove those users from already assigned rolesrnAre you sure?,Peringatan! RnThis tindakan akan menghapus para pengguna dari yang sudah ditetapkan rolesrnAre Anda yakin?
+Web Services,Layanan Web
+Web Services Configuration,Konfigurasi Web Services
+Website: ,Website:
+Websites,Website
+Websites / Stores,Website / Toko
+What is this?,Apa ini?
+Yes,Iya Nih
+You have,Kamu punya
+Your Account has been deactivated.,Akun Anda telah dinonaktifkan.
+Your server PHP settings allow you to upload files not more than %s at a time. Please modify post_max_size (currently is %s) and upload_max_filesize (currently is %s) values in php.ini if you want to upload larger files.,Anda pengaturan PHP Server memungkinkan Anda untuk meng-upload file tidak lebih dari%s pada suatu waktu. Silakan memodifikasi post_max_size (saat ini%s) dan upload_max_filesize (saat ini%s) nilai-nilai dalam php.ini jika Anda ingin meng-upload file yang lebih besar.
+Zip/Postal Code:,Zip / Postal Code:
+critical,kritis
+images/logo.gif,images / logo.gif
+items selected,item yang dipilih
+major,utama
+md5sum,md5sum
+minor,minor
+notice,pemberitahuan
+of %s pages,%s halaman
+or,atau
+per page,per halaman
+to,untuk

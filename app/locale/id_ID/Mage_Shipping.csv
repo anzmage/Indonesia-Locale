@@ -1,0 +1,92 @@
+ for more information or ,untuk informasi lebih lanjut atau
+# of Items (and above),# Item (dan di atas)
+# of Items vs. Destination,# Item vs tujuan
+Allow Shipping to Multiple Addresses,Biarkan Pengiriman ke Beberapa Alamat
+An error occurred while import table rates.,Terjadi kesalahan saat tarif meja impor.
+Calculate Handling Fee,Hitung Biaya Penanganan
+Carrier:,Pembawa:
+City,Kota
+Close Window,Tutup Jendela
+Condition,Kondisi
+Country,Negara
+Date,Tanggal
+Delivered on:,Disampaikan pada:
+Delivered to:,Disampaikan ke:
+Description,Deskripsi
+Displayed Error Message,Ditampilkan Pesan Kesalahan
+Divide to equal weight (one request),Bagilah berat yang sama (satu permintaan)
+"Duplicate Row #%s (Country ""%s"", Region/State ""%s"", Zip ""%s"" and Value ""%s"").","Gandakan Row #%s (Negara ""%s"", Kawasan / Negara ""%s"", Zip ""%s"" dan nilai ""%s"")."
+Enabled,Diaktifkan
+Error:,Kesalahan:
+Export,Ekspor
+File has not been imported. See the following list of errors: %s,File belum diimpor. Lihat daftar berikut kesalahan:%s
+Fixed,Tetap
+Flat Rate,Harga rata-rata
+Free Shipping,Gratis Pengiriman
+Google Sitemap Section,Bagian Google Sitemap
+Handling Fee,Biaya Penanganan
+Import,Impor
+Include Virtual Products in Price Calculation,Sertakan Produk Virtual di Harga Perhitungan
+Info:,Info:
+"Invalid %s ""%s"" in the Row #%s.","%s tidak valid ""%s"" di Row #%s."
+"Invalid Country ""%s"" in the Row #%s.","Valid Negara ""%s"" di Row #%s."
+"Invalid Region/State ""%s"" in the Row #%s.","Wilayah valid / Negara ""%s"" di Row #%s."
+"Invalid Shipping Price ""%s"" in the Row #%s.","Valid Pengiriman Harga ""%s"" di Row #%s."
+Invalid Table Rate code for type %s: %s,Kode Tabel Tingkat valid untuk tipe%s:%s
+Invalid Table Rate code type: %s,Valid jenis kode Table Tingkat:%s
+Invalid Table Rates File Format,Tarif Tabel valid File Format
+Invalid Table Rates format in the Row #%s,Format Tabel Tarif tidak valid di Row #%s
+Local Time,Waktu Setempat
+Location,Tempat
+Maximum Qty Allowed for Shipping to Multiple Addresses,Jumlah maksimum Diizinkan untuk Pengiriman ke Beberapa Alamat
+Method Name,Nama metode
+Minimum Order Amount,Pesanan Jumlah Minimum
+N/A,N / A
+None,Tak satupun
+Options,Pilihan
+Order Subtotal (and above),Agar Subtotal (dan di atas)
+Origin,Asal
+Per Order,Per Orde
+Per Package,Per Paket
+Percent,Persen
+Price,Harga
+Price vs. Destination,Harga vs Destination
+Region/State,Wilayah / Negara
+Service Type:,Jenis Layanan:
+Ship to Applicable Countries,Kapal ke Negara Berlaku
+Ship to Specific Countries,Kapal ke Negara-Negara Tertentu
+Shipment #,Pengiriman #
+Shipment Tracking Popup,Pengiriman Tracking Popup
+Shipped or billed on:,Dikirim atau ditagih pada:
+Shipping Methods,Metode Pengiriman
+Shipping Methods Section,Metode pengiriman Bagian
+Shipping Settings,Pengaturan Pengiriman
+Shipping Settings Section,Pengaturan pengiriman Bagian
+Show Method if Not Applicable,Tampilkan Metode jika Tidak Berlaku
+Signed by:,Ditandatangani oleh:
+Sort Order,Urutan Sortir
+Status:,Status:
+Store Pickup,Toko Pickup
+Street Address,Alamat Jalan
+Street Address Line 2,Alamat Jalan Jalur 2
+Table Rates,Tabel Tarif
+The shipping module is not available for selected delivery country.,Modul pengiriman tidak tersedia untuk negara pengiriman yang dipilih.
+The shipping module is not available.,Modul pengiriman tidak tersedia.
+There is no tracking available for this shipment.,Tidak ada pelacakan tersedia untuk pengiriman ini.
+There is no tracking available.,Tidak ada pelacakan tersedia.
+"This shipping method is currently unavailable. If you would like to ship using this shipping method, please contact us.","Metode pengiriman ini saat ini tidak tersedia. Jika Anda ingin mengirimkan menggunakan metode pengiriman ini, silahkan hubungi kami."
+"This shipping method is not available, please specify ZIP-code","Metode pengiriman ini tidak tersedia, sebutkan ZIP kode"
+Title,Judul
+Track:,Track:
+Tracking Information,Informasi pelacakan
+Tracking Number:,Pelacakan Nomor:
+Tracking information is currently not available. Please ,Pelacakan informasi saat ini tidak tersedia. Mohon Untuk
+Tracking information is currently unavailable.,Pelacakan informasi saat ini tidak tersedia.
+Type,Jenis
+Use origin weight (few requests),Berat Gunakan asal (beberapa permintaan)
+Weight (and above),Berat (dan di atas)
+Weight vs. Destination,Berat vs Destination
+Weight:,Berat:
+ZIP/Postal Code,ZIP / Postal Code
+contact us,Hubungi kami
+email us at ,email kami di

@@ -1,0 +1,468 @@
+%value%' appears to be a DNS hostname but cannot extract TLD part,%value%' tampaknya menjadi nama host DNS tetapi tidak dapat mengekstrak TLD bagian
+'%value%' appears to be a DNS hostname but cannot match TLD against known list,%value%' tampaknya menjadi nama host DNS tetapi tidak bisa cocok TLD terhadap daftar diketahui
+'%value%' appears to be a DNS hostname but cannot match against hostname schema for TLD '%tld%',%value%' tampaknya menjadi nama host DNS tetapi tidak bisa cocok melawan hostname skema untuk TLD '% TLD%'
+'%value%' appears to be a DNS hostname but contains a dash in an invalid position,%value%' tampaknya menjadi nama host DNS tapi mengandung dash dalam posisi yang tidak valid
+'%value%' appears to be a DNS hostname but the given punycode notation cannot be decoded,%value%' tampaknya menjadi nama host DNS tetapi notasi punycode diberikan tidak dapat diterjemahkan
+'%value%' appears to be a local network name but local network names are not allowed,%value%' tampaknya menjadi nama jaringan lokal tetapi nama jaringan lokal tidak diizinkan
+"'%value%' appears to be an IP address, but IP addresses are not allowed","%value%' tampaknya menjadi alamat IP, tapi alamat IP tidak diizinkan"
+'%value%' does not appear to be a valid local network name,%value%' tidak muncul untuk menjadi nama jaringan lokal yang valid
+* Required Fields,* Bidang Yang Harus Diisi
+ALL GROUPS,SEMUA KELOMPOK
+Account Dashboard,Dashboard akun
+Account Information,Informasi Akun
+Account Sharing Options,Account Options Berbagi
+"Account confirmation is required. Please, check your e-mail for confirmation link. To resend confirmation email please <a href=""%s"">click here</a>.","Konfirmasi akun diperlukan. Silakan, periksa e-mail Anda untuk link konfirmasi. Untuk mengirim ulang email konfirmasi silahkan <a href=""%s""> klik disini </a>."
+Action,Tindakan
+Add New Address,Add New Alamat
+Add New Customer,Tambahkan Pelanggan Baru
+Add New Customer Group,Add New Pelanggan Grup
+Added From,Ditambahkan Dari
+Additional Address Entries,Entri Alamat tambahan
+Address,Alamat
+Address Book,Buku Alamat
+Address Books,Alamat Buku
+Address Information,Informasi Alamat
+Address Templates,Alamat Template
+Addresses,Alamat
+Admin,Admin
+All,Semua
+All Store Views,Semua Toko Views
+All countries,Semua negara
+Always optional.,Selalu opsional.
+Amount,Jumlah
+An error occurred while deleting the address.,Terjadi kesalahan saat menghapus alamat.
+An error occurred while retrieving the option value: %s.,Terjadi kesalahan saat mengambil nilai opsi:%s.
+"An error occurred while saving the collection, aborting. Error: %s","Terjadi kesalahan saat menyimpan koleksi, batal. Kesalahan:%s"
+"An invalid option ID is specified for %s (%s), skipping the record.","ID opsi tidak valid ditentukan untuk%s (%s), melompat-lompat catatan."
+Approved,Disetujui
+Are you sure that you want to remove this item?,Apakah Anda yakin bahwa Anda ingin menghapus item ini?
+Are you sure you want to cancel adding of this address?,Apakah Anda yakin ingin membatalkan penambahan alamat ini?
+Are you sure you want to delete this address?,Apakah Anda yakin ingin menghapus alamat ini?
+Are you sure?,Apa kamu yakin?
+Array of Entity collections is expected.,Array koleksi Entity diharapkan.
+Assign a Customer Group,Menetapkan Kelompok Pelanggan
+Average Sale,Rata Sale
+Back,Kembali
+Back - link to the previously viewed page,Kembali - link ke halaman sebelumnya dilihat
+Back to Login,Kembali ke Login
+Bad request.,Permintaan buruk.
+"Based on the VAT ID, the customer would belong to the Customer Group %s.","Berdasarkan ID PPN, pelanggan akan menjadi milik Grup Pelanggan%s."
+Bill to Name,Bill untuk Nama
+Bought From,Membeli Dari
+"By creating an account with our store, you will be able to move through the checkout process faster, store multiple shipping addresses, view and track your orders in your account and more.","Dengan membuat akun dengan toko kami, Anda akan dapat bergerak melalui proses checkout cepat, menyimpan beberapa alamat pengiriman, melihat dan melacak pesanan Anda dalam account Anda dan banyak lagi."
+CSV,CSV
+Cancel,Membatalkan
+Cannot save a new password.,Tidak dapat menyimpan password baru.
+Cannot save address.,Tidak dapat menyimpan alamat.
+Cannot save the customer.,Tidak dapat menyimpan pelanggan.
+Cannot share customer accounts globally because some customer accounts with the same emails exist on multiple websites and cannot be merged.,Tidak dapat berbagi rekening nasabah secara global karena beberapa pelanggan account dengan email yang sama ada di beberapa situs Web dan tidak dapat digabungkan.
+Change Account Password,Ganti Password Account
+Change Billing Address,Perubahan Alamat Penagihan
+Change Password,Ganti Kata Sandi
+Change Shipping Address,Perubahan Alamat Pengiriman
+City,Kota
+Company,Perusahaan
+Config,Config
+Configure,Konfigurasi
+Confirm New Password,Konfirmasi Password Baru
+Confirm Password,Konfirmasi Kata Sandi
+Confirmation Link Email,Konfirmasi Email Link
+Confirmed,Dikonfirmasi
+Contact Information,Informasi Kontak
+Continue Shopping,Lanjutkan Belanja
+Country,Negara
+Create,Membuat
+Create New Account Options,Buat Akun Baru Pilihan
+Create New Customer Account,Buat New Rekening Nasabah
+Create Order,Buat Pesanan
+Create an Account,Buat sebuah akun
+Create customer,Buat pelanggan
+Create customer address,Buat alamat pelanggan
+Current Admin Password,Sandi Admin saat
+Current Password,Kata Sandi Saat Ini
+Customer,Pelanggan
+Customer API,Pelanggan API
+Customer Account Edit Form,Rekening Nasabah Sunting Formulir
+Customer Account Login Form,Pelanggan Akun Form Login
+Customer Account Logout Success,Rekening Nasabah Keluar Sukses
+Customer Account Registration Form,Pelanggan Akun Formulir Pendaftaran
+Customer Addresses,Alamat Pelanggan
+Customer Configuration,Konfigurasi pelanggan
+Customer Forgot Password Form,Pelanggan Forgot Password Form
+Customer Group,Kelompok pelanggan
+Customer Groups,Grup Pelanggan
+Customer Information,Informasi Pengguna
+Customer Login,Pelanggan Login
+Customer My Account (All Pages),Pelanggan Akun Saya (Semua Halaman)
+Customer My Account Address Book,Pelanggan Akun Saya Buku Alamat
+Customer My Account Address Edit Form,Pelanggan Akun Saya Alamat Sunting Form
+Customer My Account Dashboard,Pelanggan saya Dashboard Akun
+Customer Since,Pelanggan Sejak
+Customer View,Pelanggan View
+Customer collection expected.,Koleksi pelanggan diharapkan.
+Customer email is required,Email pelanggan diperlukan
+Customer website ID must be specified when using the website scope,ID situs pelanggan harus ditentukan ketika menggunakan lingkup situs
+"Customer will stay on the current page if ""No"" is selected.","Pelanggan akan tetap pada halaman saat ini jika ""Tidak"" dipilih."
+Customers,Pelanggan
+Customers Only,Pelanggan Hanya
+Customers Section,Pelanggan Bagian
+DD,DD
+Date,Tanggal
+Date Added,Tanggal Ditambahkan
+Date of Birth,Tanggal lahir
+Day,Hari
+Days in Wishlist,Hari di Daftar Keinginan
+Default Addresses,Alamat default
+Default Billing Address,Default Alamat Penagihan
+Default Email Domain,Default Email Domain
+Default Group,Standar Grup
+Default Shipping Address,Standar Pengiriman Alamat
+Default Value for Disable Automatic Group Changes Based on VAT ID,Standar Nilai untuk Nonaktifkan Otomatis Grup Perubahan Berdasarkan PPN ID
+Default Welcome Email,Bawaan Selamat Email
+Delete,Hapus
+Delete Address,Hapus Alamat
+Delete Customer,Hapus Pelanggan
+Delete Customer Group,Hapus Grup Pelanggan
+Delete customer,Hapus pelanggan
+Delete customer address,Hapus alamat pelanggan
+Deleted Stores,Toko dihapus
+Details,Detail
+Disabled,Cacat
+Edit,Mengedit
+Edit Account Info,Ubah Info Rekening
+Edit Account Information,Edit Informasi Akun
+Edit Address,Mengedit Alamat
+Edit Address Entry,Mengedit Alamat Entri
+"Edit Customer Group ""%s""","Mengedit Pelanggan Grup ""%s"""
+Edit Customer Groups,Grup mengedit Pelanggan
+Edit Customer's Address,Alamat mengedit Nasabah
+Edit Group,Mengedit Grup
+Edit Newsletters,Mengedit Newsletter
+Email,Email
+Email Address,Alamat Email
+Email Sender,Email Sender
+Email:,Email:
+Enable Automatic Assignment to Customer Group,Aktifkan Penugasan otomatis ke Grup Pelanggan
+Entity collection is expected.,Koleksi entitas diharapkan.
+Excel XML,Excel XML
+Failed to confirm customer account.,Gagal untuk mengkonfirmasi akun pelanggan.
+Fax,Fax
+First Name,Nama Depan
+Forgot Email Template,Lupa Template Email
+Forgot Password,Lupa Kata Sandi
+Forgot Your Password,Lupa Kata Sandi Anda
+Forgot Your Password?,Lupa Kata Sandi Anda?
+Forgot and Remind Email Sender,Lupa dan Ingatkan Email Sender
+Form Fields Before,Bentuk Fields Sebelum
+From your My Account Dashboard you have the ability to view a snapshot of your recent account activity and update your account information. Select a link below to view or edit information.,Dari My Dashboard Akun Anda memiliki kemampuan untuk melihat snapshot dari aktivitas akun baru Anda dan memperbarui informasi account Anda. Pilih link di bawah ini untuk melihat atau mengedit informasi.
+Gender,Jenis kelamin
+Gender is required.,Jenis Kelamin diperlukan.
+General Subscription,Berlangganan Umum
+Generate Human-Friendly Customer ID,Menghasilkan manusia-ramah ID Pelanggan
+Global,Global
+Group,Kelompok
+Group Information,Informasi Grup
+Group Name,Nama Kelompok
+Group for Invalid VAT ID,Group untuk tidak valid PPN ID
+Group for Valid VAT ID - Domestic,Group untuk ID PPN Hari - Domestik
+Group for Valid VAT ID - Intra-Union,Group untuk ID PPN Hari - Intra-Uni
+Guest,Tamu
+HTML,HTML
+"Hello, %s!","Halo,%s!"
+ID,ID
+IP Address,IP Address
+"If you believe this is an error, please contact us at %s","Jika Anda yakin ini adalah sebuah kesalahan, silakan hubungi kami di%s"
+"If you have an account with us, please log in.","Jika Anda memiliki account dengan kami, silahkan login."
+"Invalid attribute option specified for attribute %s (%s), skipping the record.","Opsi tidak valid atribut tertentu untuk atribut%s (%s), melompat-lompat catatan."
+"Invalid attribute set specified, skipping the record.","Set atribut tidak valid, melompat-lompat catatan."
+Invalid billing address for (%s),Alamat penagihan tidak valid untuk (%s)
+Invalid current password,Sandi saat valid
+Invalid customer data,Data pelanggan tidak valid
+"Invalid email address ""%s"".","Alamat email tidak valid ""%s""."
+Invalid email address.,Alamat email salah.
+Invalid login or password.,Login atau sandi tidak valid.
+Invalid password reset token.,Valid tanda reset password.
+Invalid shipping address for (%s),Alamat pengiriman valid untuk (%s)
+"Invalid store specified, skipping the record.","Toko tidak valid, melompat-lompat catatan."
+"Invalid website, skipping the record, line: %s","Situs yang tidak valid, melompat-lompat catatan, baris:%s"
+Last Activity,Aktivitas terakhir
+Last Date Subscribed,Terakhir Tanggal Berlangganan
+Last Date Unsubscribed,Terakhir Tanggal Berhenti berlangganan
+Last Name,Nama Terakhir
+Last URL,URL terakhir
+Leave empty for default (15 minutes).,Biarkan kosong untuk default (15 menit).
+Leave empty for default (2). Valid range: 1-4,Tinggalkan kosong untuk default (2). Kisaran Hari: 1-4
+Lifetime Sales,Lifetime Penjualan
+Log In,Masuk
+Log Out,Keluar
+Login,Masuk
+Login Information,Informasi Login
+Login Options,Login Pilihan
+Login and password are required.,Login dan password yang diperlukan.
+Login or Create an Account,Masuk atau Buat Akun
+MM,MM
+Manage Addresses,Mengelola Alamat
+Manage Customers,Mengelola Pelanggan
+Maximum length must be less then %s symbols,Panjang maksimum harus kurang dari simbol% ??s
+"Missing email, skipping the record, line: %s","Hilang email, melompat-lompat catatan, baris:%s"
+"Missing email, skipping the record.","Hilang email, melompat-lompat catatan."
+"Missing first name, skipping the record, line: %s","Hilang nama pertama, melompat-lompat catatan, baris:%s"
+"Missing firstname, skipping the record.","Hilang firstname, melompat-lompat catatan."
+"Missing last name, skipping the record, line: %s","Hilang nama terakhir, melompat-lompat catatan, baris:%s"
+"Missing lastname, skipping the record.","Hilang nama belakang, melompat-lompat catatan."
+"Missing website, skipping the record, line: %s","Hilang website, melompat-lompat catatan, baris:%s"
+Month,Bulan
+My Account,Akun Saya
+My Account Wrapper,Akun Saya Wrapper
+My Dashboard,Dashboard saya
+My Orders,Pesanan saya
+Name,Nama
+Name and Address Options,Nama dan Alamat Pilihan
+Never,Tak pernah
+New Address,Alamat Baru
+New Address Entry,Alamat Baru Masuk
+New Customer,Pelanggan Baru
+New Customer Address,Alamat Baru Pelanggan
+New Customer Group,Grup Baru Pelanggan
+New Customer Groups,Grup Pelanggan
+New Customers,Pelanggan Baru
+New Group,Grup Baru
+New Password,Password Baru
+New account,Akun baru
+New account confirmation key,Kunci konfirmasi akun baru
+New account confirmed,Akun baru dikonfirmasi
+New password field cannot be empty.,Bidang password baru tidak boleh kosong.
+Newsletter,Laporan berkala
+Newsletter Finish,Newsletter Selesai
+Newsletter Information,Informasi Newsletter
+Newsletter Received,Newsletter Diterima
+Newsletter Start,Newsletter Mulai
+Newsletter Subscription,Newsletter Berlangganan
+Newsletters,Newsletter
+No Items Found,Tidak ada Item Ditemukan
+No Newsletter Found,Tidak ada Newsletter Ditemukan
+No customer collections found,Tidak ada koleksi pelanggan ditemukan
+No item specified.,Tidak ada item tertentu.
+Not Sent,Tidak Terkirim
+"Not confirmed, can login","Tidak dikonfirmasi, bisa login"
+"Not confirmed, cannot login","Tidak dikonfirmasi, tidak bisa login"
+Number of Lines in a Street Address ,Jumlah Baris dalam Street Address
+Offline,Offline
+Online,On Line
+Online Customers,Pelanggan secara online
+Online Customers Options,Pelanggan Online Pilihan
+Online Minutes Interval,Online Menit Interval
+Order #,Pesanan #
+Order Total,Pesanan Jumlah
+Orders,Pesanan
+PDF,PDF
+Password,Kata sandi
+Password Management,Manajemen Password
+Password Options,Password Options
+Password forgotten,Lupa kata sandi
+Password:,Sandi:
+Paused,Berhenti
+Pending,Tertunda
+Per Website,Per Situs
+Personal Information,Informasi Pribadi
+Please enter a number 1 or greater in this field.,Masukkan nomor 1 atau lebih besar di bidang ini.
+Please enter a valid date between %s and %s at %s.,Masukkan tanggal yang valid antara%s dan%s di%s.
+Please enter a valid date equal to or greater than %s at %s.,Masukkan tanggal yang valid sama dengan atau lebih besar dari%s di%s.
+Please enter a valid date less than or equal to %s at %s.,Masukkan tanggal yang valid kurang dari atau sama dengan%s di%s.
+Please enter the city.,Silakan masuk kota.
+Please enter the country.,Silakan masuk ke negara itu.
+Please enter the first name.,Silakan masukkan nama pertama.
+Please enter the last name.,Silakan masukkan nama belakang.
+Please enter the state/province.,Masukkan negara bagian / propinsi.
+Please enter the street.,Cukup masukkan jalan.
+Please enter the telephone number.,Silakan masukkan nomor telepon.
+Please enter the zip/postal code.,Masukkan zip / kode pos.
+Please enter your email address below. You will receive a link to reset your password.,Masukkan alamat email Anda di bawah ini. Anda akan menerima link untuk mereset password Anda.
+Please enter your email below and we\'ll send you confirmation link for it.,Silahkan masukkan email Anda di bawah ini dan kami \ 'akan mengirimkan link konfirmasi untuk itu.
+Please enter your email.,Silahkan masukkan email Anda.
+Please make sure your passwords match.,Pastikan password Anda cocok.
+Please select a website which contains store view,Silakan pilih sebuah website yang berisi tampilan toko
+"Please select region, state or province","Silakan pilih kawasan, negara bagian atau provinsi"
+"Please, check your email for confirmation key.","Silakan, periksa email Anda untuk konfirmasi kunci."
+Prefix Dropdown Options,Awalan Dropdown Pilihan
+Price,Harga
+Product,Produk
+Product ID,ID Produk
+Product Name,Nama Produk
+Product Reviews,Ulasan Produk
+Product Tags,Tags Produk
+Purchase On,Pembelian On
+Purchased On,Dibeli Pada
+Qty,Qty
+Recent Orders,Pesanan baru-baru ini
+Records for %s store found.,Catatan untuk toko%s ditemukan.
+Recovery Link Expiration Period (days),Periode pemulihan link Kadaluarsa (hari)
+Redirect Customer to Account Dashboard after Logging in,Mengarahkan pelanggan ke Rekening Dashboard setelah Logging di
+Refunded,Dikembalikan
+Register,Daftar
+Registered Customers,Pelanggan terdaftar
+Remind Email Template,Ingatkan Template Email
+Remind Password,Ingatkan Sandi
+Remove,Menghapus
+Require Emails Confirmation,Membutuhkan Konfirmasi Email
+Require admin user to change user password,Membutuhkan admin pengguna untuk mengubah password pengguna
+Reset a Password,Reset Password a
+Retrieve address data,Mengambil data alamat
+Retrieve address info,Mengambil info alamat
+Retrieve customer addresses,Ambil alamat pelanggan
+Retrieve customer data,Mengambil data pelanggan
+Retrieve customer groups,Ambil kelompok pelanggan
+Retrieve customer info,Mengambil info pelanggan
+Retrieve customers,Ambil pelanggan
+Retrieve your confirmation link here,Ambil link konfirmasi Anda disini
+Retrieve your password here,Ambil sandi di sini
+SKU,SKU
+Sales Statistics,Statistik Penjualan
+Save,Simpan
+Save Address,Simpan Alamat
+Save Customer,Kirimkan Pelanggan
+Save Customer Group,Kirimkan Pelanggan Grup
+Save Password,Simpan Kata Sandi
+Save and Continue Edit,Simpan dan Lanjutkan Sunting
+Saved %d record(s),Disimpan%d record (s)
+Semicolon (;) separated values.<br/>Put semicolon in the beginning for empty first option.<br/>Leave empty for open text field.,Titik koma (;) dipisahkan nilai <br/> Masukan koma di awal untuk kosong pertama pilihan <br/> Biarkan kosong untuk bidang teks yang terbuka...
+Send Auto-Generated Password,Kirim Auto-Generated Sandi
+Send From,Kirim Dari
+Send Welcome Email,Kirim Selamat Email
+Send Welcome Email after Confirmation,Kirim Email Selamat setelah Konfirmasi
+Send confirmation link,Kirim link konfirmasi
+Sending,Mengirim
+Sent,Dikirim
+Session Start Time,Sesi Waktu Mulai
+Set as Default Billing Address,Set sebagai Default Alamat Penagihan
+Set as Default Shipping Address,Set sebagai Default Alamat Pengiriman
+Share Customer Accounts,Akun Share Pelanggan
+Shipped to First Name,Dikirim ke Nama Pertama
+Shipped to Last Name,Dikirim ke Nama terakhir
+Shipped to Name,Dikirim ke Nama
+Shopping Cart,Kereta Belanja
+Shopping Cart - %d item(s),Keranjang Belanja -%d item (s)
+Shopping Cart of %1$s - %2$d item(s),Permintaan dari% 1 $ s -% 2 $ d item (s)
+Show Date of Birth,Tampilkan Tanggal Lahir
+Show Gender,Tampilkan Kelamin
+Show Middle Name (initial),Tampilkan Nama Tengah (awal)
+Show Prefix,Tampilkan Awalan
+Show Suffix,Tampilkan Akhiran
+Show Tax/VAT Number,Tampilkan Pajak / Jumlah PPN
+Show VAT Number on Frontend,Tampilkan PPN Nomor pada Frontend
+Sign Up for Newsletter,Daftar untuk Newsletter
+"Skipping import row, required field ""%s"" is not defined.","Melewatkan impor baris, bidang diperlukan ""%s"" tidak didefinisikan."
+"Skipping import row, website ""%s"" field does not exist.","Melewatkan baris impor, bidang situs ""%s"" tidak ada."
+State/Province,Negara Bagian / Provinsi
+Status,Status
+Store,Toko
+Store View,Toko View
+Street Address,Alamat Jalan
+Street Address %s,Street Address%s
+Subject,Subyek
+Submit,Menyerahkan
+Subscribe to Newsletter,Berlangganan Newsletter
+Subscribed to Newsletter?,Berlangganan Newsletter?
+Suffix Dropdown Options,Akhiran Dropdown Pilihan
+Tag Name,Tag Nama
+Tax Calculation Based On,Perhitungan pajak Berdasarkan
+Tax Class,Kelas Pajak
+Tax/VAT number,Pajak Nomor / PPN
+Telephone,Telepon
+Text,Teks
+Text One Line,Teks Satu Jalur
+Thank you for registering with %s.,Terima kasih untuk mendaftar dengan%s.
+The Date of Birth is required.,Tanggal Lahir diperlukan.
+The TAX/VAT number is required.,Jumlah PAJAK / PPN diperlukan.
+The VAT ID entered (%s) is not a valid VAT ID.,PPN ID masuk (%s) tidak ID PPN yang valid.
+The VAT ID entered (%s) is not a valid VAT ID. The customer would belong to Customer Group %s.,PPN ID masuk (%s) tidak ID PPN yang valid. Pelanggan akan menjadi milik Grup Pelanggan%s.
+The VAT ID is valid. The current Customer Group will be used.,PPN ID berlaku. Kelompok Pelanggan saat ini akan digunakan.
+The account information has been saved.,Informasi account telah disimpan.
+The address does not belong to this customer.,Alamat bukan milik pelanggan ini.
+The address has been deleted.,Alamat telah dihapus.
+The address has been saved.,Alamat telah disimpan.
+"The customer ID and email did not match, skipping the record, line: %s","ID pelanggan dan email tidak dapat ditemukan, melompat-lompat catatan, baris:%s"
+The customer does not have default billing address.,Pelanggan tidak memiliki alamat penagihan default.
+"The customer email (%s) already exists, skipping the record, line: %s","Email pelanggan (%s) sudah ada, melewatkan catatan, baris:%s"
+The customer group has been deleted.,Kelompok pelanggan telah dihapus.
+The customer group has been saved.,Kelompok pelanggan telah disimpan.
+The customer is currently assigned to Customer Group %s.,Pelanggan saat ini ditugaskan untuk Grup Pelanggan%s.
+The first name cannot be empty.,Nama pertama tidak boleh kosong.
+"The group ""%s"" cannot be deleted","Kelompok ini ""%s"" tidak dapat dihapus"
+The last name cannot be empty.,Nama terakhir tidak boleh kosong.
+The minimum password length is %s,Panjang password minimum adalah%s
+The password cannot be empty.,Password tidak boleh kosong.
+The password must have at least 6 characters. Leading or trailing spaces will be ignored.,Password harus memiliki minimal 6 karakter. Memimpin atau spasi akan diabaikan.
+"The suffix that goes after name (Jr., Sr., etc.)","Akhiran yang berlangsung setelah nama (Jr, Sr, dll)"
+"The title that goes before name (Mr., Mrs., etc.)","Judul yang masuk sebelum nama (Mr, Mrs, dll)"
+There are no items in customer's wishlist at the moment,Tidak ada item dalam daftar harapan pelanggan saat ini
+There are no items in customer\'s shopping cart at the moment,Tidak ada item di keranjang belanja pelanggan \ 's saat ini
+"There is already an account with this email address. If you are sure that it is your email address, <a href=""%s"">click here</a> to get your password and access your account.","Sudah ada akun dengan alamat email ini. Jika Anda yakin bahwa itu adalah alamat email Anda, <a href=""%s""> klik di sini </a> untuk mendapatkan password Anda dan mengakses akun Anda."
+There was an error validating the VAT ID.,Ada kesalahan validasi ID PPN.
+There was an error validating the VAT ID. The customer would belong to Customer Group %s.,Ada kesalahan validasi ID PPN. Pelanggan akan menjadi milik Grup Pelanggan%s.
+This account is not confirmed.,Akun ini tidak dikonfirmasi.
+This customer email already exists,Email pelanggan ini sudah ada
+This customer has no saved addresses.,Pelanggan ini tidak disimpan alamat.
+This email does not require confirmation.,Email ini tidak memerlukan konfirmasi.
+"This email will be sent instead of default welcome email, after account confirmation.","Email ini akan dikirim bukan default email selamat datang, setelah konfirmasi akun."
+This is My Default %s Address,Ini adalah saya default%s Alamat
+To Cart,Untuk Cart
+"To show VAT number on frontend, set Show VAT Number on Frontend option to Yes.","Untuk menampilkan nomor PPN pada frontend, mengatur Tampilkan PPN Nomor pada pilihan Frontend ke Ya."
+Total,Total
+Type,Jenis
+Unknown,Diketahui
+Unsubscribe from Newsletter,Berhenti berlangganan dari Newsletter
+Update,Memperbarui
+Update customer address data,Perbarui Data alamat pelanggan
+Update customer data,Perbarui data pelanggan
+Use as My Default %s Address,Gunakan sebagai default saya%s Alamat
+Use as My Default Billing Address,Gunakan sebagai default saya Penagihan Alamat
+Use as My Default Shipping Address,Gunakan sebagai Default saya Alamat Pengiriman
+Use as my default billing address,Gunakan sebagai alamat penagihan default saya
+Use as my default shipping address,Gunakan sebagai alamat pengiriman default saya
+VAT Number,Jumlah PPN
+VAT Request Date,PPN Permintaan Tanggal
+VAT Request Identifier,PPN Permintaan Identifier
+Validate VAT Number,Validasi Nomor PPN
+Validate on Each Transaction,Validasi di Setiap Transaksi
+Validation Error Group,Validasi Kesalahan Grup
+View,Pandangan
+View Order,Lihat Orde
+Visitor,Pengunjung
+Visitors Only,Pengunjung Hanya
+Website,Situs web
+Welcome Email,Selamat Email
+Wishlist,Daftar Keinginan
+Wishlist - %d item(s),Daftar Keinginan -%d item (s)
+Would you like to change the Customer Group for this order?,Apakah Anda ingin mengubah Grup Pelanggan untuk pesanan ini?
+Wrong confirmation key.,Kunci konfirmasi salah.
+Wrong customer account specified.,Rekening nasabah yang salah ditentukan.
+Wrong email.,Email yang salah.
+Wrong transactional account email type,Salah akun transaksional jenis email
+YYYY,YYYY
+Year,Tahun
+You are currently not subscribed to any newsletter.,Saat ini Anda tidak berlangganan newsletter apapun.
+You are currently not subscribed to our newsletter.,Saat ini Anda tidak berlangganan newsletter kami.
+You are currently subscribed to 'General Subscription'.,Anda sedang berlangganan 'General Berlangganan'.
+You are currently subscribed to our newsletter.,Anda sedang berlangganan newsletter kami.
+You are now logged out,Anda sekarang log out
+You have logged out and will be redirected to our homepage in 5 seconds.,Anda telah log out dan akan diarahkan ke situs kami dalam 5 detik.
+You have no additional address entries in your address book.,Anda tidak memiliki entri alamat tambahan dalam buku alamat Anda.
+You have no additional entries in your address book.,Anda tidak memiliki entri tambahan di buku alamat Anda.
+You have no default billing address in your address book.,Anda tidak memiliki alamat penagihan default di buku alamat Anda.
+You have no default entries in your address book.,Anda tidak memiliki entri default di buku alamat Anda.
+You have no default shipping address in your address book.,Anda tidak memiliki alamat pengiriman default di buku alamat Anda.
+You have not set a default billing address.,Anda belum menetapkan alamat penagihan default.
+You have not set a default shipping address.,Anda belum menetapkan alamat pengiriman default.
+You have placed no orders yet.,Anda telah ditempatkan tidak mentas.
+You have placed no products yet.,Anda telah menempatkan ada produk belum.
+You will be charged tax.,Anda akan dikenakan biaya pajak.
+You will not be charged tax.,Anda tidak akan dikenakan pajak.
+Your Tax ID cannot be validated.,ID Pajak tidak dapat divalidasi.
+Your VAT ID was successfully validated.,PPN ID Anda berhasil divalidasi.
+Your account balance is: %s,Saldo account Anda adalah:%s
+ZIP,ZIP
+ZIP/Post Code,ZIP / Kode Pos
+Zip/Postal Code,Zip / Postal Code
+n/a,n / a
+or,atau

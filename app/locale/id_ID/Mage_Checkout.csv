@@ -1,0 +1,363 @@
+%s was added to your shopping cart.,%s telah ditambahkan ke keranjang belanja Anda.
+%s was updated in your shopping cart.,%s telah diupdate di keranjang belanja Anda.
+(Excl. Tax),(Excl. Pajak)
+(Incl. Tax),(Termasuk. Pajak)
+* Required Fields,* Bidang Yang Harus Diisi
+Add New Address,Add New Alamat
+Add New Condition,Tambahkan Kondisi Baru
+Add coupon code for shopping cart,Menambahkan kode kupon untuk keranjang belanja
+Add gift messages to shopping cart,Tambahkan pesan hadiah ke keranjang belanja
+Add product to shopping cart,Tambahkan produk ke keranjang belanja
+Add product(s) to shopping cart,Tambahkan produk (s) ke keranjang belanja
+Add to Cart,Tambahkan ke Cart
+Add to Compare,Tambahkan ke Bandingkan
+Add to Wishlist,Tambahkan ke Daftar Keinginan
+Additional Product Info,Info Produk Tambahan
+Address,Alamat
+Address %s of %s,Alamat%s dari%s
+After Adding a Product Redirect to Shopping Cart,Setelah Menambahkan Produk yang Redirect ke Keranjang Belanja
+Allow Guest Checkout,Izinkan Tamu Checkout
+Already registered?,Sudah terdaftar?
+An error occurred in the process of payment,Terjadi kesalahan dalam proses pembayaran
+An error occurred while deleting this condition.,Terjadi kesalahan saat menghapus kondisi ini.
+An error occurred while saving this condition.,Terjadi kesalahan saat menyimpan kondisi ini.
+Apply,Berlaku
+Apply Coupon,Terapkan Kupon
+Are you sure you want to leave this page? You will need to go through the checkout steps again.,Apakah Anda yakin ingin meninggalkan halaman ini? Anda akan perlu melalui langkah-langkah checkout lagi.
+Are you sure you would like to remove this item from the shopping cart?,Apakah Anda yakin ingin menghapus item ini dari keranjang belanja?
+Back,Kembali
+Back to Billing Information,Kembali ke Billing Information
+Back to Select Addresses,Kembali ke Pilih Alamat
+Back to Shipping Information,Kembali ke Informasi Pengiriman
+Back to Shopping Cart,Kembali ke Keranjang Belanja
+"Based on your selection, you may be interested in the following items:","Berdasarkan pilihan Anda, Anda mungkin tertarik pada item berikut:"
+Billing Address,Penagihan Alamat
+Billing Information,Informasi Tagihan
+Billing Information - %s,Billing Information -%s
+Can not remove the item.,Tidak dapat menghapus item.
+Can not save item.,Tidak bisa menyimpan item.
+Cancel,Membatalkan
+Cancel Coupon,Batal Kupon
+Cannot add item to the shopping cart.,Tidak dapat menambahkan item ke keranjang belanja.
+Cannot add the item to shopping cart,Tidak dapat menambahkan item ke keranjang belanja
+Cannot add the item to shopping cart.,Tidak dapat menambahkan item ke keranjang belanja.
+Cannot apply the coupon code.,Tidak dapat menerapkan kode kupon.
+Cannot configure product.,Tidak dapat mengkonfigurasi produk.
+Cannot open the overview page,Tidak dapat membuka halaman ikhtisar
+Cannot process the item.,Tidak dapat memproses item.
+Cannot remove the item.,Tidak dapat menghapus item.
+Cannot update shopping cart.,Tidak dapat memperbarui keranjang belanja.
+Cannot update the item.,Tidak dapat memperbarui item.
+Card Verification Number Visual Reference,Verifikasi Nomor Kartu Visual Referensi
+Cart,Troli
+Cart Product API,Keranjang Produk API
+Cart Subtotal:,Keranjang Subtotal:
+Change,Perubahan
+Change Billing Address,Perubahan Alamat Penagihan
+Checkbox Text,Checkbox Teks
+Checkout,Pemeriksaan
+Checkout Conditions,Kondisi Checkout
+Checkout Forms Extra,Bentuk Checkout Ekstra
+Checkout Method,Metode Checkout
+Checkout Options,Pilihan Checkout
+Checkout Progress Wrapper,Checkout Kemajuan Wrapper
+Checkout Section,Bagian Checkout
+Checkout Terms and Conditions,Syarat dan Ketentuan Checkout
+Checkout as Guest,Checkout sebagai Tamu
+Checkout as a Guest or Register,Checkout sebagai Tamu atau Daftar
+Checkout with Multiple Addresses,Checkout dengan Multiple Alamat
+City,Kota
+Clear Shopping Cart,Batal Keranjang Belanja
+"Click <a href=""%s"" onclick=""this.target=\'_blank\'"">here to print</a> a copy of your order confirmation.","Klik <a href=""%s"" onclick=""this.target=\'_blank\'""> sini untuk mencetak </a> salinan konfirmasi pesanan Anda."
+"Click <a href=""%s"">here</a> to continue shopping.","Klik <a href=""%s""> sini </a> untuk melanjutkan belanja."
+Close,Dekat
+Company,Perusahaan
+Condition Name,Kondisi Nama
+Configurable Product Image,Dikonfigurasi Gambar Produk
+Configure Cart Item,Konfigurasi Cart Barang
+Confirm Password,Konfirmasi Kata Sandi
+Content,Kadar
+Content Height,Konten Tinggi
+Content Height (css),Konten Tinggi (css)
+Continue,Terus
+Continue Shopping,Lanjutkan Belanja
+Continue to Billing Information,Terus Informasi Penagihan
+Continue to Review Your Order,Lanjutkan ke Review Pesanan Anda
+Continue to Shipping Information,Terus Pengiriman Informasi
+Country,Negara
+"Coupon code ""%s"" is not valid.","Kode kupon ""%s"" tidak valid."
+"Coupon code ""%s"" was applied.","Kode kupon ""%s"" diterapkan."
+Coupon code was canceled.,Kode kupon dibatalkan.
+Create Billing Address,Buat Alamat Penagihan
+Create Shipping Address,Buat Alamat Pengiriman
+Create an order from shopping cart,Buat pesanan dari keranjang belanja
+Create shopping cart,Buat keranjang belanja
+Customer Address is not valid.,Alamat pelanggan tidak valid.
+Customer Information,Informasi Pengguna
+Customer's information,Informasi pelanggan
+Data saving problem,Menyimpan data masalah
+Default Billing,Default Penagihan
+Default Shipping,Standar Pengiriman
+Delete Condition,Hapus Kondisi
+Details,Detail
+Disabled,Cacat
+Discount Codes,Kode Diskon
+Display Cart Summary,Tampilan Cart Ringkasan
+Display Shopping Cart Sidebar,Tampilan Daftar Belanja Sidebar
+Display item quantities,Jumlah item tampilan
+Display number of items in cart,Jumlah tampilan item di keranjang
+Display number of items in wishlist,Jumlah tampilan item dalam daftar harapan
+Easy access to your order history and status,Akses mudah ke riwayat pesanan Anda dan status
+Edit,Mengedit
+Edit Address,Mengedit Alamat
+Edit Billing Address,Mengedit Alamat Penagihan
+Edit Condition,Mengedit Kondisi
+Edit Items,Mengedit Produk
+Edit Shipping Address,Mengedit Alamat Pengiriman
+Edit Terms and Conditions,Mengedit Syarat dan Ketentuan
+Edit Your Cart,Mengedit Cart Anda
+Edit item,Mengedit Item
+Edit item parameters,Parameter mengedit Item
+Email Address,Alamat Email
+Empty Cart,Kosong Cart
+Empty Shopping Cart Content Before,Kosong Keranjang Belanja Konten Sebelum
+Enable Onepage Checkout,Aktifkan Onepage Checkout
+Enable Terms and Conditions,Aktifkan Syarat dan Ketentuan
+Enabled,Diaktifkan
+Enter a New Address,Masukkan Alamat Baru
+Enter your coupon code if you have one.,Masukkan kode kupon Anda jika Anda memiliki satu.
+Enter your destination to get a shipping estimate.,Masukkan tujuan Anda untuk mendapatkan perkiraan pengiriman.
+Estimate,Perkiraan
+Estimate Shipping and Tax,Perkiraan Pengiriman dan Pajak
+Excl. Tax,Excl. Pajak
+Fast and easy check out,Cepat dan mudah memeriksa
+Fax,Fax
+Forgot an Item?,Lupa Item?
+Forgot your password?,Lupa kata sandi Anda?
+Get a Quote,Dapatkan Penawaran
+Get list of available payment methods,Dapatkan daftar metode pembayaran yang tersedia
+Get list of available shipping methods,Dapatkan daftar metode pengiriman yang tersedia
+Get list of products in shopping cart,Dapatkan daftar produk di keranjang belanja
+Get terms and conditions,Dapatkan syarat dan kondisi
+Get total prices for shopping cart,Dapatkan Total harga keranjang belanja
+Gift Message,Hadiah Pesan
+Grand Total:,Grand Total:
+Grouped Product Image,Dikelompokkan Gambar Produk
+HTML,HTML
+ID,ID
+Incl. Tax,Incl. Pajak
+Invalid checkout type.,Jenis checkout valid.
+Invalid data.,Data yang tidak valid.
+"Invalid email address ""%s""","Alamat email tidak valid ""%s"""
+Invalid method: %s,Metode valid:%s
+Invalid shipping method.,Metode pengiriman tidak valid.
+Item not found or already ordered,Item tidak ditemukan atau sudah memerintahkan
+Item was removed successfully.,Item telah dihapus berhasil.
+Item was updated successfully.,Item telah diupdate berhasil.
+Items,Item
+Items After,Item Setelah
+Items Before,Item Sebelum
+Load customer quote error,Beban kesalahan kutipan pelanggan
+Loading next step...,Memuat langkah berikutnya ...
+Login,Masuk
+Login/Registration Before,Login / Registrasi Sebelum
+Manage Terms and Conditions,Mengelola Syarat dan Ketentuan
+Maximum Display Recently Added Item(s),Tampilan maksimum Baru Ditambahkan Item (s)
+Maximum qty allowed for Shipping to multiple addresses is %s,Qty maksimal yang diperbolehkan untuk Pengiriman ke beberapa alamat adalah%s
+Mini-cart promotion block,Mini-keranjang blok promosi
+Minimum order amount is %s,Jumlah pesanan minimum adalah%s
+Move,Bergerak
+Move to Wishlist,Pindah ke Daftar Keinginan
+Move to wishlist,Pindah ke wishlist
+Multishipping Checkout,Multishipping Checkout
+Multishipping Checkout Address (Any) Form,Multishipping Checkout Alamat (Setiap) Form
+Multishipping Checkout Billing Address Creation,Multishipping Checkout Penagihan Alamat Penciptaan
+Multishipping Checkout Billing Address Edit Form,Multishipping Checkout Penagihan Alamat Sunting Form
+Multishipping Checkout Billing Address Selection,Multishipping Checkout Alamat Penagihan Seleksi
+Multishipping Checkout Billing Information Step,Multishipping Checkout Informasi Penagihan Langkah
+Multishipping Checkout Customer Address Edit Form,Multishipping Checkout Pelanggan Alamat Sunting Formulir
+Multishipping Checkout Overview,Multishipping Checkout Ikhtisar
+Multishipping Checkout Shipping Address Creation,Multishipping Checkout Alamat Pengiriman Penciptaan
+Multishipping Checkout Shipping Address Edit Form,Multishipping Checkout Alamat Pengiriman Sunting Form
+Multishipping Checkout Shipping Address Selection,Multishipping Checkout Alamat Pengiriman Seleksi
+Multishipping Checkout Shipping Information Step,Multishipping Checkout Informasi Pengiriman Langkah
+Multishipping Checkout Success,Multishipping Checkout Sukses
+My Cart,Cart saya
+My Cart (%s item),Cart saya (item%s)
+My Cart (%s items),Cart saya (%s item)
+My Cart Link,Saya Keranjang Tautan
+New Address,Alamat Baru
+New Condition,Kondisi baru
+New Terms and Conditions,Syarat dan Ketentuan baru
+No Payment Methods,Tidak ada Metode Pembayaran
+ORDER TOTAL WILL BE DISPLAYED BEFORE YOU SUBMIT THE ORDER,PESANAN TOTAL AKAN DITAMPILKAN SEBELUM ANDA KIRIMKAN PESANAN
+One Page Checkout,Satu Halaman Checkout
+One Page Checkout Failure,Satu Halaman Checkout Kegagalan
+One Page Checkout Overview,Satu Halaman Checkout Ikhtisar
+One Page Checkout Success,Satu Halaman Checkout Sukses
+One item of products do not have identifier or sku,Salah satu item produk tidak memiliki identifier atau sku
+One item of products is not belong any of quote item,Salah satu item produk yang bukan milik setiap item kutipan
+Order #,Pesanan #
+Order Review,Orde Ulasan
+Order Success,Agar Sukses
+Order place error.,Memesan tempat kesalahan.
+Other Items in Your Order,Produk lainnya di Pesanan Anda
+Overview Items After,Ikhtisar Produk Setelah
+Password,Kata sandi
+Payment Failed Email Reciever,Pembayaran Gagal Email Receiver
+Payment Failed Email Sender,Pembayaran Gagal Email Sender
+Payment Failed Emails,Email pembayaran Gagal
+Payment Failed Template,Pembayaran Template Gagal
+Payment Information,Informasi Pembayaran
+Payment Method,Metode Pembayaran
+Payment Methods After,Metode Pembayaran Setelah
+Payment Methods After Checkout Button,Metode Pembayaran Setelah Checkout Tombol
+Payment Methods Before,Metode Pembayaran Sebelum
+Payment Methods Before Checkout Button,Metode Pembayaran Sebelum Checkout Tombol
+Payment method information,Informasi metode pembayaran
+Payment method is not defined,Metode pembayaran tidak didefinisikan
+Payment methods in shopping cart,Metode pembayaran di keranjang belanja
+"Payment profile # %s: ""%s"".","Pembayaran profil #%s: ""%s""."
+Place Order,Order
+Please agree to all Terms and Conditions before placing the order.,Silakan setuju dengan semua Syarat dan Ketentuan sebelum menempatkan pesanan.
+Please agree to all Terms and Conditions before placing the orders.,Silakan setuju dengan semua Syarat dan Ketentuan sebelum menempatkan pesanan.
+Please agree to all the terms and conditions before placing the order.,Silakan menyetujui semua syarat dan ketentuan sebelum menempatkan pesanan.
+Please check billing address information.,Silakan cek penagihan informasi alamat.
+Please check shipping address information.,Silakan cek pengiriman informasi alamat.
+Please check shipping addresses information.,Silakan cek informasi alamat pengiriman.
+Please choose to register or to checkout as a guest,Silahkan memilih untuk mendaftar atau untuk checkout sebagai tamu
+Please log in below:,Silahkan login di bawah ini:
+"Please select region, state or province","Silakan pilih kawasan, negara bagian atau provinsi"
+Please select shipping address for applicable items,Silakan pilih alamat pengiriman untuk item yang berlaku
+Please select shipping methods for all addresses,Silakan pilih metode pengiriman untuk semua alamat
+Please select valid payment method.,Silakan pilih metode pembayaran yang sah.
+Please specify payment method.,Silakan tentukan metode pembayaran.
+Please specify shipping method.,Silakan tentukan metode pengiriman.
+Please specify shipping methods for all addresses.,Silakan tentukan metode pengiriman untuk semua alamat.
+Price,Harga
+Proceed to Checkout,Lanjutkan ke Checkout
+Product,Produk
+Product Name,Nama Produk
+Products,Produk
+Qty,Qty
+Qty:,Qty:
+Quantity,Kuantitas
+Quantity was recalculated from %d to %d,Jumlah itu dihitung ulang dari%d ke%d
+Quote Lifetime (days),Kutipan Lifetime (hari)
+Quote item does not exist.,Item kutipan tidak ada.
+Quote item is not found.,Item kutipan tidak ditemukan.
+Recently added item(s),Item baru ditambahkan (s)
+Register,Daftar
+Register and save time!,Daftar dan menghemat waktu!
+Register to Create an Account,Daftar untuk Buat Akun
+Register with us for future convenience:,Mendaftar dengan kami untuk kenyamanan masa depan:
+Remove Item,Hapus Barang
+Remove This Item,Buak Baran Ini
+Remove coupon code from shopping cart,Hapus kode kupon dari keranjang belanja
+Remove item,Menghapus item
+Remove product from shopping cart,Hapus produk dari keranjang belanja
+Remove product(s) from shopping cart,Hapus produk (s) dari keranjang belanja
+Require Customer To Be Logged In To Checkout,Membutuhkan Pelanggan Akan Masuk Dalam Untuk Checkout
+Retrieve information about shopping cart,Mengambil informasi tentang keranjang belanja
+Review Order,Ulasan Orde
+Review Order - %s,Tinjau Order -%s
+SKU,SKU
+Sales,Penjualan
+Save Condition,Kirimkan Kondisi
+Save in address book,Simpan dalam buku alamat
+See price before order confirmation.,Lihat harga sebelum konfirmasi pesanan.
+Select Address,Pilih Alamat
+Select Addresses,Pilih Alamat
+Select Shipping Method,Pilih Metode Pengiriman
+Select State/Province...,Pilih Negara Bagian / Provinsi ...
+Select a billing address from your address book or enter a new address.,Pilih alamat penagihan dari buku alamat Anda atau masukkan alamat baru.
+Select a shipping address from your address book or enter a new address.,Pilih alamat pengiriman dari buku alamat Anda atau masukkan alamat baru.
+Send Payment Failed Email Copy Method,Kirim Pembayaran Gagal Email Copy
+Send Payment Failed Email Copy To,Kirim Pembayaran Gagal Copy Email Untuk
+Send To,Kirim Ke
+"Separate by "","".","Terpisah oleh "",""."
+Set customer for shopping cart,Set pelanggan untuk keranjang belanja
+Set customer's addresses in shopping cart,Alamat mengatur pelanggan di keranjang belanja
+Set payment method,Set metode pembayaran
+Set shipping method,Set metode pengiriman
+Ship to Multiple Addresses,Kapal ke Beberapa Alamat
+Ship to different address,Kapal ke alamat yang berbeda
+Ship to this address,Kapal ke alamat ini
+Shipping Address,Alamat Pengiriman
+Shipping Information,Pengiriman Informasi
+Shipping Method,Metode Pengiriman
+Shipping Methods,Metode Pengiriman
+Shipping To,Dikirim Ke
+Shipping information,Pengiriman Informasi
+Shipping method has not been selected yet,Metode pengiriman belum dipilih belum
+Shipping methods in shopping cart,Metode pengiriman di keranjang belanja
+Shipping selection is not applicable.,Temukan pengiriman tidak berlaku.
+Shopping Cart,Kereta Belanja
+Shopping Cart Form Before,Belanja Form Cart Sebelum
+Shopping Cart Items After,Daftar Belanja Produk Setelah
+Shopping Cart Items Before,Daftar Belanja Produk Sebelum
+Shopping Cart Sidebar,Daftar Belanja Sidebar
+Shopping Cart Sidebar Extra Actions,Keranjang Belanja Sidebar Actions Ekstra
+Shopping Cart is Empty,Daftar Belanja Kosong
+Shopping cart ability to set coupon code,Belanja kemampuan keranjang untuk mengatur kode kupon
+Show Content as,Tampilkan Konten sebagai
+Some of the requested products are not available in the desired quantity.,Beberapa produk yang diminta tidak tersedia dalam jumlah yang diinginkan.
+Some of the requested products are unavailable.,Beberapa produk yang diminta tidak tersedia.
+Some products quantities were recalculated because of quantity increment mismatch,Beberapa produk jumlah yang dihitung ulang karena kuantitas kenaikan mismatch
+"Sorry, guest checkout is not enabled. Please try again or contact store owner.","Maaf, tamu checkout tidak diaktifkan. Silakan coba lagi atau hubungi pemilik toko."
+"Sorry, no quotes are available for this order at this time.","Maaf, tidak ada kutipan yang tersedia untuk pesanan ini saat ini."
+State/Province,Negara Bagian / Provinsi
+Status,Status
+Store View,Toko View
+Street Address,Alamat Jalan
+Street Address %s,Street Address%s
+Submitting order information...,Mengirimkan informasi pesanan ...
+Subtotal,Subtotal
+Subtotal must exceed minimum order amount,Subtotal harus melebihi jumlah minimum order
+Telephone,Telepon
+Terms and Conditions,Syarat dan Ketentuan
+Terms and Conditions Information,Syarat dan Ketentuan Informasi
+Terms and conditions,Syarat dan Ketentuan
+Text,Teks
+Thank you for your purchase!,Terima kasih atas pembelian Anda!
+The condition has been deleted,Kondisi ini telah dihapus
+The condition has been saved.,Kondisi ini telah disimpan.
+The onepage checkout is disabled.,Kasir onepage dinonaktifkan.
+The product could not be found.,Produk tidak dapat ditemukan.
+The product does not exist.,Produk tidak ada.
+"There are <a href=""%s"">%s items</a> in your cart.","Ada <a href=""%s"">%s item </a> di keranjang Anda."
+"There is <a href=""%s"">1 item</a> in your cart.","Ada <a href=""%s""> 1 item </a> di keranjang Anda."
+There is already a customer registered using this email address. Please login using this email address or enter a different email address to register your account.,Sudah ada pelanggan yang terdaftar dengan menggunakan alamat email ini. Silahkan login dengan menggunakan alamat email ini atau masukkan alamat email yang berbeda untuk mendaftar akun Anda.
+There was an error processing your order. Please contact us or try again later.,Ada kesalahan memproses pesanan Anda. Silahkan hubungi kami atau coba lagi nanti.
+This condition no longer exists.,Kondisi ini tidak ada lagi.
+Total,Total
+Total for this address,Total alamat ini
+Unable to set Payment Method.,Tidak dapat mengatur Cara Pembayaran.
+Unit Price,Harga Satuan
+Update,Memperbarui
+Update Cart,Perbarui Cart
+Update Qty &amp; Addresses,Perbarui Qty & amp; Alamat
+Update Shopping Cart,Keranjang Belanja pembaruan
+Update Total,Perbarui Jumlah
+Update product quantities in shopping cart,Jumlah produk pembaruan di keranjang belanja
+Update product(s) quantities in shopping cart,Produk Update (s) jumlah dalam keranjang belanja
+Use Billing Address,Gunakan Alamat Penagihan
+VAT Number,Jumlah PPN
+View Shopping Cart,Lihat Keranjang Belanja
+We are processing your order and you will soon receive an email with details of the order. Once the order has shipped you will receive another email with a link to track its progress.,Kami sedang memproses pesanan Anda dan Anda akan segera menerima email dengan rincian pesanan. Setelah pesanan telah dikirimkan Anda akan menerima email lain dengan link untuk melacak kemajuan.
+What&#39;s this?,Apa ini?
+What's this?,Apa ini?
+You have no items in your shopping cart.,Anda tidak memiliki item di keranjang belanja Anda.
+You will receive an order confirmation email with details of your order and a link to track its progress.,Anda akan menerima email konfirmasi pesanan dengan rincian pesanan Anda dan link untuk melacak kemajuan.
+Your Checkout Progress,Checkout Kemajuan Anda
+Your billing agreement # is: %s.,Perjanjian penagihan # adalah:%s.
+Your order # is: %s.,Pesanan Anda # adalah:%s.
+Your order cannot be completed at this time as there is no payment methods available for it.,Agar Anda tidak dapat diselesaikan pada saat ini karena tidak ada metode pembayaran yang tersedia untuk itu.
+Your order cannot be completed at this time as there is no shipping methods available for it. Please make necessary changes in your shipping address.,Agar Anda tidak dapat diselesaikan pada saat ini karena tidak ada metode pengiriman yang tersedia untuk itu. Silakan membuat perubahan yang diperlukan dalam alamat pengiriman.
+Your order has been received.,Pesanan Anda telah diterima.
+Your order number is ,Nomor pesanan Anda adalah
+Your recurring payment profiles:,Profil berulang Anda pembayaran:
+Zip,Zip
+Zip/Postal Code,Zip / Postal Code
+ok,oke
+or,atau

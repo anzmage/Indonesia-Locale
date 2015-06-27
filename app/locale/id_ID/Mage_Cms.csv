@@ -1,0 +1,123 @@
+A block identifier with the same properties already exists in the selected store.,Blok pengenal dengan sifat yang sama sudah ada di toko yang dipilih.
+A directory with the same name already exists. Please try another folder name.,Sebuah direktori dengan nama yang sama sudah ada. Silakan coba nama folder lain.
+A page URL key for specified store already exists.,Halaman utama URL untuk toko yang ditentukan sudah ada.
+Action,Tindakan
+Add New Block,Add New Block
+Add New Page,Add New Halaman
+All Countries,Semua Negara
+An error occurred while saving the page.,Terjadi kesalahan saat menyimpan halaman.
+Anchor Custom Text,Jangkar Kustom Teks
+Anchor Custom Title,Jangkar Kustom Judul
+Are you sure you want to delete current folder?,Apakah Anda yakin ingin menghapus folder saat ini?
+Are you sure you want to delete the selected file?,Apakah Anda yakin ingin menghapus file yang dipilih?
+Block,Blok
+Block Information,Blok Informasi
+Block Title,Blok Judul
+CMS,CMS
+CMS Content Wrapper,CMS Content Wrapper
+CMS Home Page,CMS Halaman
+CMS No Cookies Page,CMS ada Cookies Halaman
+CMS No Route Page,CMS ada Route Halaman
+CMS No-Route Page,CMS ada-Route Halaman
+CMS Page,CMS Halaman
+CMS Page Link,CMS Halaman link
+CMS Page Link Block Template,Template CMS Halaman link Blok
+CMS Page Link Inline Template,Template CMS Halaman link Inline
+CMS Pages (All),CMS Pages (Semua)
+CMS Static Block,CMS Static Blok
+CMS Static Block Default Template,CMS Static Blok Default Template
+Cannot create new directory.,Tidak dapat membuat direktori baru.
+Cannot delete directory %s.,Tidak dapat menghapus direktori%s.
+Cannot delete root directory %s.,Tidak dapat menghapus direktori root%s.
+Cannot upload file.,Tidak bisa upload file.
+Collapse All,Perkecil Semua
+Content,Kadar
+Content Heading,Konten Heading
+Content Management,Content Management
+Contents of a Static Block,Isi dari Blok Static
+Create Folder...,Buat Folder ...
+Custom Design,Custom Design
+Custom Design From,Custom Design Dari
+Custom Design To,Desain kustom Untuk
+Custom Layout,Kustom Tata Letak
+Custom Layout Update XML,Kustom Tata Letak Perbarui XML
+Custom Theme,Kustom Tema
+Customer Tax Class Information,Informasi Pelanggan Kelas Pajak
+Date Created,Tanggal Dibuat
+Delete Block,Hapus Blok
+Delete File,Hapus Berkas
+Delete Folder,Hapus Folder
+Delete Page,Hapus Halaman
+Description,Deskripsi
+Design,Disain
+Disabled,Cacat
+Disabled Completely,Dinonaktifkan Sepenuhnya
+Disabled by Default,Dinonaktifkan oleh default
+Edit Block,Mengedit Blok
+Edit Block '%s',Mengedit Blok '%s'
+Edit Page,Mengedit Halaman
+Edit Page '%s',Mengedit Halaman '%s'
+Enable WYSIWYG Editor,Aktifkan WYSIWYG Editor
+Enabled,Diaktifkan
+Enabled by Default,Diaktifkan oleh default
+Expand All,Melebarkan Semua
+General Information,Informasi Umum
+Go to Home Page,Pergi ke Halaman
+Home,Rumah
+ID,ID
+Identifier,Identifier
+"If empty, the Page Title will be used","Jika kosong, Judul Halaman akan digunakan"
+Images (%s),Gambar (%s)
+Insert File,Masukkan Berkas
+"Invalid folder name. Please, use alphanumeric characters, underscores and dashes.","Nama folder yang tidak valid. Silakan, menggunakan karakter alfanumerik, garis bawah dan garis."
+Keywords,Kata kunci
+Last Modified,Terakhir Diubah
+Layout,Tata ruang
+Layout Update XML,Tata letak Perbarui XML
+Link to a CMS Page,Link ke Halaman CMS
+Manage Pages,Mengelola Pages
+Media Gallery,Media Gallery
+Media Storage,Media Penyimpanan
+Meta Data,Meta Data
+Meta Description,Meta Description
+Meta Keywords,Meta Keywords
+New Block,Baru Blok
+New Folder Name:,New Folder Nama:
+New Page,Lembaran Baru
+No files found,Tidak ada file yang ditemukan
+Page Information,Informasi Halaman
+Page Layout,Tata Letak Halaman
+Page Status,Status Halaman
+Page Title,Halaman judul
+Pages,Halaman
+Product Tax Class Information,Informasi Produk Kelas Pajak
+Redirect to CMS-page if Cookies are Disabled,Redirect ke CMS-halaman jika Cookies adalah Disabled
+Relative to Website Base URL,Sehubungan dengan Basis URL Website
+Save Block,Simpan Blok
+Save Page,Simpan Halaman
+Save Process,Kirimkan Proses
+Select Block...,Pilih Block ...
+Select Page...,Pilih Halaman ...
+Show Breadcrumbs for CMS Pages,Tampilkan Breadcrumbs untuk CMS Pages
+Show Notice if JavaScript is Disabled,Tampilkan Perhatikan jika JavaScript Dinonaktifkan
+Static Blocks,Blok statis
+Status,Status
+Storage Root,Penyimpanan Akar
+Store View,Toko View
+Template,Template
+The block has been deleted.,Blok tersebut telah dihapus.
+The block has been saved.,Blok tersebut telah disimpan.
+The directory %s is not writable by server.,Direktori%s tidak dapat ditulis oleh server.
+The page URL key cannot consist only of numbers.,Kunci URL halaman tidak bisa hanya terdiri dari angka.
+The page URL key contains capital letters or disallowed symbols.,Kunci URL halaman berisi huruf atau simbol dianulir.
+The page has been deleted.,Halaman ini telah dihapus.
+The page has been saved.,Halaman ini telah disimpan.
+The static block content cannot contain  directive with its self.,Isi blok statis tidak dapat berisi direktif dengan diri.
+This block no longer exists.,Blok ini tidak ada lagi.
+This page no longer exists.,Halaman ini tidak ada lagi.
+Title,Judul
+URL Key,URL Key
+Unable to find a block to delete.,Tidak dapat menemukan blok untuk menghapus.
+Unable to find a page to delete.,Tidak dapat menemukan halaman untuk menghapus.
+WYSIWYG Options,WYSIWYG Pilihan
+px.,px.

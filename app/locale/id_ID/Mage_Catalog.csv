@@ -1,0 +1,670 @@
+# of Use,# Penggunaan
+%1$s incl tax.,% 1 $ s termasuk pajak.
+%s - %s,% S -% s
+%s Item(s),% S Item (s)
+(Copy data from: %s),(Copy data dari:% s)
+(Will make search for the query above return results for this search.),(Akan melakukan pencarian untuk permintaan atas hasil kembali untuk pencarian ini.)
+* Required Fields,* Bidang Yang Harus Diisi
+-- Please Select --,- Silahkan Pilih -
+A name is required,Nama harus diisi
+ALL GROUPS,SEMUA KELOMPOK
+AM,AM
+Action,Tindakan
+Add Attribute,Tambahkan Atribut
+Add Design Change,Tambahkan Desain Ganti
+Add Group,Tambah Grup
+Add Items to Cart,Tambahkan Produk to Cart
+Add New,Tambah Baru
+Add New Attribute,Tambahkan Atribut Baru
+Add New Attribute Set,Add New Atribut Set
+Add New Group,Tambahkan Grup Baru
+Add New Images,Tambahkan Gambar Baru
+Add New Option,Tambahkan Opsi Baru
+Add New Row,Add New Row
+Add New Search Term,Tambah Baru Cari Term
+Add New Set,Add New Set
+Add Option,Tambahkan Option
+Add Product,Tambah Produk
+Add Product To Websites,Tambahkan Produk Untuk Website
+Add Root Category,Tambahkan Akar Kategori
+Add Subcategory,Tambahkan Subkategori
+Add Tax,Tambahkan Pajak
+Add Tier,Tambahkan Tier
+Add to Cart,Tambahkan ke Cart
+Add to Compare,Tambahkan ke Bandingkan
+Add to My Wishlist,Tambahkan ke Daftar Keinginan Saya
+Add to Wishlist,Tambahkan ke Daftar Keinginan
+Additional Information,Informasi Tambahan
+All,Semua
+All Product Types,Semua Jenis Produk
+All products of this set will be deleted! Are you sure you want to delete this attribute set?,Semua produk dari himpunan ini akan dihapus! Apakah Anda yakin ingin menghapus atribut ini diatur?
+Allow HTML-tags on Front-end,Biarkan HTML-tag pada Front-end
+Allowed File Extensions,Diizinkan Ekstensi File
+Allowed file extensions to upload,Diizinkan ekstensi file untuk meng-upload
+Amount,Jumlah
+Apply To,Terapkan Untuk
+Apply To Configurable/Grouped Product,Terapkan Untuk Dikonfigurasi / Dikelompokkan Produk
+Approved,Disetujui
+Are you sure you want to delete this category?,Apakah Anda yakin ingin menghapus kategori ini?
+Are you sure you would like to remove all products from your comparison?,Apakah Anda yakin ingin menghapus semua produk dari perbandingan Anda?
+Are you sure you would like to remove this item from the compare products?,Apakah Anda yakin ingin menghapus item ini dari produk membandingkan?
+Are you sure?,Apa kamu yakin?
+As low as:,Serendah:
+Assign,Menetapkan
+Assign product link,Menetapkan link produk
+Assign product to category,Menetapkan produk untuk kategori
+Assigned Products,Produk ditugaskan
+Associated Products,Associated Produk
+Attrib. Set Name,Attrib. Set Nama
+Attribute Code,Atribut Kode
+Attribute Information,Atribut Informasi
+Attribute Label,Atribut Label
+Attribute Model,Atribut Model
+Attribute Name:,Nama Atribut:
+Attribute Properties,Atribut Properti
+Attribute Set,Atribut Set
+"Attribute group with the ""/name/"" name already exists","Atribut kelompok dengan ""/ nama /"" nama sudah ada"
+Attribute model not defined,Atribut model tidak didefinisikan
+Attribute with the same code already exists,Atribut dengan kode yang sama sudah ada
+Attributes,Atribut
+Attrribute names can be specified per store.,Nama Attrribute dapat ditentukan per toko.
+Autogenerate,Autogenerate
+Availability,Tersedianya
+Availability: In stock.,Ketersediaan: In stock.
+Availability: Out of stock.,Ketersediaan: Keluar dari saham.
+Back,Kembali
+Backend Model,Backend Model
+Backend Table,Backend Tabel
+Backend Table Title,Backend Tabel Judul
+Backorders,Backorders
+Base directory to upload image file is not specified,Direktori dasar untuk meng-upload file gambar tidak ditentukan
+Based On,Berdasarkan
+Best Value,Nilai Terbaik
+Block after Info Column,Blok setelah Info Kolom
+Bottom/Left,Bawah / Kiri
+Bottom/Right,Kanan Bawah
+Browse By,Telusuri By
+Buy %1$s for %2$s,Beli% 1 $ s untuk% 2 $ s
+Buy %1$s for %2$s (%3$s incl. tax) each,Beli% 1 $ s untuk% 2 $ s (% 3 $ s termasuk pajak.) Masing-masing
+Buy %1$s for %2$s each,Beli% 1 $ s untuk% 2 $ s masing-masing
+Can be used only with catalog input type Dropdown,Hanya dapat digunakan dengan katalog input type Dropdown
+"Can be used only with catalog input type Dropdown, Multiple Select and Price","Hanya dapat digunakan dengan jenis masukan katalog Dropdown, Multiple Pilih dan Harga"
+Can't create image.,Tidak dapat membuat gambar.
+Cannot create writeable directory '%s',Tidak dapat membuat direktori ditulisi '% s'
+Cart Item Attribute,Keranjang Barang Atribut
+Catalog,Katalog
+Catalog Input Type for Store Owner,Katalog Masukan Type untuk Store Owner
+Catalog Price Scope,Katalog Harga Lingkup
+Catalog Section,Katalog Bagian
+"Catalog, Search","Katalog, Cari"
+Categories,Kategori
+Categories Sitemap,Kategori Sitemap
+Category,Kategori
+Category API,Kategori API
+Category Data,Kategori data
+Category Navigation:,Kategori Navigasi:
+Category Products,Kategori Produk
+Category Top Navigation,Kategori Top Navigation
+Category URL Suffix,Kategori URL Suffix
+Category attributes API,Kategori atribut API
+Category delete error,Kategori error delete
+Category deleted,Kategori dihapus
+Category move error,Kategori bergerak kesalahan
+Category must be instance of Mage_Catalog_Model_Category,Kategori harus contoh Mage_Catalog_Model_Category
+Category saved,Kategori disimpan
+Change,Perubahan
+Change or Retrieve attribute store view,Mengubah atau Ambil atribut tampilan toko
+Change status,Perubahan status
+Check items to add to the cart or,Periksa item untuk menambahkan ke keranjang atau
+Choose an Option...,Pilih Opsi ...
+Choose option...,Pilihan Pilih ...
+Clear All,Bersihkan Semua
+Clear All Items,Hapus Semua Produk
+Close Window,Tutup Jendela
+Collapse All,Perkecil Semua
+Comparable,Sebanding
+Comparable on Front-end,Sebanding di Front-end
+Compare Items,Bandingkan Produk
+Compare Products,Bandingkan Produk
+Compare Products (%d),Bandingkan Produk (% d)
+Compare Products - %d Items,Bandingkan Produk -% d item
+Compare Products List,Bandingkan Produk Daftar
+Compare list successfully cleared,Bandingkan Daftar berhasil dibersihkan
+Conditions Combination,Kondisi Kombinasi
+Configurable Product,Produk dikonfigurasi
+Configurable Product Settings,Pengaturan Produk dikonfigurasi
+Continue,Terus
+Copy From Configurable,Salin Dari Dikonfigurasi
+Country/State,Negara / Negara
+Create,Membuat
+Create (Upload),Buat (Upload)
+Create Empty,Buat Kosong
+Create Product Settings,Buat Pengaturan Produk
+Create Simple Associated Product,Buat Simple Produk Terkait
+Create new category,Buat kategori baru
+Create new product,Buat produk baru
+Cross-sells,Cross-menjual
+Currently Shopping by,Saat Belanja oleh
+Custom Design,Custom Design
+Custom Options,Kustom Pilihan
+Customer Group,Kelompok pelanggan
+Customers Reviews,Pelanggan Ulasan
+Customers Tagged Product,Pelanggan Tagged Produk
+Customers for alert %s was successfuly added to queue,Pelanggan untuk waspada% s telah successfuly ditambahkan ke antrian
+Data Type for Saving in Database,Jenis data untuk Penghematan database
+Date,Tanggal
+Date & Time Custom Options,Tanggal & Waktu opsi kustomisasi
+Date Subscribed,Tanggal Berlangganan
+Date fields order,Tanggal bidang memesan
+Datetime,Datetime
+Decimal,Desimal
+Decimal Number,Jumlah desimal
+Declare attribute value saving scope,Menyatakan nilai atribut menghemat ruang lingkup
+Default Qty,Standar Qty
+Default Values,Nilai Default
+Default price,Harga default
+Default value,Nilai default
+Delete,Hapus
+Delete Attribute,Hapus Atribut
+Delete Attribute Set,Hapus Atribut Set
+Delete Category,Hapus Kategori
+Delete Option,Hapus Pilihan
+Delete Row,Hapus Row
+Delete Search,Hapus Cari
+Delete Selected Group,Hapus Grup Terpilih
+Delete category,Hapus kategori
+Delete product,Hapus produk
+Depends on design theme,Tergantung pada tema desain
+Design,Disain
+Disabled,Cacat
+Display in Suggested Terms,Tampilan di Disarankan Persyaratan
+Double click on a group to rename it,Klik dua kali pada kelompok untuk mengubah nama itu
+Double click on above image to view full picture,Klik dua kali pada gambar di atas untuk melihat gambar penuh
+Dropdown,Dropdown
+Duplicate,Duplikat
+Duplicate website tier price customer group and quantity.,Gandakan situs harga lapis kelompok pelanggan dan kuantitas.
+"Duplicate website, country and state tax found.","Situs duplikat, negara dan pajak negara ditemukan."
+Edit,Mengedit
+Edit Attribute Set '%s',Mengedit Set Atribut '% s'
+Edit Product Attribute,Atribut mengedit Produk
+"Edit Product Attribute ""%s""","Mengedit Atribut Produk ""% s"""
+Edit Search,Edit Search
+Edit Search '%s',Mengedit Cari '% s'
+Email,Email
+Email to a Friend,Email ke Teman
+Empty,Kosong
+Enabled,Diaktifkan
+Error during retrieval of option value: %s,Kesalahan selama pengambilan nilai opsi:% s
+Error while adding customers for %s alert. Message: %s,Kesalahan saat menambahkan pelanggan untuk waspada% s. Pesan:% s
+Error while saving this group. Group with the same name already exists.,Kesalahan saat menyimpan grup ini. Kelompok dengan nama yang sama sudah ada.
+Error while saving this group. Please try again later.,Kesalahan saat menyimpan grup ini. Silakan coba lagi nanti.
+Exclude,Mengecualikan
+Expand All,Melebarkan Semua
+Failed,Gagal
+Failed to move file: %s,Gagal untuk memindahkan file:% s
+Feature Products,Fitur Produk
+File options format is not valid,Format file pilihan tidak valid
+File upload failed,Upload file gagal
+Filter model name must be declared,Nama model Filter harus dinyatakan
+Filter must be as object. Set correct filter please,Filter harus sebagai objek. Set benar Filter silahkan
+Filterable (no results),Disaring (tidak ada hasil)
+Filterable (with results),Disaring (dengan hasil)
+Filters must be as array,Filter harus sebagai array yang
+First Name,Nama Depan
+Fixed,Tetap
+Flat Catalog module has a limit of %2$d filterable and/or sort able attributes. Currently there are %1$d. Please reduce the number of filterable/sort able attributes in order to use this module.,Modul Katalog datar memiliki batas% 2 $ d atribut disaring dan / atau semacam mampu. Saat ini ada% 1 $ d. Silahkan mengurangi jumlah disaring / semacam mampu atribut untuk menggunakan modul ini.
+For internal use. Must be unique with no spaces,Untuk penggunaan internal. Harus unik tanpa spasi
+For reindex enabled product(s) you need specify store or product,Untuk Isi nama baru kotak diaktifkan produk (s) yang Anda butuhkan menentukan toko atau produk
+Frontend,Frontend
+Frontend Model,Frontend Model
+Frontend Properties,Properti Frontend
+Gallery,Galeri
+General Information,Informasi Umum
+Get special price,Dapatkan harga khusus
+Global,Global
+Globally Editable,Secara global Editable
+Go to Home Page,Pergi ke Halaman
+Grid,Kisi
+Grouped Product,Dikelompokkan Produk
+Groups,Grup
+Home,Rumah
+ID,ID
+ID: %s,ID:% s
+If you do not specify an option value for a specific store view then the default (Admin) value will be used.,Jika Anda tidak menentukan nilai opsi untuk tampilan toko tertentu maka default (Admin) nilai yang akan digunakan.
+Image,Gambar
+Image content is not valid base64 data.,Konten gambar tidak data yang valid base64.
+Image file not found,File gambar tidak ditemukan
+Image not exists,Gambar tidak ada
+Image not specified.,Gambar tidak ditentukan.
+Image type and information need to be specified for each store view.,Jenis gambar dan informasi harus ditentukan untuk setiap tampilan toko.
+In Stock,Di Bursa
+In stock,Dalam stok
+In stock.,Dalam saham.
+Incl. Tax,Incl. Pajak
+Input Type,Masukan Type
+Input Validation for Store Owner,Validasi Input untuk Store Owner
+Integer,Bilangan bulat
+Integer Number,Integer Nomor
+Invalid Tier Prices,Harga Tier valid
+Invalid attribute %s,Atribut tidak valid% s
+"Invalid attribute option specified for attribute %s (%s), skipping the record","Pilihan atribut tidak valid untuk atribut% s (% s), melompat-lompat catatan"
+"Invalid attribute set specified, skipping the record","Set atribut tidak valid, melompat-lompat catatan"
+Invalid block: %s,Blok tidak valid:% s
+Invalid category,Kategori tidak valid
+Invalid category IDs,ID kategori tidak valid
+Invalid image file type,Image valid jenis file
+Invalid image type.,Jenis gambar yang tidak valid.
+"Invalid option id specified for %s (%s), skipping the record","Id opsi tidak valid ditentukan untuk% s (% s), melompat-lompat catatan"
+"Invalid product type specified, skipping the record","Jenis produk yang tidak valid ditentukan, melompat-lompat catatan"
+Invalid store specified,Toko tidak valid
+"Invalid store specified, skipping the record","Toko tidak valid, melompat-lompat catatan"
+Inventory,Inventaris
+Is Default,Apakah default
+Is Required,Diperlukan
+Items %s to %s of %s total,Item% s ke% s dari jumlah% s
+Items that you don't want to show in the catalog or search results should have status 'Disabled' in the desired store.,Item yang Anda tidak ingin menunjukkan dalam katalog atau hasil pencarian harus memiliki status yang 'cacat' di toko yang diinginkan.
+Label,Label
+Last Name,Nama Terakhir
+Last Notification,Pemberitahuan terakhir
+Learn More,Pelajari Lebih
+Length of text is too long,Panjang teks terlalu panjang
+Letters,Surat
+Letters(a-zA-Z) or Numbers(0-9),Huruf (a-zA-Z) atau Nomor (0-9)
+"Line %d, Email: %s","Baris% d, Email:% s"
+"Line %d, SKU: %s","Baris% d, SKU:% s"
+"Link (Related, Up sell, Cross sell)","Link (terkait, Up menjual, Palang sell)"
+Link product not exists.,Link produk tidak ada.
+List,Daftar
+List Mode,Daftar Modus
+Manage Attribute Sets,Mengelola Set Atribut
+Manage Attributes,Mengelola Atribut
+Manage Catalog Categories,Mengelola Katalog Kategori
+Manage Categories,Mengelola Kategori
+Manage Label / Options,Mengelola Label / Options
+Manage Options (values of your attribute),Mengelola Pilihan (nilai-nilai atribut Anda)
+Manage Product Attributes,Mengelola Atribut Produk
+Manage Product Sets,Mengelola Set Produk
+Manage Products,Mengelola Produk
+Manage Stock,Mengelola Stock
+Color,Warna
+Brand,Merek
+Manufacturer,Pabrikan
+"Manage Titles (Size, Color, etc.)","Mengelola Judul (Ukuran, Warna, dll)"
+Max Characters,Max Karakter
+Maximal Depth,Kedalaman maksimal
+Maximum Image Size,Maksimum Ukuran Gambar
+Maximum Qty Allowed in Shopping Cart,Maksimum Jumlah Diizinkan Troli Belanja
+Maximum image height,Tinggi gambar maksimum
+Maximum image width,Lebar gambar maksimal
+Maximum number of characters,Jumlah maksimum karakter
+Media Image,Media Gambar
+Minimum Lines Per Page,Garis Minimum Per Halaman
+Minimum Qty Allowed in Shopping Cart,Minimum Jumlah Diizinkan Troli Belanja
+Minimum Qty for Item's Status to be Out of Stock,Minimum Qty untuk Status Barang untuk menjadi Out of Stock
+"Missing SKU, skipping the record","Hilang SKU, melompat-lompat catatan"
+More Views,Lebih Views
+Move,Bergerak
+Move category in tree,Pindahkan kategori di pohon
+Multiple Select,Beberapa Pilih
+Name,Nama
+Name In %s,Nama Dalam% s
+Name<br/>(For internal use),Nama <br/> (Untuk penggunaan internal)
+New Category,Baru Kategori
+New Product,Produk baru
+New Product Attribute,New Product Atribut
+New Products,Produk Baru
+New Search,Pencarian Baru
+New Set Name,New Set Nama
+Next,Berikutnya
+No,Tidak
+No image,Tidak ada gambar
+No layout updates,Tidak ada tata letak update
+No options of this product are available.,Tidak ada pilihan dari produk ini tersedia.
+No product collections found,Tidak ada koleksi produk yang ditemukan
+None,Tak satupun
+Not shared with other products,Tidak dibagi dengan produk lain
+Notify Low Stock RSS,Beritahu Rendah Stock RSS
+Notify for Quantity Below,Beritahu untuk Quantity bawah
+Nowhere,Nowhere
+Number of Uses,Jumlah Penggunaan
+Number of results<br/>(For last time placed),Jumlah hasil <br/> (Untuk terakhir kalinya ditempatkan)
+OR,OR
+Old Price:,Old Harga:
+Option validation failed to add product to cart,Validasi pilihan gagal menambah produk ke keranjang
+Option:,Pilihan:
+Options Control,Pilihan Kontrol
+Options is required,Pilihan diperlukan
+Our customer service is available 24/7. Call us at (555) 555-0123.,Layanan pelanggan kami tersedia 24/7. Hubungi kami di (555) 555-0123.
+Out of Stock,Stok Habis
+Out of stock,Stok Habis
+Out of stock.,Stok Habis.
+PM,PM
+Page Title Separator,Halaman Judul Separator
+Page:,Halaman:
+Parent Category,Induk Kategori
+Pending,Tertunda
+Pending Reviews RSS,Tertunda Ulasan RSS
+Percentage,Persentase
+Please add rows to option.,Silakan tambahkan baris untuk pilihan.
+Please be careful as once you click on the row it will load package data form the selected file and all unsaved form data will be lost.,Harap berhati-hati karena setelah Anda klik pada baris itu akan memuat data paket membentuk file yang dipilih dan semua data formulir yang belum disimpan akan hilang.
+Please click on Close Window button if it won't be closed automatically,Silakan klik tombol Close Jendela jika tidak akan ditutup secara otomatis
+Please enter a new group name,Masukkan nama grup baru
+"Please refresh ""Catalog Rewrites"" and ""Layered Navigation Indices"" in System -> <a href=""%s"">Cache Management</a>","Segarkan ""Katalog Penulisan ulang"" dan ""Layered Indeks Navigasi"" di Sistem -> <a href=""%s""> Manajemen Cache </a>"
+Please select  items,Silakan pilih item
+Please select one or more attributes.,Silakan pilih salah satu atau lebih atribut.
+Please select product(s),Silakan pilih produk (s)
+Please select products for attributes update,Silakan pilih produk untuk atribut pembaruan
+Please select static block ...,Silakan pilih blok statis ...
+Please set up merge date/time .,Silakan mengatur merge tanggal / waktu.
+Please specify date required option(s),Silakan tentukan tanggal pilihan diperlukan (s)
+Please specify the product option(s),Silakan tentukan pilihan produk (s)
+Please specify the product required option(s),Silakan tentukan produk pilihan yang diperlukan (s)
+Please specify the product(s) quantity,Silakan tentukan produk (s) kuantitas
+Please specify time required option(s),Silakan tentukan waktu opsi yang diperlukan (s)
+"Please, use four-digit year format","Silakan, menggunakan empat digit Format tahun"
+Position,Posisi
+Position In Layered Navigation,Posisi Dalam Layered Navigasi
+Position of attribute in layered navigation block,Posisi atribut di blok navigasi berlapis
+Prev,Prev
+Previous,Sebelumnya
+Price,Harga
+Price Type,Harga Type
+Price values for options should be specified in system base currency.,Nilai harga untuk pilihan harus ditentukan dalam mata uang dasar sistem.
+Price:,Harga:
+Print This Page,Cetak Halaman ini
+"Problem saving the collection, aborting. Error: %s","Masalah menyimpan koleksi, batal. Kesalahan:% s"
+Product,Produk
+Product %s successfully added to compare list,Produk% s berhasil ditambahkan untuk membandingkan daftar
+Product %s successfully removed from compare list,Produk% s berhasil dihapus dari daftar bandingkan
+Product API,Produk API
+Product Alerts,Alarm Produk
+Product Attribute,Atribut Produk
+Product Attributes,Atribut Produk
+Product Categories,Kategori Produk
+Product Description,Deskripsi Produk
+Product Image Placeholders,Gambar Produk Placeholder
+Product Image Watermarks,Gambar Produk Watermarks
+Product Images,Produk Images
+Product Images API,Produk Images API
+Product In Websites,Produk Di Website
+Product Info Column,Info Produk Kolom
+Product Information,Informasi Produk
+Product Name,Nama Produk
+Product Reviews,Ulasan Produk
+Product Tags,Tags Produk
+Product Tier Price API,Produk Tier Harga API
+Product Type,Jenis Produk
+Product URL Suffix,URL produk Akhiran
+Product attribute sets API,Atribut produk set API
+Product attribute was successfully deleted,Atribut produk berhasil dihapus
+Product attribute was successfully saved,Atribut produk yang berhasil disimpan
+Product attributes API,Atribut produk API
+Product collection expected,Koleksi produk diharapkan
+Product deleted,Produk dihapus
+Product duplicated,Produk digandakan
+Product has required options,Produk telah diperlukan Pilihan
+"Product links API (related, cross sells, up sells)","Link produk API (terkait, lintas menjual, sampai menjual)"
+Product listing sort by,Produk daftar urut berdasarkan
+Product saving error.,Produk tabungan kesalahan.
+Product saving error. ,Produk tabungan kesalahan.
+Product types API,Jenis produk API
+Product was successfully created.,Produk berhasil dibuat.
+Product was successfully saved.,Produk berhasil diselamatkan.
+Product with this combination of attributes already associated to configurable.,Produk dengan kombinasi atribut sudah terkait untuk dikonfigurasi.
+Products,Produk
+Products Information,Informasi Produk
+Products Reviews,Produk Ulasan
+Products Sitemap,Produk Sitemap
+Products only,Produk hanya
+Products per Page on Grid default value,Produk per Halaman di nilai default Grid
+Products per Page on List allowed values,Produk per Halaman pada nilai-nilai Daftar diperbolehkan
+Products per Page on List default value,Produk per Halaman di Daftar nilai default
+Products per page on Grid allowed values,Produk per halaman di Grid memungkinkan nilai-nilai
+Properties,Properti
+Qty,Qty
+Qty Uses Decimals,Jumlah Menggunakan Desimal
+Qty for Item's Status to become Out of Stock,Jumlah untuk Status Barang untuk menjadi Out of Stock
+Quick Create,Buat Cepat
+Quick Overview,Ikhtisar Cepat
+Quick simple product creation,Penciptaan produk yang sederhana Cepat
+"Records for ""","Records untuk """
+Redirect,Redirect
+Redirect URL,Redirect URL
+Regular Price:,Harga Normal:
+Related Products,Produk-produk terkait
+Remove,Menghapus
+Remove Product,Hapus Produk
+Remove Product From Websites,Hapus Produk Dari Website
+Remove This Item,Buak Baran Ini
+Remove product assignment,Hapus tugas produk
+Remove product image,Hapus citra produk
+Remove product link,Menghapus link produk
+Required,Wajib
+Reset,Atur ulang
+Results,Hasil
+Retrieve attribute data,Mengambil data atribut
+Retrieve attribute list,Mengambil daftar atribut
+Retrieve attribute options,Mengambil opsi atribut
+Retrieve categories tree,Ambil pohon kategori
+Retrieve category attributes,Mengambil atribut kategori
+Retrieve category data,Mengambil data kategori
+Retrieve hierarchical tree,Ambil pohon hirarkis
+Retrieve linked products,Mengambil produk terkait
+Retrieve list of assigned products,Daftar produk ditugaskan mengambil
+Retrieve one level of categories by website/store view/parent category,Ambil satu tingkat dari kategori oleh website / toko kategori view / orang tua
+Retrieve product,Ambil produk
+Retrieve product attribute sets,Ambil atribut produk set
+Retrieve product image,Ambil gambar produk
+Retrieve product image list,Mengambil daftar citra produk
+Retrieve product image types,Mengambil jenis citra produk
+Retrieve product link type attributes,Mengambil atribut jenis link produk
+Retrieve product link types,Ambil jenis link produk
+Retrieve product tier prices,Ambil harga lapis produk
+Retrieve product types,Ambil jenis produk
+Retrieve products data,Mengambil data produk
+Retrieve products list by filters,Ambil daftar produk dengan filter
+Review successfully deleted,Tinjau berhasil dihapus
+Review was saved successfully,Ulasan diselamatkan berhasil
+Review was successfully saved,Ulasan berhasil diselamatkan
+Reviews,Ulasan
+Roll Over for preview,Gulung Lebih untuk pratinjau
+Root,Akar
+SKU,SKU
+Save,Simpan
+Save And Continue Edit,Simpan Dan Lanjutkan Sunting
+Save Attribute,Simpan Atribut
+Save Attribute Set,Menyimpan Atribut Set
+Save Category,Kirimkan Kategori
+Save Search,Simpan Pencarian
+Saved ,Disimpan
+Scope,Cakupan
+Search,Pencarian
+Search Engine Optimizations,Optimasi Search Engine
+Search Information,Informasi Cari
+Search Query,Parameter Pencarian
+Search Term was successfully saved,Cari Term berhasil diselamatkan
+Search Term with such search query already exist.,Cari Term dengan permintaan pencarian seperti sudah ada.
+Search was successfully deleted,Cari berhasil dihapus
+Searchable,Dicari
+Select Configurable Attributes ,Pilih Atribut Dikonfigurasi
+Select type of option,Pilih jenis opsi
+Select type options required values rows.,Pilih Pilihan jenis diperlukan nilai-nilai baris.
+Selected Product Types,Jenis Produk yang dipilih
+Selected configuration is not available.,Konfigurasi yang dipilih tidak tersedia.
+Send Count,Kirim Hitungan
+Set Ascending Direction,Set Arah secara Ascending
+Set Descending Direction,Set Descending Direction
+Set Name,Set Nama
+Set Root Category For Store,Set Akar Kategori Untuk Toko
+"Set root category for this store in the <a href=""%s"">configuration</a>","Set kategori root untuk toko ini di <a href=""%s""> konfigurasi </a>"
+Set special price,Set harga khusus
+Set/Get current store view,Set / Dapatkan tampilan toko saat
+Settings,Pengaturan
+Shop by,Toko oleh
+Shopping Options,Pilihan Belanja
+Show,Menunjukkan
+Show Details,Tampilkan Detail
+Show Tags,Tampilkan Tags
+Simple Product,Sederhana Produk
+Site Map,Peta situs
+Sitemap,Sitemap
+"Skip import row, is not valid value ""%s"" for field ""%s""","Loncat impor baris, bukan nilai yang valid ""% s"" untuk bidang ""% s"""
+"Skip import row, required field ""%s"" for new customer not defined","Loncat impor baris, bidang diperlukan ""% s"" untuk pelanggan baru tidak didefinisikan"
+"Skip import row, required field ""%s"" for new products not defined","Loncat impor baris, bidang diperlukan ""% s"" untuk produk baru tidak didefinisikan"
+"Skip import row, required field ""%s"" not defined","Loncat impor baris, bidang diperlukan ""% s"" tidak didefinisikan"
+"Skip import row, store ""%s"" field not exists","Loncat impor baris, bidang toko ""% s"" tidak ada"
+Sort Order,Urutan Sortir
+Sort by,Urutkan berdasarkan
+Source Model,Sumber Model
+Special Price:,Harga Spesial:
+Starting at:,Mulai:
+Static,Statis
+Static block and products,Blok statis dan produk
+Static block only,Blok statis hanya
+Status,Status
+Stock Availability,Ketersediaan Stok
+Store,Toko
+Store View,Toko View
+Stretch,Meregang
+Subscribe to Feed,Berlangganan Feed
+Subscribe to RSS Feed,Berlangganan RSS Feed
+Super product attributes configuration,Super atribut produk konfigurasi
+Synonym For,Sinonim Untuk
+Synonym for,Sinonim untuk
+System,Sistem
+System Properties,System Properties
+Tag Name,Tag Nama
+Tax,Pajak
+Text,Teks
+Text Area,Text Area
+Text Field,Text Field
+There are no %s available.,Tidak ada% s tersedia.
+There are no customers for this alert,Tidak ada pelanggan untuk waspada ini
+There are no products matching the selection.,Tidak ada produk yang cocok dengan pilihan.
+There was an error while adding products to websites,Ada kesalahan saat menambahkan produk ke situs
+There was an error while cleared compare list,Ada kesalahan saat membersihkan membandingkan daftar
+There was an error while removing products from websites,Terjadi kesalahan saat mengeluarkan produk dari situs
+There was an error while updating product(s) attributes,Ada kesalahan saat memperbarui produk (s) atribut
+There was an error while updating product(s) status,Terjadi kesalahan saat memperbarui (s) status produk
+This attribute no longer exists,Atribut ini tidak ada lagi
+"This group contains attributes, used in configurable products. Please move these attributes to another group and try again.","Kelompok ini berisi atribut, digunakan dalam produk dikonfigurasi. Silakan pindah atribut ini ke kelompok lain dan coba lagi."
+This group contains system attributes. Please move system attributes to another group and try again.,Kelompok ini berisi atribut sistem. Silakan pindah atribut sistem untuk kelompok lain dan coba lagi.
+This is a required option,Ini adalah pilihan yang diperlukan
+This search no longer exists,Pencarian ini tidak ada lagi
+Tier Pricing,Tier Harga
+Tile,Ubin
+Time format,Format waktu
+Title,Judul
+Top/Left,Top / Left
+Top/Right,Kanan Atas
+Total Qty Base Items,Jumlah Item Qty Basis
+Total incl. Tax: %1$s,Jumlah incl. Pajak:% 1 $ s
+Total of %d record(s) were successfully deleted,Jumlah% d record (s) berhasil dihapus
+Total of %d record(s) were successfully updated,Jumlah% d record (s) berhasil diperbarui
+Type,Jenis
+Unable to complete request. Please try again later.,Tidak dapat menyelesaikan permintaan. Silakan coba lagi nanti.
+Unable to find a search term to delete,Tidak dapat menemukan istilah pencarian untuk menghapus
+Unable to find an attribute to delete,Tidak dapat menemukan atribut untuk menghapus
+Unable to get product id.,Tidak dapat mendapatkan id produk.
+Unassigned Attributes,Atribut Unassigned
+Unique Value,Nilai unik
+Unique Value (not shared with other products),Nilai Unik (tidak dibagi dengan produk lain)
+Unknown attribute: %s,Diketahui atribut:% s
+Up-sells,Up-menjual
+Update,Memperbarui
+Update Attributes,Perbarui Atribut
+Update Tier Price,Perbarui Tier Harga
+Update assigned product,Perbarui produk ditugaskan
+Update attributes,Atribut pembaruan
+Update category,Kategori pembaruan
+Update product,Produk pembaruan
+Update product image,Citra produk pembaruan
+Update product link,Link produk pembaruan
+Update product tier prices,Perbarui harga lapis produk
+Upload new product image ,Meng-upload gambar produk baru
+Url,Url
+Url Rewrite Management,Manajemen Rewrite url
+Url rewrie save problem.,Rewrie url menyimpan masalah.
+Use Config Settings,Gunakan Pengaturan Config
+Use Default Value,Gunakan Nilai Default
+Use Flat Catalog Category,Gunakan datar Katalog Kategori
+Use Flat Catalog Product,Gunakan datar Katalog Produk
+Use In Layered Navigation,Gunakan Dalam Layered Navigasi
+Use In Layered Navigation<br/>(Can be used only with catalog input type 'Dropdown'),Gunakan Dalam Layered Navigasi <br/> (Dapat digunakan hanya dengan input type katalog 'Dropdown')
+Use In Search Results Layered Navigation,Gunakan Dalam Hasil Pencarian Layered Navigasi
+Use JavaScript Calendar,Gunakan JavaScript Kalender
+Use To Create Configurable Product,Gunakan Untuk Membuat Produk Dikonfigurasi
+Use Tree Like Category Sitemap,Gunakan Tree Anda suka Kategori Sitemap
+Use categories path for product URLs,Gunakan kategori jalan untuk URL produk
+Use in advanced search,Gunakan dalam pencarian lanjutan
+Use in quick search,Gunakan dalam pencarian cepat
+Used for sorting in product listing,Digunakan untuk menyortir di daftar produk
+Used in product listing,Digunakan dalam daftar produk
+Values Required,Nilai Diperlukan
+Varchar,Varchar
+View as,Lihat sebagai
+Virtual Product,Virtual Produk
+Visibility,Jarak penglihatan
+Visible,Terlihat
+Visible on Catalog Pages on Front-end,Terlihat pada Halaman Katalog di Front-end
+Visible on Product View Page on Front-end,Terlihat pada Lihat Produk Page di Front-end
+Watermark,Cap air
+Watermark Default Size,Watermark Standar Ukuran
+Watermark Position,Watermark Posisi
+We Also Recommend,Kami Juga Merekomendasikan
+Web Site Item Must be checked,Situs web Barang Harus diperiksa
+Web Site Store Must be checked,Situs web Toko Harus diperiksa
+Website,Situs web
+Websites,Website
+Wrong BuyRequest instance in options group,Salah contoh BuyRequest di pilihan grup
+Wrong option instance type in options group,Salah pilihan jenis contoh di pilihan grup
+Wrong option type to get group instance.,Salah jenis pilihan untuk mendapatkan contoh kelompok.
+Wrong product instance type in options group,Produk yang salah jenis contoh di pilihan grup
+Wrong quote item instance in options group,Salah kutipan barang contoh dalam pilihan grup
+Wrong quote item option instance in options group,Salah Item kutipan pilihan misalnya dalam pilihan grup
+Year Range,Tahun Rentang
+Yes,Iya Nih
+Yes/No,Ya Tidak
+You cannot delete this attribute,Anda tidak dapat menghapus atribut ini
+You cannot edit this attribute,Anda tidak dapat mengedit atribut ini
+You cannot remove system attribute from this set.,Anda tidak dapat menghapus sistem atribut dari set ini.
+You cannot update this attribute,Anda tidak dapat memperbarui atribut ini
+You have no items to compare.,Anda tidak memiliki item untuk membandingkan.
+You may also be interested in the following product(s),Anda juga mungkin tertarik pada produk berikut (s)
+Zoom In,Perbesar
+Zoom Out,Zoom Out
+[GLOBAL],[GLOBAL]
+and,dan
+and above,dan di atas
+cache refresh needed,Cache penyegaran dibutuhkan
+categories,kategori
+comma separated,dipisahkan koma
+each,masing-masing
+ex. http://domain.com,ex. http://domain.com
+leave blank if its not an image,kosongkan jika tidak gambar
+must be in the allowed values list,harus berada dalam daftar nilai diperbolehkan
+per page,per halaman
+products,produk
+px.,px.
+save,menyimpan
+select all,pilih Semua
+unselect all,unselect semua
+x,x
+Description,Deskripsi
+Short Description,Deskripsi Singkat
+Tax Class,Kelas Pajak
+There are no products matching the selection.,Tidak ada produk yang cocok dengan pilihan.
+Availability:,Ketersediaan:
+Qty:,Qty:
+Compare Products,Bandingkan Produk
+You have no items to compare.,Anda tidak memiliki item untuk membandingkan.
+Site Map,Peta situs
+Go to Home Page,Pergi ke Halaman
+Home,Rumah
+Our customer service is available 24/7. Call us at (555) 555-0123.,Layanan pelanggan kami tersedia 24/7. Hubungi kami di (555) 555-0123.
+Categories,Kategori
+Keep your eyes open for our special Back to School items and save A LOT!,Jauhkan mata Anda terbuka untuk Kembali khusus untuk item Sekolah dan menyimpan banyak!
+Categories Sitemap,Kategori Sitemap
+Are you sure you would like to remove all products from your comparison?,Apakah Anda yakin ingin menghapus semua produk dari perbandingan Anda?
+Clear All,Bersihkan Semua
+Products Sitemap,Produk Sitemap

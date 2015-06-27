@@ -1,0 +1,133 @@
+"%d Shopping Cart Price Rules based on ""%s"" attribute have been disabled.","%d Aturan Belanja Harga berdasarkan ""%s"" atribut telah dinonaktifkan."
+%s Coupon(s) have been generated,%s Kupon (s) telah dihasilkan
+Actions,Tindakan
+Active,Aktif
+Add New Rule,Tambahkan Aturan Baru
+Alphabetical,Abjad
+Alphanumeric,Alfanumerik
+An error occurred while generating coupons. Please review the log and try again.,Terjadi kesalahan saat menghasilkan kupon. Silahkan lihat log dan coba lagi.
+Apply,Berlaku
+Apply To,Terapkan Untuk
+Apply the rule only if the following conditions are met (leave blank for all products),Menerapkan aturan hanya jika kondisi berikut ini terpenuhi (kosongkan semua produk)
+Apply the rule only to cart items matching the following conditions (leave blank for all items),Menerapkan aturan hanya untuk item keranjang yang cocok dengan kondisi berikut (kosongkan semua item)
+Apply the rule to cart items matching the following conditions,Menerapkan aturan untuk item keranjang yang cocok dengan kondisi berikut
+Apply to Shipping Amount,Berlaku untuk Pengiriman Jumlah
+Are you sure you want to delete the selected coupon(s)?,Apakah Anda yakin ingin menghapus kupon yang dipilih?
+Auto,Mobil
+Auto Generated Specific Coupon Codes,Auto Generated Kode Kupon Tertentu
+Buy X get Y free (discount amount is Y),Beli X mendapatkan Y gratis (jumlah diskon adalah Y)
+By Fixed value,Dengan nilai Tetap
+By Percentage,Dengan Persentase
+Can\'t acquire coupon.,Tidak mendapatkan kupon.
+Cart Attribute,Keranjang Atribut
+Catalog,Katalog
+Code Format,Kode Format
+Code Length,Kode Panjang
+Code Prefix,Kode Prefix
+Code Suffix,Kode Akhiran
+Conditions,Syarat-syarat
+Conditions combination,Kondisi kombinasi
+Coupon,Kupon
+Coupon Code,Kode Kupon
+Coupon Qty,Kupon Qty
+Coupon with the same code,Kupon dengan kode yang sama
+Coupons Information,Kupon Informasi
+Created On,Dibuat pada
+Customer Groups,Grup Pelanggan
+Dash Every X Characters,Dash Setiap X Karakter
+Date Expire,Tanggal Kadaluarsa
+Date Start,Tanggal Mulai
+Default Label,Default Label
+Default Rule Label for All Store Views,Default Aturan Label untuk Semua Toko Views
+Description,Deskripsi
+Discount Amount,Jumlah diskon
+Discount Qty Step (Buy X),Diskon Qty Langkah (Beli X)
+Edit Rule,Edit Rule
+Edit Rule '%s',Edit Rule '%s'
+"Excluding prefix, suffix and separators.","Termasuk awalan, akhiran dan pemisah."
+FOUND,DITEMUKAN
+Fixed amount discount,Jumlah diskon Tetap
+Fixed amount discount for whole cart,Tetap jumlah diskon untuk seluruh keranjang
+For matching items only,Untuk hanya cocok item
+For shipment with matching items,Untuk pengiriman dengan item yang sesuai
+Free Shipping,Gratis Pengiriman
+From Date,Dari Tanggal
+General Information,Informasi Umum
+Generate,Menghasilkan
+ID,ID
+If %s %s %s for a subselection of items in cart matching %s of these conditions:,Jika%s%s%s untuk subselection item di keranjang pencocokan%s dari kondisi ini:
+If an item is %s in the cart with %s of these conditions true:,Jika item adalah%s dalam keranjang dengan%s dari kondisi ini benar:
+If empty no separation.,Jika kosong tidak ada pemisahan.
+If you select and save the rule you will be able to generate multiple coupon codes.,Jika Anda memilih dan menyimpan aturan Anda akan dapat menghasilkan beberapa kode kupon.
+Inactive,Non-aktif
+Item totals are not set for rule.,Item total tidak diatur untuk aturan.
+Labels,Label
+Manage Coupon Codes,Mengelola Kode Kupon
+Maximum Qty Discount is Applied To,Maksimum Qty Diskon yang Diterapkan Untuk
+NOT FOUND,TIDAK DITEMUKAN
+NOT LOGGED IN,Belum login IN
+New Rule,Aturan baru
+No,Tidak
+No Coupon,Tidak ada Kupon
+Not valid data provided,Tidak data yang valid tersedia
+Number of Uses,Jumlah Penggunaan
+Numeric,Numeric
+Payment Method,Metode Pembayaran
+Percent of product price discount,Persen diskon harga produk
+Period,Periode
+Price in cart,Harga di keranjang
+Priority,Prioritas
+Product attribute combination,Kombinasi atribut produk
+Products subselection,Produk subselection
+Promotions,Promosi
+Public In RSS Feed,Umum Dalam RSS Feed
+Quantity in cart,Kuantitas di keranjang
+Row total in cart,Total Row di keranjang
+Rule Information,Peraturan Informasi
+Rule Name,Aturan Nama
+Rule is not defined,Aturan tidak didefinisikan
+Sales Discount Amount,Jumlah penjualan Diskon
+Sales Subtotal Amount,Penjualan Jumlah Subtotal
+Sales Total Amount,Penjualan Jumlah Total
+Save and Continue Edit,Simpan dan Lanjutkan Sunting
+Shipping Country,Pengiriman Negara
+Shipping Method,Metode Pengiriman
+Shipping Postcode,Pengiriman Postcode
+Shipping Region,Pengiriman Region
+Shipping State/Province,Pengiriman Negara / Propinsi
+Shopping Cart Price Rule,Belanja Peraturan Cart Harga
+Shopping Cart Price Rules,Belanja Aturan Cart Harga
+Special Price,Harga Spesial
+Specific Coupon,Kupon tertentu
+Status,Status
+Stop Further Rules Processing,Berhenti Aturan lanjut Pengolahan
+Store View Specific Labels,Toko View Label Tertentu
+Subtotal,Subtotal
+Subtotal Amount,Jumlah subtotal
+The rule has been deleted.,Aturan telah dihapus.
+The rule has been saved.,Aturan telah disimpan.
+This rule no longer exists.,Aturan ini tidak ada lagi.
+Times Used,Kali Digunakan
+To Date,Hingga Saat Ini
+To Fixed Value,Untuk Nilai Tetap
+To Percentage,Untuk Persentase
+Total,Total
+Total Amount,Jumlah Total
+Total Items Quantity,Jumlah Item Kuantitas
+Total Weight,Berat Total
+Unable to create requested Coupon Qty. Please check settings and try again.,Tidak dapat membuat kupon yang diminta Qty. Silakan periksa pengaturan dan coba lagi.
+Unable to find a rule to delete.,Tidak dapat menemukan aturan untuk menghapus.
+Update prices using the following information,Harga Update menggunakan informasi berikut
+Update product's %s %s: %s,Perbarui produk%s%s:%s
+Update the Product,Memperbarui Produk
+Usage limit enforced for logged in customers only,Batas penggunaan diberlakukan untuk login pelanggan hanya
+Use Auto Generation,Gunakan Auto Generation
+Used,Digunakan
+Uses per Coupon,Menggunakan per Kupon
+Uses per Customer,Menggunakan per Pelanggan
+Website,Situs web
+Websites,Website
+Wrong rule specified.,Aturan yang salah ditentukan.
+Yes,Iya Nih
+total amount,jumlah total
+total quantity,jumlah total

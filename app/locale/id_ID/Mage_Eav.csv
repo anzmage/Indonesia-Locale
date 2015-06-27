@@ -1,0 +1,124 @@
+"""%s"" contains not only digit characters.","""%s"" tidak hanya berisi karakter digit."
+"""%s"" does not fit the entered date format.","""%s"" tidak sesuai format tanggal masuk."
+"""%s"" exceeds the allowed file size.","""%s"" melebihi ukuran file diperbolehkan."
+"""%s"" exceeds the allowed length.","""%s"" melebihi panjang diperbolehkan."
+"""%s"" has not only alphabetic and digit characters.","""%s"" tidak hanya abjad dan angka karakter."
+"""%s"" has not only alphabetic characters.","""%s"" tidak hanya karakter abjad."
+"""%s"" height exceeds allowed value of %s px.","Tinggi ""%s"" melebihi diizinkan nilai""%s"" px."
+"""%s"" invalid type entered.","""%s"" Jenis valid masuk."
+"""%s"" is a required value.","""%s"" adalah nilai yang diperlukan."
+"""%s"" is an empty string.","""%s"" adalah string kosong."
+"""%s"" is not a valid URL.","""%s"" bukan URL yang valid."
+"""%s"" is not a valid date.","""%s"" bukan tanggal yang valid."
+"""%s"" is not a valid email address.","""%s"" bukan alamat email yang valid."
+"""%s"" is not a valid file","""%s"" bukan file yang valid"
+"""%s"" is not a valid file extension.","""%s"" bukan ekstensi file yang valid."
+"""%s"" is not a valid file.","""%s"" bukan file yang valid."
+"""%s"" is not a valid hostname.","""%s"" bukan nama host valid."
+"""%s"" is not a valid image format","""%s"" tidak format gambar yang valid"
+"""%s"" length must be equal or greater than %s characters.","""%s"" panjang harus sama atau lebih besar dari""%s"" karakter."
+"""%s"" length must be equal or less than %s characters.","""%s"" panjang harus sama atau kurang dari""%s"" karakter."
+"""%s"" width exceeds allowed value of %s px.","""%s"" width melebihi diperbolehkan nilai""%s"" px."
+'%value%' appears to be a DNS hostname but cannot extract TLD part,'Nilai%%' tampaknya menjadi nama host DNS tetapi tidak dapat mengekstrak TLD bagian
+'%value%' appears to be a DNS hostname but cannot match TLD against known list,'Nilai%%' tampaknya menjadi nama host DNS tetapi tidak bisa cocok TLD terhadap daftar diketahui
+'%value%' appears to be a DNS hostname but cannot match against hostname schema for TLD '%tld%','Nilai%%' tampaknya menjadi nama host DNS tetapi tidak bisa cocok melawan hostname skema untuk TLD '% TLD%'
+'%value%' appears to be a DNS hostname but contains a dash in an invalid position,'Nilai%%' tampaknya menjadi nama host DNS tapi mengandung dash dalam posisi yang tidak valid
+'%value%' appears to be a DNS hostname but the given punycode notation cannot be decoded,'Nilai%%' tampaknya menjadi nama host DNS tetapi notasi punycode diberikan tidak dapat diterjemahkan
+'%value%' appears to be a local network name but local network names are not allowed,'Nilai%%' tampaknya menjadi nama jaringan lokal tetapi nama jaringan lokal tidak diizinkan
+"'%value%' appears to be an IP address, but IP addresses are not allowed","'Nilai%%' tampaknya menjadi alamat IP, tapi alamat IP tidak diizinkan"
+'%value%' does not appear to be a valid URI hostname,'Nilai%%' tidak muncul untuk menjadi URI hostname yang valid
+'%value%' does not appear to be a valid local network name,'Nilai%%' tidak muncul untuk menjadi nama jaringan lokal yang valid
+'%value%' does not match the expected structure for a DNS hostname,'Nilai%%' tidak cocok dengan struktur diharapkan untuk hostname DNS
+A joint field with this alias (%s) is already declared,"Sebuah lapangan bersama dengan alias ini (""%s"") sudah dinyatakan"
+Add Option,Tambahkan Option
+"An error occurred while loading a record, aborting. Error: %s","Terjadi kesalahan saat memuat catatan, batal. Kesalahan:""%s"""
+"An error occurred while loading the collection, aborting. Error: %s","Terjadi kesalahan saat memuat koleksi, batal. Kesalahan:""%s"""
+"An error occurred while saving a record, aborting. Error: ","Terjadi kesalahan saat menyimpan catatan, batal. Kesalahan:"
+Attempt to add an invalid object,Mencoba untuk menambahkan objek yang tidak valid
+Attribute '%s' used in configurable products,"Atribut '""%s""' digunakan dalam produk dikonfigurasi"
+Attribute Code,Atribut Kode
+Attribute Label,Atribut Label
+Attribute Properties,Atribut Properti
+Attribute object is undefined,Objek atribut tidak terdefinisi
+"Attribute set with the ""%s"" name already exists.","Atribut diatur dengan ""%s"" nama sudah ada."
+Attribute with the same code,Atribut dengan kode yang sama
+Can\'t create table: %s,"Dapat \ 't membuat tabel:""%s"""
+Catalog Input Type for Store Owner,Katalog Masukan Type untuk Store Owner
+Current module EAV entity is undefined,Saat entitas modul EAV tidak terdefinisi
+Current module pathname is undefined,Modul pathname saat tidak terdefinisi
+Data integrity: No header row found for attribute,Integritas data: Tidak ada baris header ditemukan atribut
+Date,Tanggal
+Decimal Number,Jumlah desimal
+Default Product Listing Sort by does not exist in Available Product Listing Sort By.,Standar Listing Urutkan berdasarkan Produk tidak ada dalam Daftar Produk Tersedia Urutkan.
+Default Value,Nilai Default
+Default option value is not defined,Nilai pilihan default tidak didefinisikan
+Delete,Hapus
+Dropdown,Dropdown
+Email,Email
+Entity collection expected.,Koleksi entitas diharapkan.
+Entity collections expected.,Koleksi entitas diharapkan.
+Entity instance is not defined,Entitas misalnya tidak didefinisikan
+Entity is not initialized,Entitas tidak diinisialisasi
+Entity object is undefined,Objek entitas tidak terdefinisi
+Failed to load node %s from config,"Gagal memuat simpul""%s"" dari config"
+For internal use. Must be unique with no spaces. Maximum length of attribute code must be less then %s symbols,Untuk penggunaan internal. Harus unik tanpa spasi. Panjang maksimum kode atribut harus kurang maka simbol% ??s
+Form Element with the same attribute,Bentuk Element dengan atribut yang sama
+Form Fieldset with the same code,Bentuk Fieldset dengan kode yang sama
+Form Type with the same code,Form Jenis dengan kode yang sama
+Form code is not defined,Kode bentuk tidak didefinisikan
+Frontend label is not defined,Label frontend tidak didefinisikan
+Input Validation for Store Owner,Validasi Input untuk Store Owner
+Integer Number,Integer Nomor
+Invalid EAV attribute.,Atribut EAV tidak valid.
+"Invalid alias, already exists in joint attributes","Alias ??tidak sah, sudah ada di atribut bersama"
+Invalid attribute name: %s,"Nama atribut tidak valid:""%s"""
+Invalid attribute requested: %s,"Atribut tidak valid diminta:""%s"""
+Invalid attribute type,Jenis atribut yang tidak valid
+Invalid character encountered in increment ID: %s,"Karakter tidak valid ditemui di increment ID:""%s"""
+Invalid date,Tanggal tidak valid
+Invalid default date,Tanggal standar tidak valid
+Invalid default decimal value,Nilai desimal bawaan yang tidak valid
+Invalid entity specified,Entitas tidak valid
+Invalid entity supplied.,Entitas yang tidak valid disediakan.
+Invalid entity supplied: %s,"Entitas valid disediakan:""%s"""
+Invalid entity type,Jenis entitas yang tidak valid
+"Invalid entity_id, skipping the record.","Entity_id valid, melompat-lompat catatan."
+Invalid entity_type specified: %s,"ENTITY_TYPE tidak valid:""%s"""
+Invalid foreign key,Kunci asing yang tidak valid
+Invalid form type.,Jenis bentuk valid.
+Invalid joint fields,Bidang sendi valid
+Invalid store specified,Toko tidak valid
+Invalid type given. String expected,Jenis valid diberikan. String diharapkan
+Joined field with this alias is already declared,Bidang bergabung dengan alias ini sudah dinyatakan
+Joint field or attribute expression with this alias is already declared,Lapangan bersama atau ekspresi atribut dengan alias ini sudah dinyatakan
+Letters,Surat
+"Letters (a-z, A-Z) or Numbers (0-9)","Huruf (a-z, A-Z) atau Nomor (0-9)"
+Loaded %d records,Loaded%d catatan
+Maximum length of attribute code must be less then %s symbols,Panjang maksimum kode atribut harus kurang maka simbol% ??s
+Multiple Select,Beberapa Pilih
+No,Tidak
+No options found in config node %s,"Tidak ada pilihan ditemukan dalam konfigurasi simpul""%s"""
+None,Tak satupun
+Not shared with other products,Tidak dibagi dengan produk lain
+"Problem loading the collection, aborting. Error: %s","Masalah memuat koleksi, batal. Kesalahan:""%s"""
+"Problem saving the collection, aborting. Error: %s","Masalah menyimpan koleksi, batal. Kesalahan:""%s"""
+Required,Wajib
+Saved %d record(s).,Disimpan%d record (s).
+"Source model ""%s"" not found for attribute ""%s""","Sumber Model ""%s"" tidak ditemukan untuk atribut ""%s"""
+System,Sistem
+Text Area,Text Area
+Text Field,Text Field
+"The value of attribute ""%s"" must be unique","Nilai atribut ""%s"" harus unik"
+"The value of attribute ""%s"" must be unique.","Nilai atribut ""%s"" harus unik."
+This attribute is used in configurable products,Atribut ini digunakan dalam produk dikonfigurasi
+URL,URL
+Unique Value,Nilai unik
+Unique Value (not shared with other products),Nilai Unik (tidak dibagi dengan produk lain)
+Unknown parameter,Parameter yang tidak diketahui
+Values Required,Nilai Diperlukan
+Wrong attribute group ID,Kelompok atribut yang salah ID
+Wrong attribute set ID,Atribut yang salah mengatur ID
+Wrong entity ID,Entitas yang salah ID
+Wrong type definition for %s,"Salah jenis definisi untuk""%s"""
+Yes,Iya
+Yes/No,Ya Tidak

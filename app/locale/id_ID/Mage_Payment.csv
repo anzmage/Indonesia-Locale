@@ -1,0 +1,137 @@
+%s %s cycle.,%s %s cycle.
+* Required Fields,* Bidang Yang Harus Diisi
+--Please Select--,--Mohon Pilih--
+3D Secure Card Validation,3D Card Aman Validasi
+3D Secure Credit Card Validation,3D Secure Kartu Kredit Validasi
+<label>Make Check payable to:</label> %s,<Label> Membuat Periksa hutang kepada: </ label>%s
+A value is required for live mode. Refer to your CardinalCommerce agreement.,Nilai A diperlukan untuk modus hidup. Mengacu pada perjanjian CardinalCommerce Anda.
+Allow Initial Fee Failure,Biarkan Kegagalan Biaya Awal
+An internal reference ID is required to save the payment profile.,ID referensi internal diperlukan untuk menyimpan profil pembayaran.
+Authorize action is not available.,Otorisasi tindakan tidak tersedia.
+Auto Bill on Next Cycle,Auto RUU tentang Siklus Berikutnya
+Automatically Invoice All Items,Secara otomatis Faktur Semua Produk
+Automatically bill the outstanding balance amount in the next billing cycle (if there were failed payments).,Otomatis tagihan jumlah saldo dalam siklus penagihan berikutnya (jika ada yang gagal pembayaran).
+Bank Transfer Payment,Transfer Bank Pembayaran
+Billing Agreement status is not set.,Status Perjanjian penagihan tidak diatur.
+Billing Amount,Penagihan Jumlah
+Billing Frequency,Penagihan Frekuensi
+Billing Period,Periode Penagihan
+Billing Period Unit,Periode Penagihan Satuan
+Billing period unit is not defined or wrong.,Unit periode penagihan tidak didefinisikan atau salah.
+Cannot retrieve the payment info model object.,Tidak dapat mengambil objek info pembayaran Model.
+Cannot retrieve the payment information object instance.,Tidak dapat mengambil objek informasi pembayaran misalnya.
+Cannot retrieve the payment method code.,Tidak dapat mengambil kode metode pembayaran.
+Cannot retrieve the payment method model object.,Tidak dapat mengambil objek pembayaran Model metode.
+Capture action is not available.,Aksi penangkapan tidak tersedia.
+Card Verification Number,Verifikasi Nomor Kartu
+Cash On Delivery Payment,Cash On Delivery Pembayaran
+Centinel API URL,URL API Centinel
+Check / Money Order,Periksa / Money Order
+Credit Card Number,Nomor Kartu Kredit
+Credit Card Type,Kartu Kredit Jenis
+Credit Card Types,Jenis Kartu Kredit
+Credit card number mismatch with credit card type.,Nomor kartu kredit ketidakcocokan dengan jenis kartu kredit.
+Credit card type is not allowed for this payment method.,Jenis kartu kredit tidak diperbolehkan untuk metode pembayaran ini.
+Currency,Mata uang
+Currency code is undefined.,Kode mata uang tidak terdefinisi.
+Customer ID is not set.,ID pelanggan tidak diatur.
+Day,Hari
+Debug Mode,Modus Debug
+Enabled,Diaktifkan
+Expiration Date,Tanggal Kadaluarsa
+Full name of the person receiving the product or service paid for by the recurring payment.,Nama lengkap dari orang yang menerima produk atau jasa dibayar oleh pembayaran berulang.
+Incorrect credit card expiration date.,Salah kartu kredit tanggal kedaluwarsa.
+Initial Fee,Biaya awal
+Initial non-recurring payment amount due immediately upon profile creation.,Awal jumlah pembayaran non-berulang karena segera setelah pembuatan profil.
+Instructions,Instruksi
+Internal Reference ID,Internal Referensi ID
+Invalid Credit Card Number,Nomor Kartu Kredit valid
+Issue Number,Jumlah masalah
+Make Check Payable to,Membuat Periksa Hutang
+Make Check payable to:,Membuat Periksa hutang kepada:
+Make Check payable to: %s,Membuat Periksa hutang kepada:%s
+Maximum Billing Cycles,Siklus Penagihan Maksimum
+Maximum Order Total,Maksimum Total Pesanan
+Maximum Payment Failures,Kegagalan Pembayaran Maksimum
+Maximum Trial Billing Cycles,Maksimum Siklus Percobaan Penagihan
+Merchant ID,Merchant ID
+Minimum Order Total,Minimum Order Jumlah
+Month,Bulan
+N/A,N / A
+Name on Card,Nama pada kartu
+Name on the Card,Nama pada Kartu
+New Order Status,New Status Pesanan
+Number of billing periods that make up one billing cycle.,Jumlah periode penagihan yang membentuk satu siklus penagihan.
+Order action is not available.,Tindakan agar tidak tersedia.
+Overrides API URL that may be specified by a payment method.,URL API Menggantikan yang dapat ditentukan dengan metode pembayaran.
+Password,Kata sandi
+Payment Method,Metode Pembayaran
+Payment Methods,Metode Pembayaran
+Payment Methods Section,Metode pembayaran Bagian
+Payment Reference ID,Pembayaran Referensi ID
+Payment Services,Layanan Pembayaran
+Payment from Applicable Countries,Pembayaran dari Negara Berlaku
+Payment from Specific Countries,Pembayaran dari Negara-Negara Tertentu
+Payment method code is not set.,Kode metode pembayaran tidak diatur.
+Payment method code is undefined.,Kode metode pembayaran tidak terdefinisi.
+Payment profile is invalid:\n%s,Profil pembayaran tidak valid: \ n%s
+Period frequency is wrong.,Frekuensi periode yang salah.
+Please enter a valid credit card verification number.,Masukkan nomor verifikasi kartu kredit yang valid.
+Processor ID,Prosesor ID
+Purchase Order,Purchase Order
+Purchase Order Number,Pembelian Nomor Pesanan
+Purchase Order Number:,Pesanan Pembelian Nomor:
+Purchase Order Number: %s,Pesanan Pembelian Nomor:%s
+Recurring Profile Start Date,Berulang Profil Tanggal Mulai
+Recurring profile start date has invalid format.,Berulang tanggal profil awal memiliki format yang tidak valid.
+Reference ID is not set.,Referensi ID tidak diatur.
+Refund action is not available.,Tindakan pengembalian dana tidak tersedia.
+Repeats %s time(s).,Mengulang waktu%s (s).
+Repeats until suspended or canceled.,Mengulangi sampai ditangguhkan atau dibatalkan.
+Request Card Security Code,Permintaan Kode Keamanan Kartu
+Saved CC,Disimpan CC
+Schedule Description,Jadwal Deskripsi
+Schedule description must be not empty.,Jadwal deskripsi harus tidak kosong.
+Selected payment type is not allowed for billing country.,Memilih jenis pembayaran tidak diperbolehkan untuk negara penagihan.
+Send Check to,Kirim Periksa untuk
+Send Check to:,Kirim Periksa ke:
+Severe 3D Secure Card Validation,3D parah Card Aman Validasi
+Severe validation removes chargeback liability on merchant.,Validasi parah menghilangkan kewajiban chargeback di merchant.
+Shipping Amount,Pengiriman Jumlah
+Short description of the recurring payment. By default equals to the product name.,Deskripsi singkat dari pembayaran berulang. Secara default sama dengan nama produk.
+Sort Order,Urutan Sortir
+Start Date,Mulai Tanggal
+Start date has invalid format.,Tanggal mulai memiliki format yang tidak valid.
+Start date is undefined.,Tanggal mulai tidak terdefinisi.
+Subscriber Name,Pelanggan Nama
+Switch/Solo/Maestro Issue Number,Switch / Solo / Maestro Nomor Issue
+Switch/Solo/Maestro Only,Switch / Solo / Maestro Hanya
+Switch/Solo/Maestro Start Date,Switch / Tanggal Solo / Maestro Mulai
+Tax Amount,Jumlah pajak
+Test Mode,Test Mode
+The date when billing for the profile begins.,Tanggal ketika penagihan untuk profil dimulai.
+The number of billing cycles for payment period.,Jumlah siklus penagihan untuk periode pembayaran.
+The number of scheduled payments that can fail before the profile is automatically suspended.,Jumlah pembayaran yang dijadwalkan dapat gagal sebelum profil secara otomatis dihentikan.
+The payment review action is unavailable.,Tinjauan pembayaran tindakan tidak tersedia.
+The requested Payment Method is not available.,Diminta Metode Pembayaran tidak tersedia.
+Title,Judul
+Trial Billing Amount,Percobaan Penagihan Jumlah
+Trial Billing Frequency,Percobaan Penagihan Frekuensi
+Trial Billing Period Unit,Percobaan Periode Penagihan Satuan
+Trial Period,Periode Percobaan
+Trial billing amount is wrong.,Jumlah tagihan percobaan yang salah.
+Trial billing period unit is wrong.,Percobaan Unit periode penagihan yang salah.
+Trial period frequency is wrong.,Frekuensi masa percobaan yang salah.
+Trial period max cycles is wrong.,Percobaan siklus periode max salah.
+Two Weeks,Dua Minggu
+Unable to save Billing Agreement:,Tidak dapat menyimpan Perjanjian Penagihan:
+Unit for billing during the subscription period.,Unit penagihan selama masa berlangganan.
+Unsupported currency code: %s.,Kode mata uang yang tidak didukung:%s.
+Void action is not available.,Tindakan Void tidak tersedia.
+Week,Minggu
+What is this?,Apa ini?
+Whether to suspend the payment profile if the initial fee fails or add it to the outstanding balance.,Apakah akan menangguhkan profil pembayaran jika biaya awal gagal atau menambahkannya ke saldo.
+Wrong %s specified.,Salah%s ditentukan.
+Wrong or empty billing amount specified.,Jumlah yang salah atau kosong penagihan ditentukan.
+Year,Tahun
+Zero Subtotal Checkout,Nol Subtotal Checkout

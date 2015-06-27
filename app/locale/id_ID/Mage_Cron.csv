@@ -1,0 +1,16 @@
+Cron (Scheduled Tasks) - all the times are in minutes,Cron (Tugas Terjadwal) - semua waktu dalam menit
+Daily,sehari-hari
+Failure History Lifetime,Kegagalan Sejarah Lifetime
+For correct URLs generated during cron runs please make sure that Web > Secure and Unsecure Base URLs are explicitly set.,Untuk URL yang benar yang dihasilkan selama cron berjalan pastikan bahwa Web> URL Aman dan tidak aman Basis secara eksplisit diatur.
+Generate Schedules Every,Menghasilkan Jadwal Setiap
+History Cleanup Every,Sejarah Cleanup Setiap
+Invalid callback: %s::%s does not exist,Callback tidak valid:%s ::%s tidak ada
+"Invalid model/method definition, expecting ""model/class::method"".","Model tidak valid / metode definisi, mengharapkan ""model / class :: metode""."
+Missed if Not Run Within,Terjawab jika Tidak Jalankan Dalam
+Monthly,bulanan
+No callbacks found,Tidak ada callback ditemukan
+Schedule Ahead for,Jadwalkan Ahead untuk
+Success History Lifetime,Sukses Sejarah Lifetime
+Too late for the schedule.,Terlambat untuk jadwal.
+Unable to save the cron expression.,Tidak dapat menyimpan ekspresi cron.
+Weekly,mingguan

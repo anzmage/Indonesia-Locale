@@ -1,0 +1,163 @@
+'*' - matches any; 'xyz*' - matches any that begins on 'xyz' and not longer than %d.,*' - Cocok setiap; 'Xyz *' - cocok apapun yang dimulai pada 'xyz' dan tidak lebih dari%d.
+-- Please Select --,- Silahkan Pilih -
+Add New Class,Add New Kelas
+Add New Tax Rate,Add New Tarif Pajak
+Add New Tax Rule,Tambahkan Aturan Pajak Baru
+After Discount,Setelah Diskon
+An error occurred while deleting this rate.,Terjadi kesalahan saat menghapus tingkat ini.
+An error occurred while deleting this rate. Incorrect rate ID.,Terjadi kesalahan saat menghapus tingkat ini. ID tingkat yang salah.
+An error occurred while deleting this tax class.,Terjadi kesalahan saat menghapus kelas pajak ini.
+An error occurred while deleting this tax rule.,Terjadi kesalahan saat menghapus aturan pajak ini.
+An error occurred while saving this tax class.,Terjadi kesalahan saat menyimpan kelas pajak ini.
+An error occurred while saving this tax class. A class with the same name,Terjadi kesalahan saat menyimpan kelas pajak ini. Sebuah kelas dengan nama yang sama
+Apply Customer Tax,Terapkan Pajak Pelanggan
+Apply Discount On Prices,Terapkan Diskon Pada Harga
+Apply Tax On,Terapkan Pajak Pada
+"Apply discount on price including tax is calculated based on store tax, if ""Apply Tax after Discount"" is selected.","Terapkan diskon pada harga termasuk pajak dihitung berdasarkan pajak toko, jika ""Terapkan Pajak setelah Diskon"" dipilih."
+Are you sure you want to do this?,Apakah Anda yakin ingin melakukan ini?
+Back,Kembali
+Before Discount,Sebelum Diskon
+CSV,CSV
+Calculate off subtotal only,Hitung off subtotal hanya
+Calculation Settings,Pengaturan perhitungan
+Catalog Prices,Harga katalog
+Class Name,Nama Kelas
+"Click here to go to <a href=""%s"">Tax configuration</a> and change your settings.","Klik di sini untuk pergi ke <a href=""%s""> konfigurasi Pajak </a> dan mengubah pengaturan Anda."
+Code,Kode
+Country,Negara
+Custom price if available,Harga kustom jika tersedia
+Customer Tax Class,Kelas Pajak Pelanggan
+Customer Tax Class Information,Informasi Pelanggan Kelas Pajak
+Customer Tax Classes,Kelas Pajak Pelanggan
+Default Country,Default Negara
+Default Post Code,Bawaan Kode Pos
+Default State,Default Negara
+Default Tax Destination Calculation,Tujuan bawaan Pajak Perhitungan
+Delete Class,Hapus Kelas
+Delete Rate,Hapus Tingkat
+Delete Rule,Hapus Aturan
+Display Full Tax Summary,Tampilan Ringkasan Pajak penuh
+Display Prices,Harga layar
+Display Product Prices In Catalog,Harga layar Produk Dalam Katalog
+Display Shipping Amount,Tampilan Pengiriman Jumlah
+Display Shipping Prices,Harga layar Pengiriman
+Display Subtotal,Tampilan Subtotal
+Display Zero Tax Subtotal,Tampilan Nol Pajak Subtotal
+Edit Class,Mengedit Kelas
+Edit Class '%s',Mengedit Kelas '%s'
+Edit Rule,Edit Rule
+Edit Tax Rate,Mengedit Tarif Pajak
+Enable Cross Border Trade,Aktifkan Cross Border Trade
+Excel XML,Excel XML
+Excl. Tax,Excl. Pajak
+Excl. Tax:,Excl. Pajak:
+Excluding Tax,Tidak termasuk Pajak
+Export Tax Rates,Ekspor Tarif Pajak
+Grand Total (Excl. Tax),Grand Total (Excl. Pajak)
+Grand Total (Excl.Tax),Grand Total (Excl.Tax)
+Grand Total (Incl. Tax),Grand Total (Termasuk. Pajak)
+Grand Total (Incl.Tax),Grand Total (Incl.Tax)
+Grand Total Excl. Tax,Grand Total Excl. Pajak
+Grand Total Incl. Tax,Grand Total Incl. Pajak
+Ignore this notification,Abaikan pemberitahuan ini
+Import / Export Tax Rates,Impor / Ekspor Tarif Pajak
+Import Tax Rates,Impor Tarif Pajak
+Inc. Tax,Inc Pajak
+Incl. Tax,Incl. Pajak
+Incl. Tax:,Incl. Pajak:
+Include Tax In Grand Total,Sertakan Pajak Dalam Grand Total
+Including Tax,Termasuk Pajak
+Including and Excluding Tax,Termasuk dan Tidak termasuk Pajak
+Invalid file format upload attempt,File yang tidak valid Format meng-upload upaya
+Invalid file upload attempt,File tidak sah meng-upload upaya
+Manage Customer Tax Classes,Mengelola Kelas Pajak Pelanggan
+Manage Product Tax Classes,Mengelola Kelas Pajak Produk
+Manage Tax Rates,Mengelola Tarif Pajak
+Manage Tax Rules,Mengelola Aturan Pajak
+Manage Tax Zones & Rates,Mengelola Zona & Tarif Pajak
+Maximum zip code length is 9.,Maksimum panjang kode pos adalah 9.
+Name,Nama
+New Class,Kelas baru
+New Rule,Aturan baru
+New Tax Rate,Tarif Pajak baru
+No,Tidak
+None,Tak satupun
+One of the country has invalid code.,Salah satu negara memiliki kode yang tidak valid.
+"Orders, Invoices, Credit Memos Display Settings","Pesanan, Faktur, Memo Kredit Tampilan Pengaturan"
+Original price only,Harga asli hanya
+Please fill all required fields with valid information.,Silahkan isi semua bidang yang diperlukan dengan informasi yang valid.
+"Please see <a href=""%s"">source</a> for more details.","Silakan lihat <a sumber href=""%s""> </a> untuk lebih jelasnya."
+Price Display Settings,Pengaturan Harga Tampilan
+Priority,Prioritas
+Product Tax Class,Kelas Pajak Produk
+Product Tax Class Information,Informasi Produk Kelas Pajak
+Product Tax Classes,Kelas Pajak Produk
+Range From,Berkisar Dari
+Range To,Kisaran Untuk
+Range To should be equal or greater than Range From.,Kisaran Untuk harus sama atau lebih besar dari Rentang Dari.
+Rate,Laju
+Rate Percent,Tingkat Persen
+Rate Percent should be a positive number.,Tingkat Persen harus angka positif.
+Reset,Atur ulang
+Row Total,Row Jumlah
+Sales,Penjualan
+Save Class,Kirimkan Kelas
+Save Rate,Simpan Tingkat
+Save Rule,Kirimkan Aturan
+Save and Continue Edit,Simpan dan Lanjutkan Sunting
+Shipping & Handling (Excl.Tax),Pengiriman & Penanganan (Excl.Tax)
+Shipping & Handling (Incl.Tax),Pengiriman & Penanganan (Incl.Tax)
+Shipping & Handling Tax,Pengiriman & Penanganan Pajak
+Shipping (Excl. Tax),Pengiriman (Excl. Pajak)
+Shipping (Incl. Tax),Pengiriman (Termasuk. Pajak)
+Shipping Excl. Tax (%s),Pengiriman Excl. Pajak (%s)
+Shipping Incl. Tax (%s),Pengiriman Incl. Pajak (%s)
+Shipping Prices,Harga pengiriman
+Shopping Cart Display Settings,Daftar Belanja Pengaturan Tampilan
+Sort Order,Urutan Sortir
+State,Negara
+State/Region,Negara / Daerah
+Subtotal (Excl. Tax),Subtotal (Excl. Pajak)
+Subtotal (Excl.Tax),Subtotal (Excl.Tax)
+Subtotal (Incl. Tax),Subtotal (Termasuk. Pajak)
+Subtotal (Incl.Tax),Subtotal (Incl.Tax)
+Subtotal only,Subtotal hanya
+Tax,Pajak
+Tax Calculation Based On,Perhitungan pajak Berdasarkan
+Tax Calculation Method Based On,Cara Perhitungan Pajak Berdasarkan
+Tax Class for Shipping,Kelas pajak untuk Pengiriman
+Tax Classes,Kelas Pajak
+Tax Identifier,Identifier Pajak
+Tax Rate,Persentase pajak
+Tax Rate Information,Pajak Information Rate
+Tax Rule Information,Informasi Peraturan Pajak
+Tax Rules,Aturan pajak
+Tax Section,Bagian Pajak
+Tax Titles,Judul pajak
+Tax rate cannot be removed. It exists in tax rule,Tarif pajak tidak dapat dihapus. Itu ada dalam aturan pajak
+"Tax rates at the same priority are added, others are compounded.","Tarif pajak pada prioritas yang sama ditambahkan, yang lain ditambah."
+The tax class has been deleted.,Kelas pajak telah dihapus.
+The tax class has been saved.,Kelas pajak telah disimpan.
+The tax rate has been deleted.,Tarif pajak telah dihapus.
+The tax rate has been imported.,Tarif pajak telah diimpor.
+The tax rate has been saved.,Tarif pajak telah disimpan.
+The tax rule has been deleted.,Aturan pajak telah dihapus.
+This class no longer exists,Kelas ini tidak ada lagi
+This rule no longer exists,Aturan ini tidak ada lagi
+This rule no longer exists.,Aturan ini tidak ada lagi.
+Total,Total
+Unit Price,Harga Satuan
+Warning tax configuration can result in rounding errors,Konfigurasi pajak Peringatan dapat mengakibatkan kesalahan pembulatan
+Warning tax configuration can result in unexpected FPT prices on applicable devices,Peringatan konfigurasi pajak dapat mengakibatkan tak terduga harga FPT pada perangkat yang berlaku
+Warning tax discount configuration might result in different discounts than a customer might expect,Peringatan diskon pajak konfigurasi mungkin mengakibatkan diskon yang berbeda dari pelanggan harapkan
+"When catalog price includes tax, enable this setting will fix the price no matter what the customer's tax rate is.","Ketika harga katalog termasuk pajak, mengaktifkan pengaturan ini akan mematok harga tidak peduli apa tingkat pajak pelanggan adalah."
+Whether catalog prices entered by admin include tax.,Apakah harga katalog dimasukkan oleh admin mencakup pajak.
+Whether shipping amounts entered by admin or obtained from gateways include tax.,Apakah jumlah pengiriman dimasukkan oleh admin atau diperoleh dari gateway termasuk pajak.
+Yes,Iya Nih
+You cannot delete this tax class as it is used for %d customer groups.,Anda tidak dapat menghapus kelas pajak ini seperti yang digunakan untuk%d kelompok pelanggan.
+You cannot delete this tax class as it is used for %d products.,Anda tidak dapat menghapus kelas pajak ini seperti yang digunakan untuk%d produk.
+You cannot delete this tax class as it is used in Tax Rules. You have to delete the rules it is used in first.,Anda tidak dapat menghapus kelas pajak ini seperti yang digunakan dalam Peraturan Pajak. Anda harus menghapus aturan itu digunakan dalam pertama.
+Zip code should not contain characters other than digits.,Kode pos harus tidak mengandung karakter selain angka.
+Zip/Post Code,Zip / Kode Pos
+Zip/Post is Range,Zip / Post Rentang
+for store(s),untuk toko 

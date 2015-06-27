@@ -1,0 +1,881 @@
+"""%s"" coupon code is not valid.",%s kode kupon tidak sah.
+%s,%s
+%s / %s rate:,%s /%s tingkat:
+%s for %s,%s untuk%s
+%s order(s) cannot be canceled,%s order  tidak dapat dibatalkan
+%s order(s) have been canceled.,%s order  telah dibatalkan.
+%s order(s) have been put on hold.,%s order  telah ditahan.
+%s order(s) have been released from holding status.,%s order  telah dibebaskan dari statusnya memegang.
+%s order(s) were not put on hold.,%s order  tidak ditahan.
+%s order(s) were not released from holding status.,%s order  tidak dibebaskan dari statusnya memegang.
+* - Enter custom price excluding tax,* - Masukkan harga kustom tidak termasuk pajak
+* - Enter custom price including tax,* - Masukkan harga kustom termasuk pajak
+* Required Fields,* Bidang Yang Harus Diisi
+-- Please Select --,- Silahkan Pilih -
+-- Please Select Billing Agreement--,- Silakan Pilih Penagihan Agreement--
+About This Order:,Tentang Orde ini:
+About This Profile:,Tentang Profil:
+About Your Invoice,Tentang Faktur Anda
+About Your Order,Tentang Pesanan Anda
+About Your Refund,Tentang Pembayaran Anda
+About Your Shipment,Tentang Pengiriman Anda
+Accept Payment,Menerima Pembayaran
+Accept or Deny Payment,Terima atau Tolak Pembayaran
+Account Information,Informasi Akun
+Action,Tindakan
+Actions,Tindakan
+Activate,Mengaktifkan
+Active,Aktif
+Add,Menambahkan
+Add New Address,Add New Alamat
+Add Order Comments,Tambahkan Orde Komentar
+Add Package,Tambahkan Paket
+Add Products,Tambahkan Produk
+Add Selected Product(s) to Option,Tambah Produk Terpilih  ke Option
+Add Selected Product(s) to Order,Tambah Produk Terpilih  untuk Order
+Add Selected Product(s) to Package,Tambah Produk Terpilih  ke Kemas
+Add To Order,Tambahkan Untuk Order
+Add Tracking Number,Tambahkan Nomor Pelacakan
+Add comment to order,Tambahkan komentar untuk memesan
+Add new comment to credit memo,Kirim komentar memo kredit
+Add new comment to shipment,Kirim komentar pengiriman
+Add new tracking number,Tambahkan nomor pelacakan baru
+Add to Cart,Tambahkan ke Cart
+Additional Product Info,Info Produk Tambahan
+Address,Alamat
+Address model is not defined.,Alamat Model tidak didefinisikan.
+Adjustment Fee,Penyesuaian Biaya
+Adjustment Refund,Penyesuaian Refund
+Agreement Information,Informasi perjanjian
+Allow Reorder,Biarkan Susun ulang
+Amount,Jumlah
+Amount: %s.,Jumlah:%s.
+An error occurred while assigning order status. Status has not been assigned.,Terjadi kesalahan saat menetapkan status pesanan. Status belum ditetapkan.
+An error occurred while creating shipping label.,Terjadi kesalahan saat membuat label pengiriman.
+An error occurred while saving order status. The status has not been added.,Terjadi kesalahan saat menyimpan status pesanan. Status belum ditambahkan.
+An error occurred while unassigning order status.,Terjadi kesalahan saat status pesanan unassigning.
+An error occurred while updating the order address. The address has not been changed.,Terjadi kesalahan saat memperbarui alamat order. Alamat belum berubah.
+An item option with code %s already exists.,Pilihan barang dengan kode%s sudah ada.
+Anchor Custom Title,Jangkar Kustom Judul
+Append Comments,Menambahkan Komentar
+Apply,Berlaku
+Apply Coupon Code,Terapkan Kode Kupon
+Approved the payment online.,Disetujui pembayaran online.
+Are you sure you want to accept this payment?,Apakah Anda yakin ingin menerima pembayaran ini?
+Are you sure you want to cancel this order?,Apakah Anda yakin ingin membatalkan pesanan ini?
+Are you sure you want to delete all items from shopping cart?,Apakah Anda yakin ingin menghapus semua item dari keranjang belanja?
+Are you sure you want to deny this payment?,Apakah Anda yakin ingin menyangkal pembayaran ini?
+Are you sure you want to do this?,Apakah Anda yakin ingin melakukan ini?
+Are you sure you want to send Creditmemo email to customer?,Apakah Anda yakin Anda ingin mengirim email Creditmemo ke pelanggan?
+Are you sure you want to send Invoice email to customer?,Apakah Anda yakin Anda ingin mengirim email Faktur kepada pelanggan?
+Are you sure you want to send Shipment email to customer?,Apakah Anda yakin Anda ingin mengirim email Pengiriman ke pelanggan?
+Are you sure you want to send order email to customer?,Apakah Anda yakin Anda ingin mengirim email untuk pelanggan?
+Are you sure you want to void the payment?,Apakah Anda yakin ingin membatalkan pembayaran?
+Are you sure?,Apa kamu yakin?
+Are you sure? This order will be canceled and a new one will be created instead,Apa kamu yakin? Pesanan ini akan dibatalkan dan yang baru akan dibuat bukan
+Assign Order Status to State,Menetapkan Status Pesanan ke Negara
+Assign Status to State,Menetapkan Status ke Negara
+Assignment Information,Informasi Tugas
+At least a payment ID must be set.,Setidaknya ID pembayaran harus ditetapkan.
+Authorization,Otorisasi
+Authorized amount of %s.,Jumlah resmi dari%s.
+Authorizing amount of %s is pending approval on gateway.,Jumlah otorisasi dari%s sedang menunggu persetujuan pada gateway.
+Back,Kembali
+Back to Billing Agreements,Kembali ke Perjanjian Penagihan
+Back to My Orders,Kembali ke Pesanan Saya
+Back to Recurring Profiles,Kembali ke Profil Berulang
+Backordered,Backordered
+Bestsellers,Penjualan Terbaik
+Bill to Name,Bill untuk Nama
+Billing,Penagihan
+Billing Address,Penagihan Alamat
+Billing Agreement,Perjanjian penagihan
+Billing Agreement # %s,Perjanjian penagihan #%s
+Billing Agreement #%s,Perjanjian penagihan #%s
+Billing Agreement View,Perjanjian penagihan View
+Billing Agreements,Perjanjian penagihan
+Billing Last Name,Penagihan Nama terakhir
+Billing ZIP Code,Penagihan ZIP Code
+Buy %s for price %s,Beli%s untuk harga%s
+CSV,CSV
+Cancel,Membatalkan
+Cancel credit memo,Batal memo kredit
+Cancel invoice,Batal faktur
+Cancel order,Batalkan pesanan
+Canceled,Dibatalkan
+Canceled order offline.,Membatalkan pesanan offline.
+Canceled order online.,Pesanan yang dibatalkan secara online.
+Cannot add order history.,Tidak dapat menambahkan sejarah pesanan.
+Cannot create an empty shipment.,Tidak dapat membuat pengiriman kosong.
+Cannot determine the field name.,Tidak dapat menentukan nama field.
+Cannot do invoice for order.,Tidak bisa melakukan faktur untuk pesanan.
+Cannot do shipment for order.,Tidak dapat melakukan pengiriman untuk pesanan.
+Cannot get order instance,Tidak bisa mendapatkan pesanan contoh
+Cannot get the order instance.,Tidak bisa mendapatkan contoh pesanan.
+Cannot register an existing credit memo.,Tidak dapat mendaftarkan memo kredit yang ada.
+Cannot register existing invoice,Tidak bisa mendaftar invoice yang ada
+Cannot register existing shipment,Tidak bisa mendaftar pengiriman yang ada
+Capture,Menangkap
+Capture Amount,Tangkap Jumlah
+Capture Offline,Menangkap Offline
+Capture Online,Menangkap online
+Capture invoice,Capture faktur
+Captured amount of %s online.,Ditangkap jumlah%s online.
+Capturing amount of %s is pending approval on gateway.,Jumlah menangkap%s sedang menunggu persetujuan pada gateway.
+Carrier,Pembawa
+Carrier/Method,Pembawa / Metode
+"Change status, add comments","Mengubah status, menambahkan komentar"
+"Changing address information will not recalculate shipping, tax or other order amount.","Mengubah informasi alamat tidak akan menghitung ulang pengiriman, pajak, atau jumlah pesanan lainnya."
+Checkout Totals Sort Order,Checkout Total Urutan Sortir
+City,Kota
+Clear Shopping Cart,Batal Keranjang Belanja
+Click to change shipping method,Klik untuk mengubah metode pengiriman
+Close,Dekat
+Closed,Tertutup
+Comma-separated.,Dipisahkan koma.
+Comment,Komentar
+Comment Text,Komentar Teks
+Comments,Komentar
+Comments History,Komentar Sejarah
+Company,Perusahaan
+Complete,Lengkap
+Configure,Konfigurasi
+Configure and Add to Order,Mengkonfigurasi dan Add to Order
+Contents,Isi
+Continue,Terus
+"Controls whether customer IP is shown in orders, invoices, shipments, credit memos.","Mengontrol apakah IP pelanggan ditunjukkan pada pesanan, faktur, pengiriman, memo kredit."
+Country,Negara
+Coupons,Kupon
+Create,Membuat
+Create New Customer,Buat Pelanggan Baru
+Create New Order,Buat Orde Baru
+Create New Order Status,Buat Status Orde Baru
+Create New Order for %s,Buat Orde Baru untuk%s
+Create New Order for %s in %s,Buat Orde Baru untuk%s di%s
+Create New Order for New Customer,Buat Orde Baru untuk Pelanggan Baru
+Create New Order for New Customer in %s,Buat Orde Baru untuk Pelanggan Baru di%s
+Create New Status,Buat Status Baru
+Create Packages,Buat Paket
+Create Shipment,Buat Pengiriman
+Create Shipping Label,Buat Pengiriman Label
+Create Shipping Label...,Buat Pengiriman Label ...
+Create new credit memo for order,Buat memo kredit baru untuk pesanan
+Create new invoice for order,Membuat faktur baru untuk pesanan
+Create new shipment for order,Buat pengiriman baru untuk pesanan
+Create...,Buat ...
+Created At,Dibuat Pada
+Created billing agreement #%s.,Dibuat perjanjian penagihan #%s.
+Created:,Dibuat:
+Credit Memo,Memo Kredit
+Credit Memo #,Memo Kredit #
+Credit Memo # ,Memo Kredit #
+Credit Memo #%1$s | %3$s | %2$s (%4$s),Memo kredit #% 1 $ s |% 3 $ s |% 2 $ s (% 4 $ s)
+Credit Memo Comment Email Sender,Memo kredit Komentar Email Sender
+Credit Memo Comment Email Template,Memo kredit Template Komentar Email
+Credit Memo Comment Email Template for Guest,Memo kredit Template Komentar Email untuk Tamu
+Credit Memo Comments,Memo kredit Komentar
+Credit Memo Email Sender,Memo Kredit Email Sender
+Credit Memo Email Template,Memo kredit Template Email
+Credit Memo Email Template for Guest,Memo kredit Template Email untuk Tamu
+Credit Memo Update,Memo kredit Perbarui
+Credit Memo Update for Guest,Kredit Memo Pembaruan untuk Tamu
+Credit Memos,Memo Kredit
+Credit memo canceling problem.,Memo kredit membatalkan masalah.
+Credit memo cannot be canceled.,Memo kredit tidak dapat dibatalkan.
+Credit memo has been created automatically,Memo kredit telah dibuat secara otomatis
+Custom Price,Kustom Harga
+Custom Value,Kustom Nilai
+Customer,Pelanggan
+Customer Can Define Start Date,Pelanggan Bisa Tentukan Tanggal Mulai
+Customer Email,Pelanggan Email
+Customer Group,Kelompok pelanggan
+Customer Last Name,Pelanggan Nama terakhir
+Customer My Account Order Creditmemo View,Pelanggan Akun Saya Creditmemo View
+Customer My Account Order History,Pelanggan Akun Saya Riwayat
+Customer My Account Order Invoice View,Pelanggan Akun Saya Faktur View
+Customer My Account Order Shipment View,Pelanggan Akun My Order Pengiriman View
+Customer My Account Order View,Pelanggan Akun Saya Lihat
+Customer Name,Nama Pelanggan
+Customer\'s Current Activities,Pelanggan \ 's Kegiatan sekarang
+Customs Value,Nilai Pabean
+Date,Tanggal
+Date Shipped,Tanggal Dikirimkan
+Default Status,Status standar
+Default Template,Template default
+"Default logo, will be used in PDF and HTML documents.<br />(jpeg, tiff, png) If you see image distortion in PDF, try to use larger image","Default logo, akan digunakan dalam PDF dan HTML dokumen. <br /> (Jpeg, tiff, png) Jika Anda melihat distorsi gambar di PDF, cobalah untuk menggunakan gambar yang lebih besar"
+Delete,Hapus
+Delete Package,Hapus Paket
+Denied the payment online.,Ditolak pembayaran online.
+Deny Payment,Deny Pembayaran
+Description Message,Keterangan Pesan
+Discount,Diskon
+Discount (%s),Diskon (%s)
+Discount Amount,Jumlah diskon
+Display Order ID in Header,Tampilan Order ID di Header
+Edit,Mengedit
+Edit Order #%s,Mengedit Pesanan #%s
+Edit Order %s %s Address,Mengedit Orde%s%s Alamat
+Edit Order Status,Status mengedit Pesanan
+Email,Email
+Email Address,Alamat Email
+Email Copy of Credit Memo,Email Fotokopi Memo Kredit
+Email Copy of Invoice,Email Copy Faktur
+Email Copy of Shipment,Email Copy Pengiriman
+Email Order Confirmation,Konfirmasi Email Orde
+Enable,Memungkinkan
+Enabled,Diaktifkan
+Enter the billing last name and email/ZIP as in the order billing address,Masukkan nama terakhir penagihan dan email / ZIP seperti dalam alamat penagihan agar
+Entered data is incorrect. Please try again.,Data yang dimasukkan tidak benar. Silakan coba lagi.
+Error to Show in Shopping Cart,Kesalahan untuk Tampilkan Troli Belanja
+Excel XML,Excel XML
+Excl. Tax,Excl. Pajak
+Expired,Kadaluarsa
+Explanation,Penjelasan
+Failed to cancel the billing agreement.,Gagal membatalkan kesepakatan penagihan.
+Failed to create billing agreement for this order.,Gagal membuat kesepakatan penagihan untuk pesanan ini.
+Failed to finish billing agreement wizard.,Gagal menyelesaikan penagihan perjanjian penyihir.
+Failed to send the order email.,Gagal mengirim email pesanan.
+Failed to start billing agreement wizard.,Gagal memulai penagihan perjanjian Wizard.
+Failed to update the payment.,Gagal memperbarui pembayaran.
+Failed to update the profile.,Gagal memperbarui profil.
+Failed to void the payment.,Gagal membatalkan pembayaran.
+Fetch,Mengambil
+File extension not known or unsupported type in the following shipment: %s,Ekstensi file tidak diketahui atau jenis tidak didukung dalam pengiriman berikut:%s
+Find Order By:,Cari Order By:
+First Name,Nama Depan
+From,Dari
+From Name,Dari Nama
+From:,Dari:
+G.T. (Base),G.T. (Base)
+G.T. (Purchased),G.T. (Dibeli)
+General,Umum
+General Information,Informasi Umum
+Get Payment Update,Dapatkan Pembayaran Perbarui
+Get Update,Dapatkan Pembaruan
+Get shipping methods and rates,Dapatkan metode dan tarif pengiriman
+Gift Message,Hadiah Pesan
+Gift Message for This Order,Pesan hadiah untuk Orde ini
+Gift Message for the Entire Order,Pesan hadiah untuk Seluruh Orde
+Gift Message for this Order,Pesan hadiah untuk Orde ini
+Gift Options,Hadiah Pilihan
+Girth,Mengelilingi
+Go to Home Page,Pergi ke Halaman
+Grand Total,Grand Total
+Grand Total to be Charged,Grand Total akan Dibebankan
+Guest,Tamu
+Height,Tinggi
+Hide Customer IP,Sembunyikan Pelanggan IP
+Hold,Memegang
+Hold action is not available.,Aksi Tahan tidak tersedia.
+Hold order,Agar Tahan
+Home,Rumah
+ID,ID
+ID #,ID #
+"If empty, the default description above will be used.","Jika kosong, deskripsi standar di atas akan digunakan."
+"If empty, the default error above will be used.","Jika kosong, kesalahan standar di atas akan digunakan."
+"If the invoice was created offline, try creating an offline creditmemo.","Jika faktur dibuat offline, cobalah menciptakan creditmemo offline."
+Incl. Tax,Incl. Pajak
+Information,Informasi
+Initial Fee,Biaya awal
+Initial Fees,Biaya awal
+Initial period payment,Pembayaran periode awal
+Insufficient information to create shipping label(s). Please verify your Store Information and Shipping Settings.,Informasi yang cukup untuk membuat label pengiriman . Harap verifikasi Store Informasi dan Pengiriman Pengaturan.
+Invalid block: %s.,Blok tidak valid:%s.
+Invalid carrier specified.,Operator tidak valid.
+"Invalid draw line data. Please define ""lines"" array.","Data garis imbang valid. Silahkan mendefinisikan ""garis"" array."
+Invalid entity model,Model entitas yang tidak valid
+Invalid item option format.,Format pilihan item yang tidak valid.
+"Invalid qty to invoice item ""%s""","Qty valid untuk faktur item ""%s"""
+"Invalid qty to refund item ""%s""","Qty valid untuk mengembalikan item ""%s"""
+"Invalid qty to ship for item ""%s""","Qty valid untuk kapal untuk item ""%s"""
+Invalid renderer model,Model penyaji valid
+Invalid request for adding product to quote.,Permintaan tidak valid untuk menambahkan produk ke kutipan.
+Invalid value(s) for Qty to Ship,Nilai tidak valid  untuk Qty ke Kapal
+Invoice,Faktur
+Invoice #,Faktur #
+Invoice # ,Faktur #
+Invoice #%1$s | %2$s | %4$s (%3$s),Faktur #% 1 $ s |% $ 2 s |% 4 $ s (% 3 $ s)
+Invoice #%s,Faktur #%s
+Invoice Comment Email Sender,Komentar Faktur Email Sender
+Invoice Comment Email Template,Komentar faktur Template Email
+Invoice Comment Email Template for Guest,Faktur Komentar Template Email untuk Tamu
+Invoice Comments,Faktur Komentar
+Invoice Date,Tanggal Faktur
+Invoice Email Sender,Faktur Email Sender
+Invoice Email Template,Template Email Faktur
+Invoice Email Template for Guest,Faktur Template Email untuk Tamu
+Invoice Update,Faktur Perbarui
+Invoice Update for Guest,Perbarui faktur untuk Tamu
+Invoice and Packing Slip Design,Faktur dan Packing slip Desain
+Invoice and Ship,Faktur dan Kapal
+Invoice canceling problem.,Faktur membatalkan masalah.
+Invoice cannot be canceled.,Faktur tidak dapat dibatalkan.
+Invoice cannot be captured.,Faktur tidak dapat ditangkap.
+Invoice cannot be voided.,Faktur tidak dapat dibatalkan.
+Invoice capturing problem.,Masalah menangkap faktur.
+Invoice void problem,Faktur batal masalah
+Invoice will be created without communication with payment gateway.,Faktur akan dibuat tanpa komunikasi dengan gateway pembayaran.
+Invoiced,Faktur
+Invoiced:,Faktur:
+Invoices,Faktur
+Is Closed,Ditutup
+Item,Barang
+Item Status,Item Status
+Item object is not specified.,Objek Item tidak ditentukan.
+Item options declaration error.,Item pilihan kesalahan deklarasi.
+Item ordered qty,Item memerintahkan qty
+Item qty declaration error.,Item kesalahan deklarasi qty.
+Items,Item
+Items Invoiced,Item Faktur
+Items Ordered,Item Memerintahkan
+Items Refunded,Item Dikembalikan
+Items Shipped,Item Dikirimkan
+Items in the Package,Item di Paket tersebut
+Items maximum quantity or price do not allow checkout.,Item jumlah maksimum atau harga tidak memungkinkan checkout.
+Items options declaration error.,Pilihan item kesalahan deklarasi.
+Items to Refund,Item untuk Pengembalian
+Items to Ship,Item ke Kapal
+Key,Kunci
+Last Name,Nama Terakhir
+Last Ordered Items,Produk terakhir Memerintahkan
+Last status can\'t be unassigned from state.,Status terakhir dapat \ 't belum ditetapkan dari negara.
+Length,Panjangnya
+Link to the New Order,Link ke Orde Baru
+Link to the Previous Order,Link ke Orde Sebelumnya
+Logo for HTML Print View,Logo untuk HTML Cetak View
+"Logo for HTML documents only. If empty, default will be used.<br />(jpeg, gif, png)","Logo untuk dokumen HTML saja. Jika kosong, default akan digunakan. <br /> (Jpeg, gif, png)"
+Logo for PDF Print-outs (200x50),Logo untuk PDF Print-out (200x50)
+Make Check payable to:,Membuat Periksa hutang kepada:
+Manage,Mengelola
+Maximum amount available to refund is %s,Jumlah maksimum yang tersedia untuk pengembalian adalah%s
+Maximum shipping amount allowed to refund is: %s,Jumlah pengiriman maksimum yang diizinkan untuk pengembalian adalah:%s
+Message,Pesan
+Message:,Pesan:
+Minimum Amount,Jumlah minimal
+Minimum Order Amount,Pesanan Jumlah Minimum
+Mixed,Campur
+Most Viewed,Terbanyak Dilihat
+Most Viewed Products Report,Terbanyak Dilihat Produk Laporan
+Move to Shopping Cart,Pindah ke Keranjang Belanja
+Move to Wishlist,Pindah ke Daftar Keinginan
+Multi-address Description Message,Multi-alamat Deskripsi Pesan
+Multi-address Error to Show in Shopping Cart,Multi-alamat Kesalahan ke Show di Keranjang Belanja
+My Orders,Pesanan saya
+My Orders - Details,Pesanan saya - Detail
+N/A,N / A
+Name,Nama
+New,Baru
+New Billing Agreement,Perjanjian Penagihan baru
+New Credit Memo,New Memo Kredit
+New Credit Memo for Guest,Memo Kredit baru untuk Guest
+New Credit Memo for Invoice #%s,Memo Kredit baru untuk Faktur #%s
+New Credit Memo for Order #%s,Memo Kredit baru untuk Pesanan #%s
+New Invoice,Faktur baru
+New Invoice and Shipment for Order #%s,Faktur baru dan Pengiriman Order #%s
+New Invoice for Guest,Faktur baru untuk Guest
+New Invoice for Order #%s,Faktur baru untuk Pesanan #%s
+New Order,Pesanan Baru
+New Order Confirmation Email Sender,Orde Baru Konfirmasi Email Sender
+New Order Confirmation Template,New Template Konfirmasi Pesanan
+New Order Confirmation Template for Guest,New Template Konfirmasi Pesanan untuk Tamu
+New Order RSS,Orde Baru RSS
+New Order Status,New Status Pesanan
+New Order for Guest,Orde Baru untuk Tamu
+New Shipment,Pengiriman baru
+New Shipment for Guest,Pengiriman baru untuk Guest
+New Shipment for Order #%s,Pengiriman baru untuk Pesanan #%s
+Newsletter Subscription,Newsletter Berlangganan
+No,Tidak
+No Items,Tidak ada Item
+No Items To Refund,Tidak ada Produk Untuk Pengembalian
+No Payment Methods,Tidak ada Metode Pembayaran
+"No detail for number ""%s""","Tidak ada detail untuk nomor ""%s"""
+No information available.,Tidak ada informasi yang tersedia.
+No items,Tidak ada item
+No order(s) were put on hold.,Tidak ada order  yang ditahan.
+No order(s) were released from holding status.,Tidak ada order  dibebaskan dari statusnya memegang.
+No ordered items,Tidak ada barang pesanan
+No shipping information available,Tidak ada informasi pengiriman yang tersedia
+Nominal Items,Nominal Produk
+Nominal item can be purchased standalone only. To proceed please remove other items from the quote.,Item nominal dapat dibeli mandiri saja. Untuk melanjutkan silahkan menghapus item lainnya dari kutipan.
+Nominal order registered.,Agar Nominal terdaftar.
+Not Capture,Tidak Tangkap
+Not Initialized,Tidak diinisialisasi
+Not Notified,Tidak Diberitahu
+Not enough valid data to save the parent transaction ID.,Data yang valid tidak cukup untuk menyimpan ID transaksi induk.
+Notification Not Applicable,Pemberitahuan Tidak Berlaku
+Notified,Diberitahu
+Notify Customer by Email,Beritahu Pelanggan Lewat Email
+Number,Nomor
+Number of Invoiced Orders,Jumlah Pesanan faktur
+Number of Orders,Jumlah Pesanan
+Number of Refunded Orders,Jumlah Pesanan Dikembalikan
+OK,OKE
+Offline Refunded,Offline Dikembalikan
+On Hold,Pada Tahan
+Online Refunded,Online Dikembalikan
+Order,Pesanan
+Order #,Pesanan #
+Order # ,Pesanan #
+Order # %s,Pesanan #%s
+Order # %s %s | %s,Pesanan #%s%s |%s
+Order #%s,Pesanan #%s
+Order #%s - %s,Pesanan #%s -%s
+Order API,Agar API
+Order Address Information,Agar Informasi Alamat
+Order Comment,Agar Komentar
+Order Comment Email Sender,Agar Komentar Email Sender
+Order Comment Email Template,Agar Template Komentar Email
+Order Comment Email Template for Guest,Agar Komentar Template Email untuk Tamu
+Order Comments,Memesan Komentar
+Order Credit Memos,Agar Kredit Memo
+Order Currency:,Memesan Mata Uang:
+Order Date,Tanggal Pemesanan
+Order Date (%s),Urutan Tanggal (%s)
+Order Date: ,Tanggal Pemesanan:
+Order Date: %s,Urutan Tanggal:%s
+Order Details,Detail rangka
+Order Grand Total,Agar Grand Total
+Order History,Pesanan Sejarah
+Order History Info,Agar Info Sejarah
+Order ID,Id pemesanan
+Order Information,Informasi rangka
+Order Invoices,Agar Faktur
+Order Shipments,Agar Pengiriman
+Order State,Agar Negara
+Order Status,Status Pemesanan
+Order Status Information,Informasi Status Pesanan
+Order Statuses,Agar Status
+Order Subtotal,Agar Subtotal
+Order Taxes Report Grouped by Tax Rates,Agar Pajak Laporkan Dikelompokkan oleh Tarif Pajak
+Order Total,Pesanan Jumlah
+Order Totals,Agar Total
+Order Update,Urutan update
+Order Update for Guest,Agar Pembaruan untuk Tamu
+Order View,Agar View
+Order credit memo,Memo kredit agar
+Order does not allow to be canceled.,Agar tidak memungkinkan untuk dibatalkan.
+Order invoice,Agar faktur
+Order is suspended as its authorizing amount %s is suspected to be fraudulent.,Agar ditangguhkan sebagai yang jumlah otorisasi%s diduga menjadi penipuan.
+Order is suspended as its capture amount %s is suspected to be fraudulent.,Agar ditangguhkan sebagai yang jumlah penangkapan%s diduga menjadi penipuan.
+Order object is not specified.,Objek agar tidak ditentukan.
+Order saving error: %s,Memesan menyimpan kesalahan:%s
+Order shipments,Agar pengiriman
+Order status does not exist.,Status pesanan tidak ada.
+Order status with the same status code already exist.,Status pesanan dengan kode status yang sama sudah ada.
+Order was placed using %s,Agar ditempatkan menggunakan%s
+Ordered,Memerintahkan
+Ordered amount of %s.,Jumlah memerintahkan%s.
+Ordering amount of %s is pending approval on gateway.,Jumlah memesan%s sedang menunggu persetujuan pada gateway.
+Orders,Pesanan
+Orders and Returns,Pesanan dan Pengembalian
+Orders and Returns Search Form,Perintah dan Pengembalian Formulir Cari
+Original Price,Asli Harga
+Original order item that recurring payment profile correspondss to.,Item asli agar berulang profil pembayaran correspondss untuk.
+PDF Credit Memos,Memo PDF Kredit
+PDF Invoices,Faktur PDF
+PDF Packingslips,PDF Packingslips
+PDF Print-outs,PDF Print-out
+PDF object is not specified.,Objek PDF tidak ditentukan.
+PDF page object is not specified.,Objek halaman PDF tidak ditentukan.
+PDF total model should extend Mage_Sales_Model_Order_Pdf_Total_Default,PDF Jumlah Model harus memperpanjang Mage_Sales_Model_Order_Pdf_Total_Default
+Package,Paket
+Package types are disregarded for USPS domestic shipments.,Jenis paket yang diabaikan untuk USPS pengiriman domestik.
+Packages,Paket
+Packingslip # ,Packingslip #
+Paid,Dibayar
+Paid Amount,Dibayar Jumlah
+Parent Transaction ID,ID Transaksi Induk
+Parent transaction ID must have a transaction ID.,ID transaksi orangtua harus memiliki ID transaksi.
+Partial,Sebagian
+Payment Failed,Pembayaran Gagal
+Payment Information,Informasi Pembayaran
+Payment Method,Metode Pembayaran
+Payment Method Name,Cara Pembayaran Nama
+Payment Method:,Metode Pembayaran:
+Payment Review,Ulasan Pembayaran
+Payment disallow storing objects.,Larang Pembayaran menyimpan benda-benda.
+Payment transactions disallow storing objects.,Transaksi pembayaran tidak mengijinkan menyimpan benda-benda.
+Payment type,Tipe pembayaran
+Payment update has been made.,Update pembayaran telah dibuat.
+Pending,Tertunda
+Pending Payment,Tertunda Pembayaran
+Period,Periode
+Place Order Using Billing Agreements,Pesanan Menggunakan Perjanjian Penagihan
+Placed from IP,Ditempatkan dari IP
+Please Select Products to Add,Silakan Pilih Produk untuk Tambah
+Please Select a Customer,Silakan Pilih Pelanggan
+Please Select a Store,Silakan Pilih Store
+Please check billing address information. %s,Silakan cek penagihan informasi alamat. %s
+Please check shipping address information. %s,Silakan cek pengiriman informasi alamat. %s
+Please define PDF object before using.,Silakan menentukan objek PDF sebelum menggunakan.
+Please enter positive number in this field.,Silakan masukkan nomor positif dalam bidang ini.
+Please select a valid payment method.,Silakan pilih metode pembayaran yang sah.
+Please specify a shipping method.,Tentukan metode pengiriman.
+Please specify a valid grid column alias name that exists in grid table.,Tentukan valid kolom kotak nama alias yang ada di meja kotak.
+Price,Harga
+Print,Mencetak
+Print All,Cetak Semua
+Print All Invoices,Cetak Semua Faktur
+Print All Refunds,Cetak Semua Pengembalian
+Print All Shipments,Cetak Semua Pengiriman
+Print Credit Memos,Memo cetak Kredit
+Print Invoice,Cetak Faktur
+Print Invoices,Faktur cetak
+Print Order,Print Order
+Print Order # %s,Print Order #%s
+Print Packingslips,Packingslips cetak
+Print Refund,Cetak Refund
+Print Shipment,Cetak Pengiriman
+Print Shipping Label,Cetak Pengiriman Label
+Print Shipping Labels,Cetak Pengiriman Label
+Processing,Pengolahan
+Product,Produk
+Product Name,Nama Produk
+Products,Produk
+Products Bestsellers Report,Produk Terlaris Laporan
+Products in Comparison List,Produk dalam Daftar Perbandingan
+Products should be added to package(s),Produk harus ditambahkan ke paket 
+Profile #%s,Profil #%s
+Profile Information,Informasi Profil
+Profile State,Profil Negara
+Profit,Laba
+Promotion Coupons Usage Report,Promosi Kupon Penggunaan Laporan
+Proper payment object must be set.,Objek pembayaran tepat harus ditetapkan.
+Purchase Order Number:,Pesanan Pembelian Nomor:
+Purchased From,Dibeli Dari
+Purchased From (Store),Dibeli Dari (Toko)
+Purchased Item,Dibeli Barang
+Purchased On,Dibeli Pada
+Qty,Qty
+Qty Invoiced,Jumlah tagihan
+Qty Ordered,Jumlah Memerintahkan
+Qty Shipped,Jumlah Dikirimkan
+Qty To Add,Jumlah Tambah
+Qty to Add,Jumlah Tambah
+Qty to Invoice,Jumlah untuk Faktur
+Qty to Refund,Jumlah untuk Pengembalian
+Qty to Ship,Jumlah ke Kapal
+Quantity Ordered,Kuantitas Memerintahkan
+Quote item id is not received.,Item quote id tidak diterima.
+Quote item is not loaded.,Item kutipan tidak dimuat.
+Rate,Laju
+Recent Orders,Pesanan baru-baru ini
+Recently Compared Products,Produk baru Dibandingkan
+Recently Viewed,Baru Saja Dilihat
+Recently Viewed Products,Produk Baru Dilihat
+Recurring Profile # %s,Berulang Profil #%s
+Recurring Profile Initial Fee,Berulang Profil Biaya Awal
+Recurring Profiles,Profil Berulang
+Recurring Profiles (beta),Profil berulang (beta)
+Reference ID,Referensi ID
+Reference ID:,Referensi ID:
+Refresh,Menyegarkan
+Refund,Pembayaran kembali
+Refund #,Refund #
+Refund #%s,Refund #%s
+Refund Amount,Jumlah Pengembalian Dana
+Refund Offline,Refund Offline
+Refund Shipping,Pengembalian Pengiriman
+Refund Shipping (Excl. Tax),Pengembalian Pengiriman (Excl. Pajak)
+Refund Shipping (Incl. Tax),Pengembalian Pengiriman (Termasuk. Pajak)
+Refund Totals,Total pengembalian
+Refunded,Dikembalikan
+Refunded amount of %s offline.,Jumlah dikembalikan%s offline.
+Refunded amount of %s online.,Jumlah dikembalikan%s online.
+Refunds,Pengembalian
+Registered a Void notification.,Terdaftar pemberitahuan Void.
+Registered notification about approved payment.,Pemberitahuan Terdaftar tentang pembayaran disetujui.
+Registered notification about captured amount of %s.,Pemberitahuan terdaftar sekitar jumlah ditangkap dari%s.
+Registered notification about denied payment.,Pemberitahuan Terdaftar tentang pembayaran ditolak.
+Registered notification about refunded amount of %s.,Pemberitahuan terdaftar sekitar jumlah dikembalikan dari%s.
+Registered update about approved payment.,Update terdaftar tentang pembayaran disetujui.
+Registered update about denied payment.,Update terdaftar tentang pembayaran ditolak.
+Regular Payment,Regular Pembayaran
+Related Orders,Pesanan Terkait
+Remove,Menghapus
+Remove Coupon Code,Hapus Kode Kupon
+Remove tracking number,Hapus nomor pelacakan
+Reorder,Menyusun ulang
+Retrieve credit memo info,Mengambil info memo kredit
+Retrieve credit memo information,Mengambil informasi memo kredit
+Retrieve credit memo list,Ambil daftar memo kredit
+Retrieve invoice info,Mengambil info faktur
+Retrieve invoice information,Mengambil informasi faktur
+Retrieve list of credit memos by filters,Daftar memo kredit dengan filter mengambil
+Retrieve list of invoices by filters,Daftar faktur oleh filter mengambil
+Retrieve list of orders by filters,Daftar pesanan oleh filter mengambil
+Retrieve list of shipments by filters,Daftar pengiriman oleh filter mengambil
+Retrieve order information,Mengambil informasi pesanan
+Retrieve orders info,Mengambil pesanan Info
+Retrieve shipment info,Mengambil info pengiriman
+Retrieve shipment information,Mengambil informasi pengiriman
+Return to Stock,Kembali ke Bursa
+Returned,Kembali
+Returns,Pengembalian
+Revenue,Pendapatan
+Row Subtotal,Row Subtotal
+Row Total,Row Jumlah
+SKU,SKU
+Sales,Penjualan
+Sales Discount,Penjualan Diskon
+Sales Emails,Penjualan Email
+Sales Emails Section,Penjualan Email Bagian
+Sales Invoice Print View,Penjualan Faktur Cetak View
+Sales Items,Penjualan Produk
+Sales Order Print View,Orde penjualan Cetak View
+Sales Section,Penjualan Bagian
+Sales Shipment Print View,Penjualan Pengiriman Cetak View
+Sales Shipping,Penjualan Pengiriman
+Sales Tax,Pajak Penjualan
+Sales Total,Penjualan total
+Same As Billing Address,Sama Seperti Penagihan Alamat
+Save Order Address,Simpan Orde Alamat
+Save Status,Kirimkan Status
+Save Status Assignment,Kirimkan Status Tugas
+Save in address book,Simpan dalam buku alamat
+Schedule,Susunan Acara
+Select,Memilih
+Select All,Pilih Semua
+Select from existing customer addresses:,Pilih dari alamat pelanggan yang sudah ada:
+Selected option(s) or their combination is not currently available.,Memilih opsi  atau kombinasi mereka saat ini tidak tersedia.
+Send Credit Memo Comment Email Copy To,Kirim Memo Kredit Copy Komentar Email Untuk
+Send Credit Memo Comments Email Copy Method,Kirim Memo Komentar Cara Kredit Email Copy
+Send Credit Memo Email Copy Method,Kirim Cara Copy Email Memo Kredit
+Send Credit Memo Email Copy To,Kirim Memo Kredit Copy Email Untuk
+Send Email,Mengirim Email
+Send Invoice Comment Email Copy To,Kirim Faktur Komentar Email Salin Untuk
+Send Invoice Comments Email Copy Method,Kirim Komentar Cara Copy Email Faktur
+Send Invoice Email Copy Method,Kirim Cara Copy Email Faktur
+Send Invoice Email Copy To,Kirim Faktur Copy Email Untuk
+Send Order Comment Email Copy To,Kirim Pesanan Copy Komentar Email Untuk
+Send Order Comments Email Copy Method,Kirim Pesanan Komentar Email Cara Copy
+Send Order Email,Kirim Pesanan Email
+Send Order Email Copy Method,Kirim Orde Email Cara Copy
+Send Order Email Copy To,Kirim Pesanan Copy Email Untuk
+Send Sales Emails,Kirim Email Penjualan
+Send Shipment Comment Email Copy To,Kirim Pengiriman Copy Komentar Email Untuk
+Send Shipment Comments Email Copy Method,Kirim Pengiriman Komentar Email Cara Copy
+Send Shipment Email Copy Method,Kirim Cara Copy Email Pengiriman
+Send Shipment Email Copy To,Kirim Pengiriman Copy Email Untuk
+Send Tracking Information,Kirim Pelacakan Informasi
+Send shipment info,Mengirim info pengiriman
+Set order for existing transactions not allowed,Agar ditetapkan untuk transaksi yang ada tidak diperbolehkan
+Ship,Kapal
+Ship To,Dikirim Ke
+Ship to Name,Kapal ke Nama
+Ship to:,Dikirim ke:
+Shipment,Pengiriman
+Shipment #,Pengiriman #
+Shipment #%1$s | %3$s (%2$s),Pengiriman% # 1 $ s |% 3 $ s (% 2 $ s)
+Shipment #%s,Pengiriman #%s
+Shipment Comment Email Sender,Pengiriman Komentar Email Sender
+Shipment Comment Email Template,Pengiriman Template Komentar Email
+Shipment Comment Email Template for Guest,Pengiriman Template Komentar Email untuk Tamu
+Shipment Comments,Pengiriman Komentar
+Shipment Email Sender,Pengiriman Email Sender
+Shipment Email Template,Pengiriman Template Email
+Shipment Email Template for Guest,Pengiriman Template Email untuk Tamu
+Shipment Update,Pengiriman Perbarui
+Shipment Update for Guest,Pengiriman Pembaruan untuk Tamu
+Shipments,Pengiriman
+Shipped,Dikirimkan
+Shipped By,Dikirim Oleh
+Shipping,Pengiriman
+Shipping & Handling,Pengiriman & Penanganan
+Shipping &amp; Handling,Pengiriman & amp; Penanganan
+Shipping &amp; Handling Information,Pengiriman & amp; Penanganan Informasi
+Shipping Address,Alamat Pengiriman
+Shipping Amount,Pengiriman Jumlah
+Shipping Information,Pengiriman Informasi
+Shipping Method,Metode Pengiriman
+Shipping Method:,Metode Pengiriman:
+Shipping Refund,Pengiriman Pembayaran
+Shipping and Tracking Information,Pengiriman dan Informasi Pelacakan
+Shopping Cart,Kereta Belanja
+Show Packages,Tampilkan Paket
+Signature Confirmation,Signature Konfirmasi
+Signed Up From,Mendaftar Dari
+Size,Ukuran
+Sku,Sku
+Sold to:,Dijual ke:
+Some item options or their combination are not currently available.,Beberapa pilihan item atau kombinasi mereka saat ini tidak tersedia.
+Some of the products below do not have all the required options.,Beberapa produk di bawah ini tidak memiliki semua pilihan yang diperlukan.
+Some of the selected options are not currently available.,Beberapa opsi yang dipilih saat ini tidak tersedia.
+"Sorry, no quotes are available for this order at this time.","Maaf, tidak ada kutipan yang tersedia untuk pesanan ini saat ini."
+Source object is not specified.,Sumber objek tidak ditentukan.
+Specified profile does not exist.,Profil yang ditentukan tidak ada.
+State Code [State Title],Kode Negara [Judul Negara]
+State/Province,Negara Bagian / Provinsi
+Status,Status
+Status Code,Status Kode
+Status Label,Status Label
+Status:,Status:
+Store Credit,Toko Kredit
+Store View Specific Labels,Toko View Label Tertentu
+Street Address,Alamat Jalan
+Submit Comment,Kirim Komentar
+Submit Credit Memo,Kirim Memo Kredit
+Submit Invoice,Kirim Faktur
+Submit Invoice and Shipment,Kirim Faktur dan Pengiriman
+Submit Order,Kirim Pesanan
+Submit Shipment,Kirim Pengiriman
+Subscribe to Newsletter,Berlangganan Newsletter
+Subscribe to Order Status,Berlangganan Memesan Status
+Subtotal,Subtotal
+Subtotal after discount.,Subtotal setelah diskon.
+Subtotal:,Subtotal:
+Suspected Fraud,Diduga Penipuan
+Suspend,Menangguhkan
+Suspended,Tergantung
+Tax,Pajak
+Tax Amount,Jumlah pajak
+Tax Percent,Persen Pajak
+Telephone,Telepon
+"The Order State ""%s"" must not be set manually.","Orde Negara ""%s"" tidak harus diatur secara manual."
+The address total model should be extended from Mage_Sales_Model_Quote_Address_Total_Abstract.,Alamat Total Model harus diperluas dari Mage_Sales_Model_Quote_Address_Total_Abstract.
+"The billing agreement ""%s"" has been canceled.","Perjanjian penagihan ""%s"" telah dibatalkan."
+"The billing agreement ""%s"" has been created.","Perjanjian penagihan ""%s"" telah dibuat."
+The coupon code has been accepted.,Kode kupon telah diterima.
+The message has been sent.,Pesan telah dikirim.
+The message was sent.,Pesan itu dikirim.
+The order address has been updated.,Alamat pesanan telah diperbarui.
+The order email has been sent.,Email pesanan telah dikirim.
+The order has been cancelled.,Pesanan telah dibatalkan.
+The order has been created.,Pesanan telah dibuat.
+The order has been put on hold.,Pesanan telah ditahan.
+The order has been released from holding status.,Pesanan telah dibebaskan dari statusnya memegang.
+The order has not been cancelled.,Order belum dibatalkan.
+The order status has been assigned.,Status pesanan telah ditetapkan.
+The order status has been saved.,Status pesanan telah disimpan.
+The order status has been unassigned.,Status pesanan telah ditugaskan.
+The order was not put on hold.,Perintah itu tidak ditahan.
+The order was not unheld.,Perintah itu tidak unheld.
+The order was placed using %s,Urutan ditempatkan menggunakan%s
+The order(s) cannot be canceled,Urutan  tidak dapat dibatalkan
+The payment has been accepted.,Pembayaran telah diterima.
+The payment has been denied.,Pembayaran telah ditolak.
+The payment has been voided.,Pembayaran telah voided.
+The profile has been updated.,Profil telah diperbarui.
+The profile has no changes.,Profil tidak memiliki perubahan.
+The profile state has been updated.,Negara profil telah diperbarui.
+The quantity you want to add exceeds the total shipped quantity for some of selected Product(s),Jumlah yang Anda ingin menambahkan melebihi jumlah total yang dikirim untuk beberapa Produk yang dipilih 
+The requested Payment Method is not available.,Diminta Metode Pembayaran tidak tersedia.
+The shipping label has been created.,Label pengiriman telah dibuat.
+"The transaction ""%s"" (%s) is already closed.","Transaksi ""%s"" (%s) sudah ditutup."
+"The transaction ""%s"" cannot be captured yet.","Transaksi ""%s"" tidak dapat ditangkap belum."
+The value that you entered is not valid.,Nilai yang Anda masukkan tidak valid.
+There are no billing agreements yet.,Tidak ada perjanjian penagihan belum.
+There are no printable documents related to selected orders.,Tidak ada dokumen dicetak berhubungan dengan perintah yang dipilih.
+There are no shipping labels related to selected orders.,Tidak ada label pengiriman terkait dengan perintah yang dipilih.
+There are no shipping labels related to selected shipments.,Tidak ada label pengiriman terkait dengan pengiriman yang dipilih.
+There is no need to approve this payment.,Tidak perlu untuk menyetujui pembayaran ini.
+There is no need to deny this payment.,Tidak perlu menyangkal pembayaran ini.
+There is no update for the payment.,Tidak ada update untuk pembayaran.
+This message will be shown in shopping cart when subtotal after discount less than minimum amount.,Pesan ini akan ditampilkan di keranjang belanja ketika subtotal setelah diskon kurang dari jumlah minimum.
+This operation requires an existing transaction object.,Operasi ini membutuhkan objek transaksi yang ada.
+"This order contains (%s) items and therefore cannot be edited through the admin interface at this time, if you wish to continue editing the (%s) items will be removed, the order will be canceled and a new order will be placed.","Pesanan ini mengandung (%s) item dan karena itu tidak dapat diedit melalui antarmuka admin saat ini, jika Anda ingin melanjutkan mengedit (%s) item akan dihapus, pesanan akan dibatalkan dan tatanan baru akan ditempatkan."
+This order no longer exists.,Agar ini tidak ada lagi.
+This product does not have any configurable options,Produk ini tidak memiliki pilihan konfigurasi
+"This profile state cannot be changed to ""%s"".","Negara profil ini tidak dapat diubah ke ""%s""."
+"This will create an offline refund. To create an online refund, open an invoice and create credit memo for it. Do you wish to proceed?","Ini akan membuat pengembalian offline. Untuk membuat pengembalian dana secara online, membuka faktur dan membuat memo kredit untuk itu. Apakah Anda ingin melanjutkan?"
+Tier Pricing,Tier Harga
+Title,Judul
+To,Untuk
+To Name,Untuk Nama
+To:,Untuk:
+Total,Total
+Total %d product(s),Jumlah produk%d 
+Total (ex),Total (ex)
+Total (inc),Total (inc)
+Total Due,Total Karena
+Total Invoiced,Total tagihan
+Total Invoiced Paid,Total tagihan dibayar
+Total Invoiced VS Paid Report,Total tagihan VS Dibayar Laporan
+Total Invoiced not Paid,Total tagihan tidak dibayar
+Total Ordered Report,Jumlah Laporan Memerintahkan
+Total Paid,Jumlah Dibayar
+Total Qty,Total Qty
+Total Refund,Total Pembayaran
+Total Refunded,Jumlah Dikembalikan
+Total Refunded Report,Jumlah Laporan Dikembalikan
+Total Sales Shipping,Total Penjualan Pengiriman
+Total Shipped Report,Jumlah Laporan Dikirimkan
+Total Shipping,Jumlah Pengiriman
+Total Shipping Charges,Total Biaya Pengiriman
+Total Tax,Jumlah Pajak
+Total Weight,Berat Total
+Total model should be extended from Mage_Sales_Model_Order_Total_Abstract.,Jumlah Model harus diperluas dari Mage_Sales_Model_Order_Total_Abstract.
+Track Order,Lagu Orde
+Track all shipment(s),Melacak semua pengiriman 
+Track all shipments,Melacak semua pengiriman
+Track this shipment,Melacak kiriman ini
+Track your order,Lacak pesanan Anda
+Tracking,Pelacakan
+Tracking Number,Nomor pelacakan
+Tracking Number(s):,Nomor pelacakan :
+"Transaction ""%s"" was already processed.","Transaksi ""%s"" sudah diproses."
+Transaction # %s | %s,Transaksi #%s |%s
+Transaction ID,ID transaksi
+Transaction ID must not be empty.,ID transaksi tidak boleh kosong.
+"Transaction ID: ""%s"".","ID Transaksi: ""%s""."
+Transaction Type,Jenis transaksi
+Transactions,Transaksi
+Trial ,Percobaan
+Trial Payment,Percobaan Pembayaran
+Trial Period,Periode Percobaan
+Trial period payment,Pembayaran masa percobaan
+Type,Jenis
+Unassign,Unassign
+Unhold,Lepaskan
+Unhold action is not available.,Tindakan Lepaskan tidak tersedia.
+Unhold order,Agar Lepaskan
+Unknown State,Diketahui Negara
+Unknown Status,Status tidak diketahui
+"Unsupported transaction type ""%s"".","Jenis transaksi yang tidak didukung ""%s""."
+Update Changes,Perbarui Perubahan
+Update Items and Qty\'s,Perbarui Produk dan Jumlah \ 's
+Update Qty\'s,Perbarui Qty \ 's
+Updated At,Diperbarui Pada
+Updated:,Diperbarui:
+Use Aggregated Data (beta),Gunakan Gabungan Data (beta)
+Use Order Status As Default,Gunakan Status Pesanan Sebagai Default
+Validate Each Address Separately in Multi-address Checkout,Validasi Setiap Alamat Secara terpisah di Multi-alamat Checkout
+Value,Nilai
+View,Pandangan
+View All,Lihat Semua
+View Another Order,Lihat Orde lain
+View Order,Lihat Orde
+Visible on Frontend,Terlihat pada Frontend
+Void,Kekosongan
+Void invoice,Faktur Void
+Voided authorization.,Otorisasi Voided.
+Website,Situs web
+Weight,Berat
+Whether buyer can define the date when billing for the profile begins.,Apakah pembeli dapat menentukan tanggal ketika penagihan untuk profil dimulai.
+Width,Lebar
+Wishlist,Daftar Keinginan
+Wrong billing agreement ID specified.,Penagihan salah kesepakatan ID ditentukan.
+Wrong quote item id to update configuration.,Salah kutipan barang id untuk memperbarui konfigurasi.
+"Wrong state: ""%s"".","Negara yang salah: ""%s""."
+Yes,Iya Nih
+You can leave a box blank if you don\'t wish to add a gift message for whole order,Anda dapat meninggalkan sebuah kotak kosong jika anda tidak \ 't ingin menambahkan pesan hadiah untuk seluruh pesanan
+You don\'t have permissions to manage this order because of one or more products are not permitted for your website.,Anda don \ 't memiliki izin untuk mengelola urutan ini karena satu atau lebih produk tidak diizinkan untuk website Anda.
+You have placed no orders.,Anda telah menempatkan tidak ada perintah.
+You will be redirected to the payment system website.,Anda akan diarahkan ke situs web sistem pembayaran.
+Your credit card will be charged for,Kartu kredit Anda akan dikenakan biaya untuk
+ZIP Code,Kode Pos
+ZIP/Post Code,ZIP / Kode Pos
+Zip/Postal Code,Zip / Postal Code
+cm,cm
+in,di
+kg,kg
+lb,lb
+the credit memo email is not sent,email memo kredit tidak dikirim
+the credit memo email was sent,email memo kredit dikirim
+the invoice email is not sent,email faktur tidak dikirim
+the invoice email was sent,email invoice dikirim
+the order confirmation email is not sent,email konfirmasi pesanan tidak dikirim
+the order confirmation email was sent,email konfirmasi pesanan dikirim
+the shipment email is not sent,email pengiriman tidak dikirim
+the shipment email was sent,email kiriman dikirim
