@@ -1,4 +1,4 @@
 # Indonesia-Locale
 Magento Indonesian Language Pack
 
-I don't know waht to say :p
+I don't know what to say :p
