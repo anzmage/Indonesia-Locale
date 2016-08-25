@@ -1,51 +1,51 @@
-"Sorry, you must be logged in to post a comment.","Sorry, you must be logged in to post a comment."
-"Your WordPress home URL %s is invalid.  Please fix the <a href=\"%s\">home option</a>.","Your WordPress home URL %s is invalid.  Please fix the <a href=\"%s\">home option</a>."
-Search,Search
-"No results found.","No results found."
-Categories,Categories
-"%s Comments","%s Comments"
-"No Comments","No Comments"
-"1 Comment","1 Comment"
-Comment,Comment
-Reply,Reply
-"Leave a Reply","Leave a Reply"
-"Your comment is awaiting moderation.","Your comment is awaiting moderation."
-"%s at %s","%s at %s"
-Name,Name
+"Sorry, you must be logged in to post a comment.","Maaf, anda harus login terlebih dahulu untuk memberi komentar."
+"Your WordPress home URL %s is invalid.  Please fix the <a href=\"%s\">home option</a>.","Alamat URL beranda WordPress  %s tidak valid.  Mohon perbaikin <a href=\"%s\">pengaturan beranda</a>."
+Search,Cari
+"No results found.","Tidak ada hasil ditemukan."
+Categories,Kategori
+"%s Comments","%s Komentar"
+"No Comments","Tidak Ada Komentar"
+"1 Comment","1 Komentar"
+Comment,Komentar
+Reply,Balasan
+"Leave a Reply","Tinggalkan Balasan"
+"Your comment is awaiting moderation.","Komentar anda sedang menunggu moderasi."
+"%s at %s","%s pada %s"
+Name,Nama
 Email,Email
-Website,Website
-Pages,Pages
-Links,Links
-Archives,Archives
-"Select Month","Select Month"
+Website,Situs
+Pages,Halaman
+Links,Tautan
+Archives,Arsip
+"Select Month","Pilih Bulan"
 Meta,Meta
-"Entries <abbr title=\"Really Simple Syndication\">RSS</abbr>","Entries <abbr title=\"Really Simple Syndication\">RSS</abbr>"
-"Powered by WordPress, state-of-the-art semantic personal publishing platform.","Powered by WordPress, state-of-the-art semantic personal publishing platform."
-"Select Category","Select Category"
-"Recent Posts","Recent Posts"
-"Recent Comments","Recent Comments"
-"%s on %s","%s on %s"
+"Entries <abbr title=\"Really Simple Syndication\">RSS</abbr>","Entri <abbr title=\"Really Simple Syndication\">RSS</abbr>"
+"Powered by WordPress, state-of-the-art semantic personal publishing platform.","Didukung oleh WordPress, platform publikasi personal semantik terbaik."
+"Select Category","Pilih Kategori"
+"Recent Posts","Artikel Terbaru"
+"Recent Comments","Komentar Terbaru"
+"%s on %s","%s pada %s"
 "Tag Cloud","Tag Cloud"
-Tags,Tags
-"Comment on %s by %s","Comment on %s by %s"
-"By: %s","By: %s"
-"Error establishing a database connection","Error establishing a database connection"
-Password,Password
-"&laquo; Previous","&laquo; Previous"
-"Next &raquo;","Next &raquo;"
-Close,Close
-January,January
-February,February
-March,March
+Tags,Tag
+"Comment on %s by %s","Komentar pada %s oleh %s"
+"By: %s","Oleh: %s"
+"Error establishing a database connection","Gagal melakukan koneksi database"
+Password,Kata Sandi
+"&laquo; Previous","&laquo; Sebelumnya"
+"Next &raquo;","Berikut &raquo;"
+Close,Tutup
+January,Januari
+February,Februari
+March,Maret
 April,April
-May,May
-June,June
-July,July
-August,August
+May,Mei
+June,Juni
+July,Juli
+August,Agustus
 September,September
-October,October
+October,Oktober
 November,November
-December,December
+December,Desember
 Jan_January_abbreviation,Jan_January_abbreviation
 Feb_February_abbreviation,Feb_February_abbreviation
 Mar_March_abbreviation,Mar_March_abbreviation
@@ -58,45 +58,45 @@ Sep_September_abbreviation,Sep_September_abbreviation
 Oct_October_abbreviation,Oct_October_abbreviation
 Nov_November_abbreviation,Nov_November_abbreviation
 Dec_December_abbreviation,Dec_December_abbreviation
-Sunday,Sunday
-Monday,Monday
-Tuesday,Tuesday
-Wednesday,Wednesday
-Thursday,Thursday
-Friday,Friday
-Saturday,Saturday
-Sun,Sun
-Mon,Mon
-Tue,Tue
-Wed,Wed
-Thu,Thu
-Fri,Fri
-Sat,Sat
-"Please wait...","Please wait..."
+Sunday,Minggu
+Monday,Senin
+Tuesday,Selasa
+Wednesday,Rabu
+Thursday,Kamis
+Friday,Jumat
+Saturday,Sabtu
+Sun,Min
+Mon,Sen
+Tue,Sel
+Wed,Rab
+Thu,Kam
+Fri,Jum
+Sat,Sab
+"Please wait...","Mohon tunggu..."
 Path,Path
 Plugin,Plugin
-Author,Author
-Type,Type
-"Previous Post","Previous Post"
-"Next Post","Next Post"
-"Protected: %s","Protected: %s"
-Home,Home
-Submit,Submit
-Published,Published
-"Search Posts","Search Posts"
-Image,Image
-"An unidentified error has occurred.","An unidentified error has occurred."
-of,of
-Add,Add
-"Leave a comment","Leave a comment"
-"Daily Archives: %s","Daily Archives: %s"
-"Monthly Archives: %s","Monthly Archives: %s"
-"Continue reading <span class=\"meta-nav\">&rarr;</span>","Continue reading <span class=\"meta-nav\">&rarr;</span>"
-"This entry was posted in %s and tagged %s on %s<span class=\"by-author\"> by %s</span>.","This entry was posted in %s and tagged %s on %s<span class=\"by-author\"> by %s</span>."
-"This entry was posted in %s on %s<span class=\"by-author\"> by %s</span>.","This entry was posted in %s on %s<span class=\"by-author\"> by %s</span>."
-"This entry was posted on %s<span class=\"by-author\"> by %s</span>.","This entry was posted on %s<span class=\"by-author\"> by %s</span>."
-Position,Position
-"Install %s","Install %s"
-"Update to version %s","Update to version %s"
-"Default Template","Default Template"
-"You have version %s installed. Update to %s.","You have version %s installed. Update to %s."
+Author,Penulis
+Type,Tipe
+"Previous Post","Artikel Sebelumnya"
+"Next Post","Artikel Berikutnya"
+"Protected: %s","Diproteksi: %s"
+Home,Beranda
+Submit,Kirim
+Published,Dipublikasikan
+"Search Posts","Cari Artikel"
+Image,Gambar
+"An unidentified error has occurred.","Terjadi kesalahan yang tidak dikenal."
+of,dari
+Add,Tambah
+"Leave a comment","Tinggalkan komentar"
+"Daily Archives: %s","Arsip Harian: %s"
+"Monthly Archives: %s","Arsip Bulanan: %s"
+"Continue reading <span class=\"meta-nav\">&rarr;</span>","Lanjutkan membaca <span class=\"meta-nav\">&rarr;</span>"
+"This entry was posted in %s and tagged %s on %s<span class=\"by-author\"> by %s</span>.","Entri ini diposkan di %s dan diberi tag %s pada %s<span class=\"by-author\"> oleh %s</span>."
+"This entry was posted in %s on %s<span class=\"by-author\"> by %s</span>.","Entri ini diposkan di %s pada %s<span class=\"by-author\"> oleh %s</span>."
+"This entry was posted on %s<span class=\"by-author\"> by %s</span>.","Entri ini diposkan pada %s<span class=\"by-author\"> oleh %s</span>."
+Position,Posisi
+"Install %s","Instal %s"
+"Update to version %s","Perbaharui ke versi %s"
+"Default Template","Template Default"
+"You have version %s installed. Update to %s.","Anda memiliki versi %s. Perbaharui ke %s."
